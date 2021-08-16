@@ -1,0 +1,29 @@
+Teemo, o Explorador Veloz
+Atirador, Assassino
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Teemo.png
+
+Técnicas de Guerrilha
+Se Teemo permanecer imóvel e não fizer nada por um curto período, fica Invisível por tempo indefinido. Caso esteja em um arbusto, Teemo pode manter sua Invisibilidade enquanto se move. Ao sair da Invisibilidade, Teemo ativa Elemento Surpresa, aumentando a própria Velocidade de Ataque por alguns segundos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Teemo_P.png
+
+Dardo Ofuscante
+Obscurece a visão de um inimigo com um poderoso veneno, causando dano à unidade-alvo e cegando-a pela duração do efeito.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/BlindingDart.png
+
+Mover Depressa
+Teemo corre por aí, aumentando passivamente sua Velocidade de Movimento até que seja atingido por um Campeão ou torre inimiga. Ele pode sair em disparada para receber Velocidade de Movimento adicional que não é interrompida por ataques por um certo período.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/MoveQuick.png
+
+Tiro Tóxico
+Cada um dos ataques de Teemo envenenará o alvo, causando dano no impacto e a cada segundo seguinte por 4 segundos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ToxicShot.png
+
+Armadilha Venenosa
+Teemo arremessa uma armadilha venenosa explosiva usando um dos cogumelos que guardou na mochila. Se um inimigo pisar na armadilha, ela soltará uma nuvem venenosa que causa dano e reduz a velocidade de inimigos ao longo do tempo. Se Teemo arremessar um cogumelo em cima de outro, ele saltará, recebendo alcance adicional.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TeemoRCast.png
+
+Indiferente até aos obstáculos mais perigosos e ameaçadores, Teemo vasculha o mundo com infinito entusiasmo e animação. Um yordle com uma inabalável moral que se orgulha de seguir o Código dos Escoteiros de Bandópolis, às vezes com tanta dedicação que não se toca das possíveis consequências de suas ações. Embora alguns duvidem da existência dos escoteiros, uma coisa é certa: nunca se deve duvidar das convicções de Teemo.
+
+Teemo é uma lenda entre seus irmãos e irmãs yordle de Bandópolis. No que diz respeito a todos os yordles, parece que lhe falta um ou outro parafuso. Ele demonstra e aproveita o companheirismo de sua raça ao mesmo tempo em que insiste em ir sozinho para missões de defesa da cidade. Embora tenha uma personalidade acolhedora, há algo em sua mente que desliga durante os combates, para que sua consciência não pese com as vidas que ele tira. Mesmo quando era apenas um jovem recruta, seus treinadores e colegas achavam desconcertante que, enquanto ele era normalmente encantador e gentil, se tornava compenetrado, sério e deveras eficiente logo no primeiro minuto de combate. Os superiores de Teemo rapidamente o direcionaram para os Escoteiros da Matriarca, uma das mais distintas forças especiais de Bandópolis, juntamente com os Comandos de Megling.
+A maioria dos yordles não domina missões solo de patrulha com a finesse necessária, mas isso não é um problema para Teemo, que as executa de maneira notável e eficaz. Seu registro de sucesso em defender Bandópolis de invasores faz dele um dos yordles mais perigosos ainda vivos, embora seja impossível notar tal fato quando ele está em sua pousada preferida apreciando uma caneca de hidromel. Sua arma inconfundível - uma zarabatana - faz uso de um veneno raríssimo que ele mesmo recolhe nas selvas de Kumungu. Para suportar os longos períodos de isolamento, ele firmou amizade com Tristana, membra das Forças Especiais de Bandópolis. Teemo é um adversário que muitos vêm a temer, e cujo terror é inversamente proporcional à altura.
+

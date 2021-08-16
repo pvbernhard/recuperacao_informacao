@@ -1,0 +1,40 @@
+Taric, o Escudo de Valoran
+Suporte, Lutador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Taric.png
+
+Bravata
+Conjurações fortalecem os próximos 2 ataques básicos de Taric, causando Dano Mágico adicional, reduzindo Tempos de Recarga e atacando em rápida sucessão.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Taric_Passive.png
+
+Fulgor Estelar
+Cura Campeões aliados próximos com base nas cargas armazenadas. Ataques fortalecidos por Bravata concedem uma carga de Fulgor Estelar.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TaricQ.png
+
+Bastião
+Aumenta passivamente a Armadura de Taric e de qualquer Campeão aliado com Bastião. Protege ativamente um aliado e lhe concede Bastião por todo o tempo que permanecer próximo a Taric. As habilidades de Taric também são conjuradas a partir do aliado com Bastião.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TaricW.png
+
+Deslumbrar
+Taric prepara um feixe de luz estelar que, após um breve intervalo, causa Dano Mágico e atordoa inimigos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TaricE.png
+
+Resplendor Cósmico
+Faz pulsar energia cósmica em Campeões aliados próximos após um intervalo, tornando-os invulneráveis por um curto período.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TaricR.png
+
+Taric é o Aspecto do Protetor, portando um incrível poder como o guardião da vida, do amor e da beleza de Runeterra. Punido por faltar ao cumprimento de seu dever e exilado de Demacia, sua terra natal, Taric subiu o Monte Targon em busca de redenção, mas acabou por descobrir um chamado maior dentre as estrelas. Imbuído do poder ancestral de Targon, o Escudo de Valoran agora mantém vigilância contra a pérfida corrupção do Vazio.
+
+Para os nobres defensores de Demacia, a própria vida cotidiana é um modelo da dedicação inabalável e altruísta aos ideais do rei e da nação. Convocado para seguir a longa tradição de serviço militar de sua família, Taric nunca pensou em ignorar essa responsabilidade, muito embora não fizesse ideia de quem e do que ele defenderia. O jovem guerreiro treinava muito e demonstrava excelentes habilidades marciais. Mesmo assim, em suas poucas horas vagas, ele encontrava outras maneiras de servir à pátria. Como voluntário dos Iluminadores, cuidava dos doentes ou ajudava a reconstruir casas afetadas pelas inundações. Seus talentos criativos, ele emprestava aos pedreiros e artesãos que erguiam monumentos para homenagear a Protetora Alada e os nobres ideais que ela representava.
+Uma obra de arte. A vida do próximo. Essas eram as coisas que faziam todos quererem lutar por Demacia. Taric via todas essas coisas como belas, frágeis e dignas de proteção.
+Felizmente, seu jeito encantador e seu carisma o poupavam de qualquer crítica dos outros soldados ou comandantes. Aos poucos, ele foi conquistando postos mais altos e até lutou ao lado de um jovem Garen Stemmaguarda.
+Ironicamente, a constante ascensão de Taric seria o grande motivo de sua queda, pelo menos no contexto de Demacia.
+Promovido à prestigiosa Vanguarda Destemida, agora ele precisava se adequar a padrões de conduta ainda mais rígidos. Não podia mais vagar pelas florestas à procura de animais raros, faltar aos exercícios de combate para ficar em uma taberna e ouvir a balada de um bardo, nem sumir das inspeções das fileiras para contemplar o manto prateado da noite caindo sobre o campo. Taric começou a se sentir em conflito consigo mesmo e logo foi taxado de insubordinado.
+Garen ordenou que ele mudasse de comportamento e cumprisse seu dever. Ele achava que Taric tinha potencial para se tornar um dos maiores heróis de Valoran, mas parecia estar menosprezando tanto o destino quando o seu país.
+Para não ser rebaixado, Taric foi destacado para servir ao capitão-espada da Vanguarda, mas nenhum dos dois ficou muito feliz com isso. No entanto, quando o homem mais velho foi morto em batalha junto com o resto de sua comitiva pessoal, soube-se que Taric tinha abandonando seu posto... e houve rumores de que ele tinha sido visto vagando pelas ruínas de um templo nas redondezas.
+Não havia mais nada a dizer. Uma dezena de guerreiros estavam mortos e Taric foi condenado à decapitação.
+Entretanto, para salvar o amigo, Garen interveio. Como sucessor do capitão-espada, ele sentenciou Taric a suportar "a Coroa de Pedra". Seguindo as tradições mais antigas de Demacia, ele teria que escalar o Monte Targon, uma provação a que poucos sobreviviam.
+Embora a Coroa de Pedra em geral servisse para que os desonrados simplesmente fugissem de Demacia e começassem uma nova vida no exílio, Taric tomou o primeiro navio em direção ao sul e jurou que realmente repararia seu erro. Em vários momentos, a escalada quase tirou a vida de Taric. Mas ele ignorou a dor, os fantasmas de seus companheiros mortos e outras provações que a montanha lhe impôs. Ao se aproximar do cume, foi atacado por uma onda de novas visões de derrota e destruição.
+Viu a grande Biblioteca de Alabastro em chamas... e, mesmo assim, correu em direção ao fogo para salvar as poesias celestiais de Tung. Gritou de aflição quando os Praeglacius jogaram o último cervo-sonho no Abismo Uivante... e depois saltou no precipício, em uma tentativa desesperada de salvá-lo. Na entrada do Bastião Imortal, Taric caiu de joelhos quando viu o corpo sem vida de Garen pendurado em uma forca... depois, levantou-se e investiu contra as hordas de Noxus. Quando as visões finalmente desapareceram, ele se viu no cume montanha, e não estava sozinho. Diante dele, havia algo que lembrava a forma de um homem, embora suas feições quase cristalinas brilhassem com a luz das estrelas e sua voz fosse uma miríade de sussurros que cortavam Taric como uma lâmina.
+Ele disse verdades que, de certa forma, Taric já sabia. Falou do manto para o qual ele, inconscientemente, tinha se preparado a vida inteira, a cada decisão e ação que o trouxeram até aqui, ao Targon.
+E Taric seria o Escudo de Valoran nas grandes guerras que ainda estavam por vir.
+Renascido como o Aspecto do Protetor, dotado de poder e propósito inimagináveis para a maioria dos mortais, ele aceitou com prazer esse novo chamado para ser o guardião resoluto de um mundo inteiro.

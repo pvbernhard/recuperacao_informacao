@@ -1,0 +1,37 @@
+Ornn, O Fogo sob a Montanha
+Tanque, Lutador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Ornn.png
+
+Forja Viva
+Ornn recebe Armadura e Resistência Mágica adicionais de todas as origens. Ele pode gastar ouro para forjar itens não consumíveis em qualquer lugar. Além disso, ele pode criar itens magistrais para si mesmo e para seus aliados.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/OrnnP.png
+
+Ruptura Vulcânica
+Ornn bate no chão, dispersando uma fissura que causa dano e reduz a velocidade dos inimigos atingidos. Após um breve intervalo, um pilar de magma se forma no ponto final.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OrnnQ.png
+
+Fôlego do Fole
+Ornn avança cuspindo fogo. Inimigos atingidos pelo último sopro de fogo tornam-se Frágeis.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OrnnW.png
+
+Investida Calcinante
+Ornn se lança em investida, causando dano aos inimigos sobre os quais passar. Se Ornn colidir com o terreno enquanto estiver em investida, o impacto criará uma onda de choque que causará dano e arremessará os inimigos ao ar.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OrnnE.png
+
+Chamado do Deus da Forja
+Ornn invoca um elemental gigante em um ponto, que viaja até ele cada vez mais rápido. Inimigos atropelados pelo elemental sofrem dano, têm a velocidade reduzida e ficam Frágeis. Ornn pode reconjurar a habilidade para dar uma investida no elemental para redirecioná-lo na direção em que ele o acertar, fazendo com que o elemental arremesse ao ar todos os inimigos que ele atingir, causando o mesmo dano e reaplicando Frágil.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OrnnR.png
+
+Ornn é o espírito Freljordano da forja e da artesania. Ele trabalha na solidão de uma enorme fornalha, construída a marteladas por entre as cavernas de lava do vulcão Pedra-Lar. Lá, ele aquece caldeirões de pedra fundida para purificar metais e forjar itens de qualidade insuperável. Quando outras divindades — principalmente Volibear — descem à Terra para intervir nos assuntos dos mortais, Ornn aparece para colocar esses seres impetuosos em seu devido lugar, seja com seu fiel martelo ou com o poder ardente das próprias montanhas.
+
+Houve um tempo em que o nome de Ornn era conhecido em todas as terras que um dia viriam a ser Freljord. Era de amplo conhecimento que ele era o primogênito dos antigos semideuses, que haviam moldado a própria terra e gerado as primeiras nevadas.
+Mais do que qualquer outro indivíduo de sua espécie, dizia-se que Ornn valorizava sua privacidade, solidão e concentração. Sob um vulcão adormecido que carregava as cicatrizes de alguma erupção antiga, ele trabalhava dia e noite, forjando tudo o que seu coração mandava. Os produtos de seu trabalho eram ferramentas inestimáveis destinadas a feitos lendários. Os poucos sortudos que chegavam a ver uma dessas relíquias logo viam sua qualidade extraordinária. Alguns até dizem que o escudo de Braum foi feito por Ornn há milhares de anos – e continua tão firme quanto no dia em que foi forjado.
+Porém, ninguém sabe ao certo, já que ninguém consegue encontrar o deus da forja para perguntar diretamente a ele. Quase todos os contos dos feitos e conquistas de Ornn foram extirpados da história por seus inimigos e pelo lento passar do tempo.
+Os poucos que restaram ainda são lembrados pelas poucas tribos cujas linhagens têm raízes em uma única civilização de ferreiros, arquitetos e mestres cervejeiros. Essas pessoas, há muito extintas, eram conhecidas como Sangue da Fornalha, aprendizes que vinham de todas as partes de Valoran e se reuniam nas encostas da Pedra-Lar para seguir o exemplo de Ornn.
+Apesar dessa espécie de adoração, Ornn nunca se considerou o patrono deles. O máximo que ele fazia era acenar brevemente ou franzir o cenho quando alguém oferecia a ele seu trabalho. Os Sangue da Fornalha o aceitavam assim e sentiam-se determinados a melhorar suas habilidades. Consequentemente, eles conseguiram criar ferramentas refinadas, projetar estruturas sólidas e fermentar as cervejas mais saborosas que o mundo já provou. Acreditavam que Ornn aprovava secretamente sua perseverança e o fato de que estavam sempre buscando melhorar suas criações.
+Porém, em uma certa noite catastrófica, tudo que os Sangue da Fornalha haviam criado foi destruído quando Ornn enfrentou seu irmão Volibear no alto da montanha, por razões que iam além da compreensão de meros mortais. A catástrofe gerada foi uma tempestade de fogo, cinzas e raios tão intensa e violenta que podia ser vista a dez horizontes de distância.
+Quando a poeira baixou, Pedra-Lar não passava de uma caldeira em brasas e os Sangue da Fornalha eram apenas ossos e cinzas.
+Apesar de nunca admitir, Ornn estava devastado. Através dos Sangue da Fornalha, ele vislumbrara o vasto potencial da vida mortal, mas viu tudo aquilo se perder diante da fúria indiscriminada de sua batalha imortal. Assolado pela culpa, refugiou-se na solidão de sua fornalha e dedicou-se apenas ao trabalho por um longo período.
+Agora, talvez ele sinta que o mundo está prestes a adentrar uma nova era. Alguns de seus irmãos parecem ter voltado a assumir formas físicas, e seus cultos de seguidores crescem de forma persistente e agressiva. Até mesmo Freljord se dividiu e está sem liderança, os horrores de outrora estão à espreita nas sombras, esperando o momento certo para atacar...
+Durante as guerras que estão por vir, e em meio ao caos que elas deixarão em seu encalço, Ornn sabe que Freljord, e toda Runeterra, precisarão de um bom ferreiro.
+

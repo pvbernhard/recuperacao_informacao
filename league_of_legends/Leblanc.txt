@@ -1,0 +1,43 @@
+LeBlanc, a Farsante
+Assassino, Mago
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Leblanc.png
+
+Imagem-Espelho
+Quando a Vida de LeBlanc está abaixo de 40%, ela fica invisível por 1s e cria uma Imagem-Espelho que não causa dano e dura até 8s.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/LeBlancP.png
+
+Sigilo de Malícia
+LeBlanc projeta um Sigilo, causando dano e marcando o alvo por 3,5s. Causar dano ao alvo marcado com qualquer habilidade detona o Sigilo, causando dano adicional.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LeblancQ.png
+
+Distorção
+LeBlanc avança até um local, causando dano aos inimigos próximos de seu destino. Pelos próximos 4s, ativar Distorção novamente faz com que LeBlanc retorne até sua posição inicial.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LeblancW.png
+
+Correntes Etéreas
+LeBlanc lança uma corrente que prende a primeira unidade atingida. Se o alvo permanecer preso por 1,5s, ele é enraizado e sofre dano adicional.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LeblancE.png
+
+Mímica
+Leblanc conjura uma versão copiada de uma de suas habilidades.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LeblancR.png
+
+Misteriosa mesmo para os outros membros da Rosa Negra, LeBlanc é somente um dos muitos nomes de uma mulher pálida que tem manipulado pessoas e eventos desde os primeiros dias de Noxus. Usando sua magia para espelhar a si mesma, a feiticeira pode aparecer para qualquer um, em qualquer lugar e mesmo em vários lugares ao mesmo tempo. Sempre planejando às escondidas, as verdadeiras motivações de LeBlanc são tão inescrutáveis quanto sua identidade inconstante.
+
+A identidade de LeBlanc, a matrona da Rosa Negra, é tão intangível quanto os sussurros que a descrevem, tão efêmera quanto as ilusões que lhe dão forma. Talvez nem mesmo ela a conheça, depois de tantos séculos de imitações e artimanhas...
+ 
+Restos de uma ordem cuja existência em muito ultrapassa a de Noxus, iniciados na Rosa Negra têm conspirado nas sombras por séculos, atraindo os ricos e poderosos para seu meio. Apesar de eles, em geral, não saberem das origens de sua matrona, muitos descobriram lendas que contam sobre uma pálida feiticeira que auxiliou as tribos bárbaras divididas na sua luta contra o infame Revenã de Ferro que subjugou as terras que já estavam destruídas pelos darkin. Mesmo hoje seu nome é dito entre sussurros de medo: Mordekaiser.
+ 
+A feiticeira, cujas habilidades únicas a distinguiam no círculo íntimo do revenã antes de traí-lo, prometeu neutralizar a fonte do seu poder, o Bastião Imortal, separando-o do poço da morte que alimentava seu império tenebroso. No entanto, os bárbaros, que construíam seu império na sombra do bastião, não notaram que os segredos arcanos que ele guardava não haviam sido trancafiados completamente. A feiticeira pálida sempre fora agraciada pelo dom da ilusão e seu maior truque foi fazer com que Noxus esquecesse do poder sombrio que permeava seu próprio coração, antes que ela fosse queimada das páginas da história na época das Guerras Rúnicas.
+ 
+A Rosa Negra agora existe para levar adiante os interesses daqueles que podem utilizar essa magia, com sua base composta de nobres banais, atraídos pelos boatos de milagres, mantidos prisioneiros por feitiços e explorados impiedosamente. Mesmo o mais poderoso dos comandantes militares teve que servir aos verdadeiros mestres do culto, pois eles disputam entre si por influência em um jogo de intrigas e conquistas, tanto na capital noxiana quanto além de suas fronteiras. Por séculos, LeBlanc serviu em segredo como uma conselheira para dignitários estrangeiros, aparecendo em muitas nações ao mesmo tempo, com suas ilusões transformando a ordem em caos. Boatos de uma nova matrona que surgia com cada geração só levantaram mais questões; qual seria a “verdadeira” versão dela? Quando ela fala, é com sua própria voz? E qual seria o preço dos favores que ela oferece?
+Boram Darkwill não foi o último a descobrir a resposta dessa última pergunta. Apesar de a Rosa Negra ter ajudado sua busca pelo trono, ele recusou o conselho dos seus conselheiros escolhidos a dedo, forçando LeBlanc a tomar medidas drásticas. Depois de manipular o jovem nobre chamado Jericho Swain para revelar o envolvimento do culto, LeBlanc permitiu que a executassem junto de seus conspiradores mais proeminentes... ou foi o que ela fez parecer. No momento mais oportuno, ela se apresentou a Darkwill, encontrando um governante cada vez mais paranoico, temeroso de sua própria mortalidade.
+ 
+Depois de prometer lhe revelar os segredos que estenderiam sua vida, LeBlanc envenenou a mente de Darkwill lentamente, ao mesmo tempo que o fortalecia. Sob seu governo, a reverência à força de Noxus se tornou ainda mais sinistra e, juntos, eles garantiram que a lenda de Swain terminaria em desgraça nos campos de batalha de Ionia.
+ 
+Mas Swain, encorajado pelo conhecimento proibido vindo do Bastião Imortal, fez algo totalmente inesperado, conseguindo expulsar Darkwill do trono e conquistar Noxus para si mesmo. Esse novo Grande General não estava interessado no seu próprio legado, mas na glória de todo o império, e um homem assim não poderia ser facilmente corrompido. Depois de incontáveis séculos, LeBlanc se perguntou se ela finalmente encontrara um inimigo a sua altura.
+ 
+Suas ações colocaram Runeterra na beira de uma guerra generalizada muitas vezes. No rescaldo das campanhas desesperadas por Freljord, nos picos de Targon e nas profundezas dos desertos de Shurima, a mais sombria das magias começou a se espalhar novamente, aproximando-se cada vez mais de Noxus. Seja LeBlanc a mesma feiticeira pálida que traiu o Revenã de Ferro ou somente um de seus incontáveis reflexos, sua influência claramente vem de raízes antigas.
+ 
+A Rosa Negra ainda há de florescer de verdade.
+

@@ -1,0 +1,41 @@
+Shen, o Olho do Crepúsculo
+Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Shen.png
+
+Barreira de Ki
+Após conjurar uma habilidade, Shen recebe um escudo. Afetar outros Campeões reduz o Tempo de Recarga desse efeito.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Shen_Passive.png
+
+Ataque Crepúsculo
+Shen chama sua espada espiritual para atacar com ela, causando dano com base na Vida máxima do alvo. Os ataques são fortalecidos drasticamente caso ela colida com um Campeão inimigo. Todos os Campeões com quem ela colide têm a velocidade reduzida enquanto fogem de Shen.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ShenQ.png
+
+Refúgio Espiritual
+Ataques que atingiriam Shen ou seus aliados próximos à sua espada espiritual são bloqueados.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ShenW.png
+
+Corrida das Sombras
+Shen avança em uma direção, provocando inimigos em seu trajeto.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ShenE.png
+
+Manter a União
+Shen protege o Campeão-alvo aliado do dano recebido e, em seguida, teleporta-se para seu local.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ShenR.png
+
+Para os guerreiros ionianos sigilosos conhecidos como Kinkou, Shen, o Olho do Crepúsculo, é um líder. Ele busca permanecer livre da confusão das emoções, preconceito ou ego, caminhando pelo caminho nunca visto do julgamento imparcial entre o reino dos espíritos e o mundo físico. Incumbido de impor harmonia entre os dois, Shen empunha lâminas de aço e energia arcana contra qualquer um que ameaçar o equilíbrio.
+
+Um enigma para o mundo espiritual, assim como para o mundo mortal, Shen não pertence a nenhum dos dois. Embora seja filho de uma das famílias mais respeitadas de Navori, foi a função de seu pai como Olho do Crepúsculo que selou seu destino na Ordem Kinkou.
+Como filho do Grande Mestre Kusho, ele cresceu imerso na cultura da ordem e seus princípios fundamentais eram tão corriqueiros para ele quanto o pôr do sol ioniano. Ele sabia que era necessário Podar a Árvore, que era preciso determinação para Percorrer o Sol, mas acima de tudo, ter a sabedoria para Observar as Estrelas. Ele passou a infância meditando e estudando, e era considerado um aluno exemplar por todos os professores. Seu melhor amigo, o único comparável a ele nos exercícios práticos, era o jovem acólito Zed. Eles foram criados como irmãos, muitas vezes confidenciando um ao outro seus sonhos e esperanças mais pessoais. Quando queria outro ponto de vista sobre algum assunto, Shen recorria a Zed, e os dois ficaram conhecidos como os alunos mais promissores da Ordem Kinkou.
+Com o desenvolvimento de suas habilidades, Kusho começou a levá-los em missões perigosas, incluindo uma caçada ao Demônio Dourado, que andava aterrorizando a província de Zhyun. A busca durou anos, mas Shen manteve-se determinado, mesmo depois de desvendar inúmeros assassinatos pavorosos. Quando finalmente capturaram o "demônio", descobriram que se tratava de Khada Jhin, um mero assistente de palco de um teatro itinerante. Em vez de executá-lo, o Grande Mestre Kusho resolveu mantê-lo prisioneiro.
+Embora ele e Zed acreditassem que o criminoso merecia uma pena mais pesada, Shen acatou a decisão de seu pai. Ele tentava reproduzir o desapego do Olho do Crepúsculo e se considerava incapaz de apaziguar Zed, cada vez mais ressentido e amargurado.
+Até quando a paz das Primeiras Terras foi ameaçada por invasores noxianos, Shen, relutantemente, apoiou a inércia de Kusho. Quando Zed abandonou os Kinkou para se juntar à luta, Shen permaneceu entre os muros do templo.
+Em pouco tempo, muitas das províncias já haviam sido ocupadas pelos inimigos. Apesar disso, Shen se concentrou em manter a harmonia espiritual de Ionia. De tal modo que, mesmo longe de casa, ele sentiu um desequilíbrio atordoante na Ordem Kinkou. Voltando às pressas, ele se deparou com os sobreviventes de um golpe sangrento. Eles contaram que Zed tinha reunido seus próprios discípulos e tomado posse do templo.
+Pior que isso, o pai de Shen tinha sido morto por aquele que um dia ele teve como irmão.
+Reprimindo sua angústia, ele levou os Kinkou que restaram em segurança para as montanhas. A partir desse momento, Shen assumiu a espada espiritual de seu pai e também o título de Olho do Crepúsculo. Sua função não era buscar vingança, mas reconstruir a ordem. Seguindo os princípios fundamentais, ele começou a recrutar e a treinar outros discípulos, na esperança de restaurar a força da ordem.
+Uma discípula em particular demonstrou infinito potencial. Shen ensinou a garota, Akali Jhomen Tethi, a dominar as artes da furtividade e do subterfúgio. A mãe dela, Mayym, tinha estado ao lado de Kusho como o Punho das Sombras e aparentemente a filha seguiria o mesmo caminho. Mesmo assim, Shen se via forçado a pedir moderação sempre que Akali tentava revidar contra seus inimigos mortais.
+Quando Noxus finalmente recuou, muitos ionianos comemoraram a vitória da resistência. Outros, como Shen, suportaram as consequências da guerra. Ele persistia em seu dever e, em seu íntimo, combatia seu ódio por Zed e duvidada de sua própria capacidade de liderar. Os anos de conflito tinham afetado profundamente as Primeiras Terras e Shen não tinha certeza se a reconstrução dos Kinkou conseguiria algum dia restaurar o equilíbrio.
+Na verdade, mesmo Akali tendo se tornado a nova Punho das Sombras, ele sentia que ela começava a se afastar. Depois de um tempo, ela renunciou abertamente aos ensinamentos dele e deixou a ordem.
+Shen meditou, observando as estrelas, e entendeu que Akali precisaria encontrar seu próprio caminho… assim como os Kinkou.
+Às vezes, em meio aos conflitos ocultos do reino espiritual, Shen ainda pondera sobre o valor de suas crenças. Ele nunca deixou que suas emoções impedissem-no de manter as tradições, mas a questão permanece: por quanto tempo um homem pode caminhar por dois mundos, sem que as ações de um destruam o outro?
+
+

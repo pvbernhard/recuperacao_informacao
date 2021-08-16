@@ -1,0 +1,42 @@
+Gnar, o Yordle Pré-Histórico
+Lutador, Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Gnar.png
+
+Fúria Genética
+Enquanto está em combate, Gnar gera Fúria. Quando atinge o máximo de Fúria, sua próxima habilidade o transformará em Mega-Gnar, concedendo mais condições de sobrevivência e acesso a novas habilidades.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Gnar_Passive.png
+
+Bumerangue / Pedregulho
+Gnar lança um bumerangue que causa dano e Lentidão a inimigos que atinge antes de retornar a ele. Caso apanhe o bumerangue, seu Tempo de Recarga é reduzido. Mega Gnar arremessa um pedregulho que para na primeira unidade atingida, causando dano e Lentidão a tudo o que estiver próximo. Em seguida, ele pode ser apanhado para reduzir o Tempo de Recarga.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GnarQ.png
+
+Hiperativo / Safanão
+Os ataques e habilidades de Gnar o animam, causando dano adicional e concedendo Velocidade de Movimento. Mega Gnar fica enfurecido demais para ficar hiperativo. Em vez disso, ele pode subir em duas patas e atingir a área à sua frente, atordoando inimigos em área.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GnarW.png
+
+Salto / Encontrão
+Gnar salta em um local e atinge a cabeça de qualquer unidade em que aterrissar, deslocando-se ainda mais. Mega Gnar é grande demais para saltar e, em vez disso, aterrissa com força para quebrar o chão, causando dano em área ao seu redor.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GnarE.png
+
+GNAR!
+Mega Gnar joga tudo o que estiver próximo de si em uma direção escolhida, causando dano e Lentidão. Qualquer inimigo que atingir uma parede fica atordoado e recebe dano adicional.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GnarR.png
+
+Gnar é um yordle primitivo cujas artimanhas brincalhonas podem irromper em uma raiva infantil em um instante, transformando-o em uma besta gigantesca determinada a destruir. Congelada em Gelo Verdadeiro por milênios, essa criatura curiosa se libertou e agora saltita por um mundo mudado, que ela vê como exótico e maravilhoso. Encantado pelo perigo, Gnar atira tudo que puder nos seus inimigos, seja seu bumerangue ou um prédio próximo.
+
+Antes do gelo dar nome ao Freljord, havia uma terra repleta de maravilhas - isto é, se alguém visse o mundo pelos olhos do Gnar.
+Um jovem yordle cheio de energia, Gnar e seus pares viviam livremente entre as resistentes tribos das terras do norte. Apesar de mal ter tamanho suficiente para deixar pegadas na neve, seu temperamento era comparável ao de feras dez vezes maiores que ele, e se qualquer coisinha desse errado, ele perdia o controle e explodia em uma enxurrada de xingamentos. Sendo assim, ele se identificava mais com criaturas maiores e mais sábias, que se mantinham distantes dos mortais. Gnar achava que essas criaturas pareciam yordles grandões e de pelos brancos... e para ele, isso já bastava.
+Enquanto as tribos percorriam a tundra em busca de comida, recolhendo frutinhas selvagens e musgos saborosos, Gnar coletava itens mais úteis, como rochas, pedrinhas e restos lamacentos de pássaros mortos. Seu maior tesouro era a mandíbula de um drüvask. Quando a arrancou da terra gelada, Gnar gritou de alegria e a jogou o mais longe que pôde.
+O osso caiu a dois pulos de distância.
+Empolgado com tamanho êxito, Gnar passou a carregar seu “bumerangue” para todo lado. O mundo fazia de tudo para oferecer novos encantos (fiapos brilhantes, néctar doce, coisinhas redondas), mas nenhum chegava aos pés da alegria que ele sentia ao jogar e pegar sua tão querida arma. Agora ele se considerava um caçador, e seguia bandos de animais selvagens que o ignoravam totalmente.
+Mas até ele era capaz de sentir as mudanças que se aproximavam. O céu parecia mais sombrio. O vento parecia mais frio. As tribos mortais que outrora buscavam comida juntas agora pareciam caçar umas às outras...
+Os yordles grandões e brancos saberiam o que fazer. Gnar resolveu procurá-los.
+Usando todas as suas habilidades de caçador, ele os encontrou nos picos nevados de uma grande cordilheira, muito mais longe do que qualquer lugar onde já tivesse visitado. Aproximando-se sem ser notado, ele viu um grande número de mortais. Era animador, mas ninguém mais parecia feliz com isso.
+Foi quando o solo tremeu e rachou no meio. Pela primeira vez na vida de Gnar, era como se todos estivessem fazendo birra ao mesmo tempo. Os mortais puseram-se a gritar. Os yordles maiores rugiam. Mas a chegada do monstro calou a todos.
+Ele saiu do gigantesco e recém-criado abismo, com chifres enormes, tentáculos em forma de chicotes e um único olho, que irradiava uma luz estranha e que deu um frio na espinha de Gnar. Alguns mortais fugiram ao ver a criatura, mas ele começou a sentir uma estranha dor no peito; a mesma a sensação que tinha ao achar que tinha perdido seu bumerangue ou ao pensar que nunca seria abraçado novamente. Essa coisa horrível queria machucar seus novos amigos.
+E isso o deixou irritado. Naquele momento, Gnar ficou realmente enfurecido. Tudo o que via em sua frente era o monstro. Nun piscar de olhos, ele disparou em direção à criatura. Com uma pata, ele pegou uma bola de neve... ou pelo menos achou que tinha pego. Na verdade, era uma pedra arrancada da própria montanha, pois Gnar crescera e ficara tão grande quanto um dos yordles grandões e brancos. Ele mandaria esse monstro de volta para onde ele veio com um safanão na cara!
+Mas o golpe não chegou a atingir seu alvo. Gnar sentiu um frio mais gelado que todos os invernos juntos, um que parecia transformar o próprio ar em gelo. De fato, essa magia elemental o petrificou, penetrando seu pelo desgrenhado. Tudo, inclusive o monstro, ficou imóvel. A força e a fúria do yordle se derreteram. Ele foi tomado por um cansaço profundo e adormeceu suavemente.
+Gnar tirou uma soneca muito longa. Quando finalmente acordou, ele sacudiu a neve dos ombros, respirando profundamente. Todos tinham sumido. Sem monstros contra quem lutar, nem amigos para proteger, ele se sentiu pequeno e sozinho de novo.
+A paisagem também estava muito diferente. Havia neve por toda parte, cobrindo tudo o que seus olhos conseguiam ver. Mesmo assim, ele gritou de felicidade ao ver seu amado bumerangue ao seu lado e correu para encontrar algo para caçar. Até hoje, Gnar não tem noção do que ocorreu naquele dia e nem de como ele escapou. Ele simplesmente admira o mundo à sua volta, com tantas coisas estranhas para coletar e lugares para explorar.
+
+

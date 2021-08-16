@@ -1,0 +1,38 @@
+Veigar, o Pequeno Mestre do Mal
+Mago
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Veigar.png
+
+Poder Maligno Fenomenal
+Veigar é o maior ser maligno a chegar ao coração de Runeterra - e vai ficar cada vez maior! Atingir um Campeão inimigo com uma habilidade ou executar um golpe final concede a Veigar um aumento permanente de Poder de Habilidade.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/VeigarEntropy.png
+
+Golpe Maligno
+Veigar faz um disparo de energia das trevas que causa Dano Mágico aos dois primeiros inimigos atingidos. Unidades abatidas por este disparo concedem a ele um pouco de Poder de Habilidade permanentemente.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/VeigarBalefulStrike.png
+
+Matéria Escura
+Veigar invoca uma grande massa de Matéria Escura que cai do céu sobre o local-alvo, causando Dano Mágico ao chegar no chão. Os acúmulos de Poder Maligno Fenomenal reduzem o Tempo de Recarga de Matéria Escura.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/VeigarDarkMatter.png
+
+Horizonte de Eventos
+Veigar distorce os limites do espaço, criando uma prisão que Atordoa os inimigos que a atravessam.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/VeigarEventHorizon.png
+
+Explosão Primordial
+Explode o Campeão-alvo inimigo, causando uma grande quantia de Dano Mágico, que aumenta com base na Vida perdida do alvo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/VeigarR.png
+
+Veigar, um mestre entusiasta da feitiçaria das trevas, aderiu a poderes dos quais poucos mortais se aproximam. Um habitante inconformado de Bandópolis, ele desejava ultrapassar as limitações da magia yordle, se voltando, então, para os textos arcanos que permaneceram escondidos por milhares de anos. Agora uma criatura teimosa com uma fascinação sem fim pelos mistérios do universo, Veigar é constantemente subestimado por outros. E mesmo que ele acredite ser verdadeiramente mau, ele possui um senso de ética interior que leva alguns a se perguntarem sobre suas verdadeiras motivações.
+
+A maior parte dos povos de Runeterra tipicamente não considera os yordles algo a ser temido. Seu lar de fábulas, Bandópolis, é considerado um lugar misterioso e espiritual, recheado de quinquilharias estranhas e lembrancinhas acumuladas por todo o mundo mortal. Apesar dessas curiosas criaturas habitualmente saírem para viver junto das raças mortais por algum tempo, elas normalmente voltam para casa com histórias e experiências novas para contar.
+Ainda assim, infelizmente, também há aqueles yordles que se perdem no caminho. Dentre eles está Veigar, o feiticeiro.
+Depois que a Grande Guerra dos Darkin colocou o mundo em ruínas muitos séculos atrás, a única luz que parecia brilhar em Valoran vinha dos céus. Os poucos sobreviventes espalhados se voltaram para os céus e seu estudo renovado da magia celestial antiga chamou a atenção de Veigar. Vendo a si mesmo como um mestre destas artes místicas, o yordle juntou-se a uma ordem de magos nos territórios de Noxii, esperando aprender mais sobre sua arte. Eles não pensaram em questionar este novato tão interessado e o ensinaram a retirar esperança dos padrões criados pelos movimentos das estrelas.
+Mas, enquanto muitos se esforçavam para reconstruir o mundo, outros buscavam conquistá-lo. O brutal mestre da guerra Mordekaiser e seus exércitos varreram as terras, destruindo e escravizando qualquer um que ousasse se opor às suas ordens, e os magos da ordem, sem experiência na guerra, eram de pouco valor ao tirano. Pairando sobre eles em sua armadura amaldiçoada, seus olhos atentos recaíram sobre Veigar, e Mordekaiser reconheceu o yordle pelo que ele realmente era. Ele o agarrou em uma manopla de ferro, arrastando seu prêmio para longe enquanto os outros magos foram entregues às espadas.
+Aprisionado no coração do novo e monolítico forte do mestre da guerra, Veigar foi forçado a usar sua magia para propósitos mais sombrios. Sabendo que yordles eram mais ardilosos do que as raças mortais, Mordekaiser prendeu Veigar no plano físico, impedindo que ele escapasse até mesmo para Bandópolis. Ele não era o único prisioneiro naquele lugar infernal, mas tal isolamento era a pior e mais cruel forma de tortura para um yordle. Veigar realizou encantos macabros contra sua vontade, alguns fortalecendo o domínio de seu mestre, outros simplesmente invocando terror por mero capricho.
+De fato, terror parecia ser o que alimentava este império medonho. Profundamente miserável, Veigar se tornou uma testemunha relutante dos feitos vis de Mordekaiser que o fortaleceram até se tornar quase imortal. Veigar nunca soube dizer ao certo se isso durou décadas ou séculos, mas a magia e aparência do yordle aos poucos se distorceu em resposta a isso…
+Memórias do seu passado se dissiparam. Por que ele viera para Valoran? De onde ele viera? Existira uma vida além dessa para ele? Perguntas como essa pesavam em sua mente frágil, como os últimos vislumbres de luz antes de um eclipse.
+Quando os próprios seguidores do revenã conspiraram contra ele, o pesadelo do seu reino acabou, mas, neste ponto, Veigar já estava quase irreconhecível. Seus olhos queimavam. Mesmo sua voz era apenas desdém e malícia. Fugindo de sua jaula enfeitiçada, a desgraçada criatura não tinha interesse nas guerras de sucessão que inevitavelmente se seguiram. Bem no fundo, ele provavelmente só queria ter de volta a segurança e liberdade que todos seres vivos desejam.
+Mas, ainda assim, ele escolheu não se distanciar do mal, mas aceitá-lo. Vestido em uma armadura digna de um bruxo sinistro, ele jurou conseguir respeito da única forma que conseguia lembrar: através de vilania implacável, inspirando medo em todos que o encontrassem. Ele chamaria a fúria das próprias estrelas sobre seus inimigos, prendendo-os nos infinitos atemporais entre os instantes.
+Ainda assim… Veigar não conseguia encontrar o mesmo sucesso de seu captor.
+Claro, até certo ponto, o bom povo de Valoran aprendeu a temê-lo. Era comum que encontrassem seus pastos queimados, ou a mansão do barão local destruída até não sobrar nada. No entanto, também era comum que bandos de salteadores fossem inexplicavelmente expulsos de seus esconderijos em florestas, ou encontrar restos de lobos trevoguaris selvagens espalhados pela praça da cidade. Era difícil dizer se estes atos eram maliciosos ou, de alguma forma, prestativos. Por todas suas aspirações de vilania, parecia que os esforços de Veigar não chegavam à altura. Ainda assim, o yordle nefasto não abandonou sua missão de se tornar o vilão mais maligno do mundo. Com seu cajado diabólico em mãos, ele busca nada mais do que colocar todos que encontra de joelhos e se diverte com a morte daqueles que ousam subestimá-lo.
+

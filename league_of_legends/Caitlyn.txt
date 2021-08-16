@@ -1,0 +1,35 @@
+Caitlyn, a Xerife de Piltover
+Atirador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Caitlyn.png
+
+Bem na Mira
+A cada poucos ataques básicos, ou contra um alvo preso em uma armadilha ou rede, Caitlyn fará um disparo Bem na Mira causando dano adicional que escala com sua Chance de Acerto Crítico. Em alvos presos por armadilhas ou pela rede, o alcance de Bem na Mira de Caitlyn é dobrado.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Caitlyn_Headshot.png
+
+Pacificadora de Piltover
+Caitlyn prepara seu rifle por 1s para fazer um disparo penetrante que causa Dano Físico (causa menos dano a alvos subsequentes).
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/CaitlynPiltoverPeacemaker.png
+
+Armadilha Mecânica Yordle
+Caitlyn coloca uma armadilha para encontrar yordles sorrateiros. Quando ativada, a armadilha revela e imobiliza o Campeão inimigo por 1,5s e concede a Caitlyn um Bem na Mira fortalecido.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/CaitlynYordleTrap.png
+
+Rede Calibre 90
+Caitlyn atira uma rede pesada para reduzir a velocidade do seu alvo. O recuo projeta Caitlyn para trás.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/CaitlynEntrapment.png
+
+Ás na Manga
+Caitlyn se concentra para fazer o disparo perfeito, causando dano drástico em um único alvo a uma longa distância. Campeões inimigos podem interceptar o projétil e tomar dano no lugar de seu aliado.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/CaitlynAceintheHole.png
+
+Conhecida como sua melhor pacificadora, Caitlyn também é a melhor escolha de Piltover para livrar a cidade de seus elementos criminosos elusivos. É comum que ela faça dupla com Vi, agindo como um contraponto de calmaria para a natureza impetuosa de sua parceira. Mesmo carregando um rifle hextec único, a arma mais poderosa de Caitlyn é seu intelecto superior, que permite que ela prepare elaboradas armadilhas para qualquer fora da lei tolo o suficiente para operar na Cidade do Progresso.
+
+Nascida em uma família rica e influente de artífices hextec, Caitlyn aprendeu muito cedo a lidar com as sutilezas da vida social de Piltover. No entanto, ela preferia passar seu tempo nas florestas que cercavam a cidade. Capaz de circular com a mesma desenvoltura entre a elite da Cidade do Progresso e em meio à floresta para caçar, ela conseguia rastrear os pássaros em voo sobre os distritos comerciais ou acertar uma lebre a longa distância com o mosquete de repetição de seu pai.
+Os maiores trunfos de Caitlyn, no entanto, eram sua inteligência e a vontade de aprender com os pais, que reforçavam sua compreensão do certo e do errado. Embora as habilidades de engenharia da família os tivessem tornado ricos, sua mãe sempre chamava a atenção dela para as tentações de Piltover e suas promessas grandiosas, capazes de endurecer até os corações mais bondosos. No início, Caitlyn dava pouca importância a isso. Para ela, Piltover era um lugar belo e organizado para onde adorava voltar depois de suas aventuras na natureza.
+Mas tudo isso mudaria alguns anos depois, no Dia do Progresso.
+Caitlyn voltou e encontrou sua casa saqueada. Os criados da família estavam todos mortos e não havia nenhum vestígio de seus pais. Caitlyn fechou a casa e partiu em busca deles.
+Caçar dentro de uma cidade era muito diferente de caçar na selva, mas, um por um, Caitlyn localizou os bandidos que tinham invadido sua casa. Nenhum deles sabia a identidade de quem os havia contratado. Sabiam apenas que havia um intermediário com a inicial C. Mesmo assim, Caitlyn conseguiu localizar e resgatar os pais de um laboratório hextec secreto, onde os dois estavam sendo forçados a trabalhar para um clã rival de comerciantes. Com as informações de Caitlyn, os Vigias de Piltover conseguiram prender o líder do clã responsável pelo sequestro, mas nem sinal do misterioso "C". Caitlyn e seus pais começaram a reconstruir suas vidas... mas algo essencial tinha mudado dentro dela. Agora ela enxergava que a ambição e a ganância eram tão mortais quanto uma fera acuada, e que estavam sempre à espreita sob a fachada reluzente de Piltover. Ela vira pessoas necessitadas e sabia que podia ajudá-las. Além disso, apesar de amar muito os pais, Caitlyn não tinha interesse em aprender o ofício da família.
+Ela passou a atuar como uma espécie de investigadora, usando suas habilidades de caça para encontrar pessoas perdidas e recuperar bens roubados. Em seu aniversário de vinte e um anos, os pais de Caitlyn a presentearam com um extraordinário rifle hextec, mais preciso do que um mosquete. A arma, que aceitava vários projéteis especiais e era facilmente adaptável durante o uso, acompanhava Caitlyn em todos os seus casos.
+Ela lucrava consideravelmente em uma profissão que lhe ensinara, em primeira mão, sobre o fascínio e o perigo do desenvolvimento experimental de tecnologias hextec e quimtec. Em poucos anos, ela se consolidou como alguém capaz de resolver desde questões mundanas até... as mais esotéricas. Após um caso particularmente traumático envolvendo a perda de um dispositivo hextec e uma série de desaparecimentos de crianças, Caitlyn foi convocada pelos Vigias. Ela havia sido recomendada por um deles, que também se dedicava a casos estranhos, e a luta contra um grupo de quiméricos desonestos a serviço de um pesquisador lunático e enlouquecido por suas próprias poções fez com que ela fosse formalmente convidada para o posto de xerife. A princípio, Caitlyn recusou, mas depois percebeu que o poder e os recursos dos Vigias poderiam ajudá-la a descobrir a verdadeira identidade de "C", a única pessoa que ainda não tinha sido punida pelo ataque à casa de sua família.
+A partir de então, Caitlyn tornou-se uma oficial altamente respeitada entre os Vigias de Piltover, mantendo a ordem na Cidade do Progresso. Recentemente, ela passou a trabalhar em parceria com uma nova recruta de Zaun, a impetuosa e imprudente Vi. O fato de uma dupla tão improvável funcionar tão bem é motivo de muitas conversas e fofocas entre os companheiros Vigias, e também entre aqueles que as duas colocam atrás das grades.
+

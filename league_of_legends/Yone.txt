@@ -1,0 +1,44 @@
+Yone, o Inesquecido
+Assassino, Lutador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Yone.png
+
+Estilo do Caçador
+Yone causa Dano Mágico a cada segundo Ataque. Além disso, sua Chance de Acerto Crítico é aumentada.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/YonePassive.Yone.png
+
+Aço Mortal
+Golpeia à frente, causando dano a todos os inimigos em linha reta. Ao contato, ganha um acúmulo de Tempestade Crescente por alguns segundos. Com 2 acúmulos, Aço Mortal faz com que Yone avance com o vento, arremessando ao ar os inimigos. Aço Mortal é tratada como ataque básico e escala da mesma forma.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/YoneQ.png
+
+Fenda Espiritual
+Ataca à frente, causando dano a todos os inimigos em uma área de cone. Concede um escudo a Yone. O valor do escudo aumenta com base no número de Campeões atingidos pelo golpe. O Tempo de Recarga e o tempo de conjuração de Fenda Espiritual escalam com Velocidade de Ataque.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/YoneW.png
+
+Desatar da Alma
+O espírito de Yone deixa seu corpo para trás e recebe Velocidade de Movimento. Quando essa habilidade termina, o espírito de Yone volta ao corpo e ele repete parte do dano causado na forma espiritual.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/YoneE.png
+
+Destino Selado
+Yone teleporta-se para trás do último Campeão em uma linha, desferindo um golpe tão poderoso que puxa na direção dele todos os inimigos atingidos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/YoneR.png
+
+Em vida, ele foi Yone; meio-irmão de Yasuo e um respeitado aluno da escola de espadachins de seu vilarejo. Mas, ao morrer pelas mãos do irmão, ele se viu perseguido por uma entidade maligna do reino espiritual e foi forçado a exterminá-la com sua própria espada. Agora, condenado a usar uma máscara demoníaca com o rosto da entidade, Yone busca incansavelmente essas criaturas para tentar entender o que ele mesmo se tornou.
+
+Em vida, Yone seguia um rigoroso código de dever e honra. Ainda criança, motivado pela morte de seu pai, seu amor pela família o levou a assumir o papel de protetor. Sempre paciente e disciplinado, Yone era o oposto de seu meio-irmão Yasuo, que era impetuoso e imprudente.
+Mesmo assim, os dois eram inseparáveis, e quando Yone começou seus estudos em uma renomada escola de espadachins perto de sua aldeia, Yasuo veio atrás.
+Durante o treinamento, muitas vezes Yone era forçado a controlar a impulsividade de seu irmão mais novo. No entanto, quando Yasuo recusou a tutela pessoal do Ancião Souma, mestre da lendária técnica do vento, Yone lhe deu uma semente de bordo — um símbolo de humildade — em sinal de apoio e incentivo.
+Yone estava orgulhoso do irmão, mas tinha dúvidas sobre a decisão do sábio mestre e temia que a natureza impulsiva de Yasuo o prejudicasse como aluno. Mas o Ancião Souma era muito respeitado, e nunca tomava decisões impensadas.
+Colocando as preocupações de lado, Yone continuou seus treinos com lâminas duplas e sua destreza rapidamente conquistou a admiração e o respeito de seus colegas. Embora a habilidade de Yone fosse incomparável, a forma como Yasuo usava a técnica do vento tornava os treinos dos dois um espetáculo à parte e uma alegria para os próprios irmãos.
+Mas essa alegria não durou muito. A guerra chegou a Ionia.
+Yone, com vários outros discípulos, saiu para combater as forças noxianas que se aproximavam, enquanto Yasuo, relutantemente, ficou para proteger seu mestre. No entanto, certa noite, o Ancião Souma foi encontrado morto; morto pela própria técnica do vento que ele ensinava.
+Quando Yone voltou, descobriu que Yasuo tinha fugido.
+Isso abalou Yone profundamente. Seus medos tinham se concretizado. O Ancião Souma estava errado.
+Yone se sentiu culpado. Se Yasuo tivesse mesmo matado Souma, então Yone não tinha sido capaz de ensinar-lhe o caminho da justiça. Se Yasuo tivesse simplesmente abandonado seu posto permitindo a morte de seu mestre, então Yone não tinha sido capaz de ensinar-lhe sobre disciplina. De uma forma ou de outra, Yasuo já tinha matado vários dos que tinham ido atrás dele. E, para Yone, aquelas mortes também eram responsabilidade dele. Então, encontrou Yasuo. Quando as duas espadas finalmente se cruzaram, a lâmina de Yone era superior, mas a técnica do vento de Yasuo abateu seu irmão.
+No entanto, a morte não era o fim. Quando Yone acordou no reino espiritual, o peso do seu fracasso o esmagava. Ele explodiu em fúria e esmurrou o chão com raiva.
+Uma risada retumbante invadiu seus pensamentos. Ele se virou e viu um espírito monstruoso segurando uma lâmina cor de sangue. Era um poderoso azakana, uma entidade predatória que há muito tempo perseguia Yone por trás do véu. Antes que Yone pudesse falar, ele atacou.
+Yone sacou os ecos espirituais de suas lâminas bem a tempo de bloquear o ataque. Mais uma vez, se viu em um duelo em que suas habilidades eram superiores, mas a magia o oprimia.
+Ele foi consumido pela raiva. Uma vida inteira de honra e deveres se quebrou. Em um momento de fúria, Yone tomou a lâmina do azakana e perfurou a criatura.
+A última coisa que ouviu antes que uma nova escuridão o levasse foi a mesma risada retumbante…
+Quando voltou a si, Yone se viu novamente no reino material, mas agora ele era apenas uma mera sombra do que tinha sido. Ele se levantou com dificuldade, com o reino espiritual embaçado na mente e uma espada cheia de sangue na mão. Sobre seu rosto, havia uma máscara com a feição do azakana; ele não conseguia removê-la, mas agora podia ver outros azakana através dela. Eles ainda não eram demônios de verdade; só queriam se alimentar de negatividade antes de devorarem seus hospedeiros. Mas, como Yone viria a descobrir, se o nome de quaisquer azakana fosse revelado, eles seriam reduzidos a máscaras inertes de emoção personificada. Mesmo assim, ele não sabia dizer se, e nem quando, o azakana que ele usava despertaria para consumi-lo. Em vida, Yone havia usado a máscara de protetor, irmão e discípulo por tanto tempo que aquela tinha se tornado sua identidade. Mas, hoje, em momentos de calmaria, ele jura sentir a máscara se mexendo em seu rosto; seu passado e os conflitos mal resolvidos com Yasuo agora diminuem diante dessa nova ameaça. Na tentativa de entender o que ele se tornou, Yone caça essas criaturas traiçoeiras e, a cada nome descoberto, ele chega mais perto da risada que ainda o assombra.
+Nada mais importa. Agora só existe a busca pela verdade.
+

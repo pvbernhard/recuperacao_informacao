@@ -1,0 +1,35 @@
+Zyra, a Ascensão dos Espinhos
+Mago, Suporte
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Zyra.png
+
+Jardim de Espinhos
+Sementes surgem periodicamente ao redor de Zyra, mais rapidamente dependendo do nível. Zyra pode conjurar Farpas Mortais ou Pântano das Raízes próximo a sementes para fazer surgir plantas que lutarão por ela.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/ZyraP.png
+
+Farpas Mortais
+Vinhas espessas se espalham pelo chão e explodem em farpas, causando Dano Mágico a inimigos dentro da área. Se conjurada perto de uma semente, Farpas Mortais faz surgir uma planta Cospe-Espinhos, que dispara contra inimigos distantes.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ZyraQ.png
+
+Crescimento Desenfreado
+Zyra planta uma semente com duração de 60s. Conjurar Farpas Mortais e Pântano das Raízes perto das sementes fará surgir plantas que lutam por Zyra. Zyra pode armazenar várias sementes ao mesmo tempo, e abater inimigos reduz o tempo de recarregamento de Crescimento Desenfreado.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ZyraW.png
+
+Pântano das Raízes
+Zyra lança vinhas pelo chão para prenderem seu alvo, causando dano e enraizando inimigos atingidos. Se conjurada próxima a uma semente, Pântano das Raízes faz surgir Vinhas Ásperas com ataques de curta distância que reduzem a Velocidade de Movimento do inimigo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ZyraE.png
+
+Espinhos Sufocantes
+Zyra invoca raízes retorcidas no local-alvo, causando dano a inimigos conforme elas se expandem e arremessando-os ao ar quando se contraem. Plantas ao alcance das raízes ficam enfurecidas.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ZyraR.png
+
+Nascida em uma antiga catástrofe mágica, Zyra é a fúria da natureza em forma física e uma sedutora criatura híbrida entre planta e humana, que faz surgir a vida a cada passo que dá. Ela vê os muitos mortais de Valoran como nada além de presas para suas crias semeadas e não sente nada ao destroçá-los em um turbilhão de farpas mortais. Apesar de seu real propósito ainda não ter sido descoberto, Zyra vaga pelo mundo, satisfazendo seus desejos primais de colonizar e estrangular toda e qualquer outra vida estranha que encontra.
+
+A memória de Zyra é tão extensa e profunda quanto as raízes da terra.  Sua espécie era jovem quando as Guerras Rúnicas aconteceram, quando exércitos mortais lutaram entre si pelo poder da criação.
+Escondidos nas selvas de Kumungu, em algum lugar entre os grandes rios que cortam o leste de Shurima, estão os lendários Jardins de Zyr. Magias elementais transformaram o solo de formas estranhas e imprevisíveis, gerando plantas carnívoras e ferozes que atacavam qualquer criatura ao seu alcance. Elas infestavam e devoravam, indiferentes aos conflitos dos mortais, contentando-se apenas em emaranhar florestas e pântanos com suas vinhas. Elas se reconheciam coletivamente como Zyra… e havia comida em abundância para todas, até em tempos de guerra. Um dia, uma pequena companhia de soldados, leais a quem exatamente não se sabe, marchou sobre aquelas terras em busca de algum prêmio já esquecido. Eram liderados por uma ambiciosa feiticeira, mas estavam muito longe de casa, fadados a sucumbir aos vapores e esporos nocivos daquele lugar amaldiçoado.
+Os habitantes dos Jardins atacaram e seus ganchos espinhosos atravessaram armaduras e corpos com cruel facilidade. Embora lutassem bravamente, os guerreiros sabiam que não aguentariam por muito tempo e pediram ajuda à feiticeira. Reunindo seus poderes, ela causou uma poderosa explosão. Símbolos rúnicos queimaram pelo ar, lançando sua luz sinistra enquanto o matagal espinhoso avançava.
+Mas, naquele exato momento, uma faísca inflamou os gases do pântano, resultando em uma explosão mágica que exterminou todos os seres vivos em um raio de quilômetros. Dos raros sobreviventes das Guerras Rúnicas, nenhum deles jamais soube o que se passou nos Jardins de Zyr.
+Séculos se passaram. O solo onde a batalha tinha sido travada permanecia vazio e sem vida na superfície… mas nas profundezas, algo acontecia. As energias liberadas no local passaram muito tempo descansando, coalhando, alimentadas por chuvas radioativas. Uma vagem inchou, pulsando com uma vida sobrenatural, até que uma criatura se libertou, ofegante e confusa. Ela viu um mundo destroçado e transformado, cheio de ideias novas e de vitalidade. Sua cabeça estava cheia de memórias desencontradas, saídas da terra barrenta direto para seus confusos pensamentos. Ela lembrava do calor do sol, do gosto da chuva, de palavras de poder e da agonia de centenas de mortes.
+A coisa — ela — chamava-se Zyra, mas nunca entendeu por quê. Quando começou a explorar as terras selvagens longe de onde tinha nascido, Zyra percebeu que era diferente das outras criaturas que encontrava. Os mortais eram temerosos e desagradáveis, enquanto as entidades mais etéreas costumavam ser caprichosas ou arrogantes. Nenhum deles parecia respeitar os reinos que habitavam, devastando tudo com suas meras presenças, e isso causava em Zyra muita raiva e desprezo. Quase que espontaneamente, novas vidas surgiam por onde ela passava; plantas vorazes que mudavam e evoluíam diante de seus olhos, gerando farpas venenosas ou germinando novos tentáculos em um ritmo alucinante.
+Sem raízes e podendo deslocar-se livremente, Zyra e sua prole mortal passaram a se alimentar e crescer estrangulando todas as outras formas de vida. Ela devastou plantações, invadiu assentamentos e destruiu os guerreiros que foram corajosos ou tolos o suficiente para confrontá-la, deixando sempre um rastro de horrores botânicos por onde passava.
+Quando os rios de Shurima começaram a correr de novo, uma estranha vegetação foi vista em suas margens, avançando lentamente para rumo a oeste a cada estação. E por mais que tentem arrancá-la ou queimá-la, ela não para de crescer…
+

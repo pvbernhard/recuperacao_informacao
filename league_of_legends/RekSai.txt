@@ -1,0 +1,28 @@
+Rek'Sai, a Escavadora do Vazio
+Lutador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/RekSai.png
+
+Fúria dos Xer'Sai
+Rek'Sai gera Fúria ao Atacar e atingir inimigos com habilidades básicas. Enquanto estiver Escavada, ela consome a Fúria para restaurar Vida.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/RekSai_Passive.png
+
+Ira da Rainha / Sondar Presas
+Os próximos 3 ataques básicos de Rek'Sai causam Dano Físico adicional a inimigos próximos. Enquanto está enterrada, Rek'Sai lança uma rajada de terra carregada com o poder do Vazio que causa Dano Físico e revela os inimigos atingidos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/RekSaiQ.png
+
+Escavar / Emergir
+Rek'Sai se enterra no chão, recebendo novas habilidades e Velocidade de Movimento aumentada. O alcance de sua visão é reduzido e ela não pode usar ataques básicos. Enquanto enterrada, Rek'Sai pode conjurar Emergir para causar dano e arremessar ao ar os inimigos próximos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/RekSaiW.png
+
+Mordida Feroz / Túnel
+Rek'Sai morde seu alvo, causando Dano Verdadeiro dobrado se tiver o máximo de Fúria. Enquanto escavada, Rek'Sai cria um Túnel longo, duradouro e reutilizável. Inimigos podem destruí-lo ficando sobre uma das entradas.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/RekSaiE.png
+
+Investida do Vazio
+Rek'Sai marca seus alvos passivamente ao causar dano. Ela pode ativar essa habilidade para se tornar brevemente inalvejável e saltar até o alvo marcado, causando dano pesado com base na Vida perdida dele.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/RekSaiRWrapper.png
+
+A predadora perfeita, Rek'Sai é uma criatura do Vazio sem piedade que anda por túneis no subsolo para emboscar e devorar vítimas desavisadas. Sua fome insaciável já destruiu regiões inteiras do outrora gigantesco império de Shurima. Mercadores, vendedores, até mesmo caravanas blindadas, preferem fazer longos desvios para evitarem a ela e seus filhotes no seu território de caça. Todos sabem que, se Rek'Sai for avistada no horizonte, a morte certamente virá do subsolo.
+
+A maior e mais feroz de sua espécie, Rek'Sai é uma predadora impiedosa que cria túneis pelo terreno para emboscar e devorar suas presas. Sua fome insaciável causou destruição a regiões inteiras do outrora gigantesco império shurimane. Mercadores, negociantes e caravanas armadas desviam centenas de quilômetros de seus caminhos para evitar tais áreas vastas, embora sabe-se que malfeitores sagazes atraem os incautos aos domínios dela. Assim que Rek'Sai lhe detecta, seu destino está definido. Não há esperança de escapar; ela é a morte que vem debaixo da areia.
+

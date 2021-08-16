@@ -1,0 +1,30 @@
+Talon, a Sombra da Lâmina
+Assassino
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Talon.png
+
+Limiar da Lâmina
+As habilidades de Talon causam Ferimentos em Campeões e monstros grandes, acumulando até 3 vezes. Quando Talon ataca um Campeão com 3 acúmulos de Ferimento, o alvo sofre intenso dano de sangramento ao longo do tempo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/TalonP.png
+
+Diplomacia Noxiana
+Talon apunhala a unidade alvo. Caso eles estejam próximos o suficiente para um ataque corpo a corpo, o ataque causa dano crítico. Caso estejam fora do alcance corpo a corpo, Talon saltará no alvo e o apunhalará. Talon recupera um pouco da vida e do Tempo de Recarga caso sua habilidade abata o alvo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TalonQ.png
+
+Ancinho
+Talon envia um voleio de adagas que retorna a ele, causando Dano Físico a cada vez que passar por um inimigo. As lâminas que retornarem causam dano adicional e reduzem a velocidade da unidade.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TalonW.png
+
+Caminho do Assassino
+Talon salta sobre quaisquer terrenos ou estruturas, até uma distância máxima. Esta habilidade possui um Tempo de Recarga baixo, mas deixa o terreno inutilizável por um longo período de tempo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TalonE.png
+
+Ataque das Sombras
+Talon dispara um anel de lâminas e fica Invisível ao mesmo tempo em que recebe Velocidade de Movimento adicional. Quando Talon surge da Invisibilidade, as lâminas convergem em sua direção. A cada vez que a lâmina se move, Ataque das Sombras causa Dano Físico aos inimigos atingidos por ao menos uma lâmina.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TalonR.png
+
+Talon é a adaga na escuridão, um assassino impiedoso capaz de atacar sem aviso e escapar antes que qualquer alarme soe. Ele construiu uma reputação perigosa nas ruas brutais de Noxus, onde foi forçado a lutar, matar e roubar para sobreviver. Adotado pela notória família Du Couteau, ele agora usa suas habilidades mortais seguindo os comandos do império, assassinando líderes inimigos, capitães e heróis… além de qualquer noxiano tolo o suficiente para ganhar o desprezo de seus mestres.
+
+As memórias mais antigas que Talon tem são das passagens subterrâneas de Noxus e da reconfortante lâmina de uma adaga. Ele não se lembra de sua família, nem do afeto ou calor humano. Em vez disso, ele se lembra do tilintar de ouro roubado e da segurança de ter um teto sobre sua cabeça, que é tudo que ele deseja. Conseguindo ficar vivo apenas por sua esperteza e habilidades para roubar, Talon fez sua vida no submundo de Noxus. Seu domínio da adaga rapidamente o deixou conhecido como uma ameaça, e as guildas noxianas enviaram assassinos para lhe dar uma ordem: junte-se a eles ou morra. Sua resposta foi uma pilha de cadáveres largada em um fosso.
+As tentativas de assassinato cresceram até que um dos agressores ficou lâmina a lâmina com Talon em uma batalha de força. Para sua surpresa, Talon foi desarmado e encarou a espada de seu executor quando o assassino se revelou como o General Du Couteau. O general ofereceu a Talon a escolha entre ser morto por ele, ou a vida como um agente do Alto Comando Noxiano. Talon escolheu a vida, na condição de que seus serviços seriam prestados apenas a Du Couteau, já que ele só poderia receber ordens daquele que o venceu.
+Ele continuou nas sombras, realizando missões secretas sob as ordens de Du Couteau que o levaram das terras gélidas de Freljord até os santuários de Bandópolis. Contudo, após anos de trabalho a seu serviço, devia muito respeito a Couteau. Ficou obcecado em descobrir o que tinha acontecido ao general e varre os cantos do mundo em busca dos responsáveis pelo desaparecimento de Du Couteau.
+

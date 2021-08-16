@@ -1,0 +1,42 @@
+Shyvana, a Meio-Dragão
+Lutador, Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Shyvana.png
+
+Fúria da Meio-Dragão
+Shyvana causa dano adicional a dragões, além de receber Armadura e Resistência Mágica. Conforme Shyvana e seus aliados abatem mais dragões, ela recebe mais Armadura e Resistência Mágica.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/ShyvanaReinforcedScales.png
+
+Mordida Dupla
+Shyvana golpeia duas vezes no seu próximo ataque. Ataques básicos reduzem o Tempo de Recarga de Mordida Dupla em 0,5 segundo.<font color='#FF3300'>Forma de Dragão: Mordida Dupla fere todas as unidades à frente de Shyvana.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ShyvanaDoubleAttack.png
+
+Combustão
+Shyvana rodeia-se com fogo, causando Dano Mágico por segundo a inimigos próximos e movimentando-se mais rápido por 3 segundos; parte deste dano é aplicada novamente quando os ataques básicos de Shyvana acertam um inimigo com o efeito de Combustão ativo. A Velocidade de Movimento é reduzida ao longo da duração da habilidade. Ataques básicos prolongam a duração de Combustão. <font color='#FF3300'>Forma de Dragão: Combustão cresce em tamanho.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ShyvanaImmolationAura.png
+
+Hálito Flamejante
+Shyvana desfere uma bola de fogo que causa dano a todos os inimigos que atingir e deixa os alvos em brasa, marcando-os por 5 segundos. Os ataques básicos de Shyvana em alvos marcados causam um percentual de sua Vida máxima como dano ao contato.<font color='#FF3300'>Forma de Dragão: Hálito Flamejante explode ao impacto ou no local alvo, causando dano adicional e abrasando a terra por um curto período de tempo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ShyvanaFireball.png
+
+Descida do Dragão
+Shyvana se transforma em dragão e voa em direção ao local alvo. Inimigos em seu caminho recebem dano e são lançados na direção de seu local alvo. Shyvana passivamente recebe Fúria por segundo e recebe 2 de Fúria em ataques básicos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ShyvanaTransformCast.png
+
+Shyvana é uma criatura com a mágica de um fragmento de runa queimando em seu coração. Apesar de normalmente parecer humanoide, ela pode mudar para sua forma verdadeira de um temível dragão, incinerando seus inimigos com seu sopro de chamas. Depois de salvar a vida do príncipe herdeiro, Jarvan IV, Shyvana agora serve, mesmo que desconfortavelmente, na sua guarda real, lutando para encontrar aceitação entre o povo receoso de Demacia.
+
+Embora considerados raros hoje em dia, ainda há em Runeterra alguns lugares onde os grandes dragões elementais fazem seus ninhos.
+Após a queda do império shurimane, nas crateras de um vulcão perdido, Yvva, a mais velha dessas feras, mantinha sua ninhada em segurança. Além das ameaças de dragões rivais, os ovos de dragão tinham um valor inestimável entre os humanos, e não faltava gente ousada ou tola o bastante para tentar conseguir um. Ao longo dos anos, Yvva fez verdadeiros banquetes com os restos carbonizados de ladrões fracassados... até que um deles alcançou seu objetivo.
+Um jovem mago fugiu das montanhas com o grande ovo junto ao peito, deixando para trás a selva em chamas, incendiada pela fúria de Yvva. Contrariando todas as probabilidades, ele conseguiu chegar ao litoral e Yvva não teve opção senão voltar para sua toca de mãos vazias. Ela tinha perdido um ovo. E não queria perder o outro.
+O mago rumou ao norte para Piltover, mas antes que conseguisse achar um comprador, o ovo começou a chocar. Não se sabe se foi a retirada brusca do ninho, ou a última lua do outono recebendo o inverno, mas o fato é que algo tinha mudado. Quando o ovo quebrou, não foi um filhote de dragão que saiu lá de dentro, mas sim uma menina aparentemente humanoide, de pele pálida e violeta. E o mago decidiu que não poderia abandoná-la. Em homenagem à mãe da ninhada, ele a chamou de Shyvana e a criou como se fosse sua própria filha.
+Mas estava claro que Shyvana não era humana. Desde cedo, ela podia mudar de forma e transformar-se em algo monstruoso, semelhante aos seres metade dragão da mitologia antiga. Isso fazia com que sua vida entre o povo de Valoran fosse, no mínimo, conturbada. Uma coisa era certa: Yvva tinha conseguido manter uma conexão com sua filha perdida e, com o tempo, essa conexão foi ficando mais forte. Quando seu outro filhote finalmente alçou voo, Yvva atravessou o oceano em busca de Shyvana.
+A região estava afundada em violentas guerras territoriais, mas tanto os exércitos quanto os aldeões correram ao ver o grande dragão se aproximar. Escondida em uma fazenda depredada, Shyvana viu seu pai adotivo ser engolido pelas chamas lançadas por Yvva. A jovem arrastou-o para a floresta, mas não havia mais nada que ela pudesse fazer. Ela o enterrou em uma cova embaixo de um grande carvalho, e partiu sozinha.
+Depois de muitas semanas se escondendo na selva, sempre em movimento, Shyvana sentiu um suave cheiro de sangue entre as árvores. Ela encontrou um guerreiro ferido, à beira da morte, e viu que podia salvá-lo. Ignorando a fera que a perseguia, ela assumiu sua forma de dragão e levou o homem inconsciente para um posto avançado na fronteira de Demacia.
+Lá, no castelo de Wrenwall, Shyvana descobriu que o tal guerreiro era, na verdade, o príncipe Jarvan, único filho do rei e herdeiro do trono. Apesar de ter causado estranheza aos soldados em razão de sua pele e de seus modos, ela foi bem recebida. Aparentemente, os demacianos cuidavam uns dos outros e o tempo que passou na cidade foi o mais tranquilo de sua vida.
+Mas essa paz não duraria muito. Shyvana sentia que a escuridão se aproximava. Yvva estava vindo.
+O príncipe, sabendo que precisava comandar as tropas de Wrenwall, mesmo ainda em recuperação, trouxe os moradores aterrorizados para dentro da fortaleza em preparação para a batalha que se aproximava. Enquanto isso, Shyvana preparava sua fuga. Questionada por Jarvan, ela admitiu que a criatura que a perseguia era sangue do seu sangue. Ela não podia permitir que pessoas inocentes morressem por causa disso.
+Mas Jarvan recusou-se a deixá-la ir. Shyvana tinha salvo sua vida e agora, para ele, era o seu dever lutar ao seu lado. Comovida com a oferta, ela decidiu aceitar.
+Quando Yvva apareceu, os arqueiros demacianos lançaram rajadas de flechas para distraí-la. Em retaliação, ela lançou chamas nas ameias, destruindo as muralhas com suas poderosas garras e derrubando os guerreiros do parapeito. Nesse momento, Shyvana deu um salto, transformando-se em pleno ar e desafiando sua mãe. Em uma cena raramente vista em Valoran desde as Guerras Rúnicas, os dois dragões se enfrentaram com dentes e garras nos céus de Wrenwall.
+E finalmente, sangrando muito, Shyvana levou Yvva ao chão, e quebrou o pescoço da criatura nas pedras.
+O próprio príncipe reconheceu a bravura de Shyvana e jurou que ela sempre teria um lugar ao seu lado, se voltasse com ele para o reino de seu pai. Com o crânio de Yvva como prova de seu triunfo, eles partiram juntos para a Grande Cidade de Demacia.
+Shyvana ficou sabendo que o reino do Rei Jarvan III andava dividido, pois a animosidade do povo em relação aos magos e à magia estava batendo de frente com os nobres ideais que inspiraram a fundação de Demacia. Embora ela tenha encontrado alguma aceitação quando se tornou um dos guardiões mais confiáveis do príncipe, ela sempre se pergunta se as coisas seriam diferentes se eles conhecessem sua verdadeira forma…
+

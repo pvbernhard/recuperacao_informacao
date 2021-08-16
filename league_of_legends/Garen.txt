@@ -1,0 +1,38 @@
+Garen, o Poder de Demacia
+Lutador, Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Garen.png
+
+Perseverança
+Se Garen não tiver sido atingido recentemente por dano ou habilidades inimigas, ele regenera um percentual de sua Vida total a cada segundo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Garen_Passive.png
+
+Acerto Decisivo
+Garen recebe um impulso de Velocidade de Movimento, libertando-se de todos os efeitos de Lentidão. Seu próximo ataque atinge uma área vital do inimigo, causando dano adicional e silenciando-o.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GarenQ.png
+
+Coragem
+Garen aumenta sua Armadura e Resistência Mágica passivamente ao abater inimigos. Ele também pode ativar essa habilidade para receber um escudo e Tenacidade por um breve período, seguido de uma quantidade menor de redução de dano com maior duração.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GarenW.png
+
+Julgamento
+Garen gira rapidamente a espada ao redor do corpo dele, causando Dano Físico a inimigos próximos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GarenE.png
+
+Justiça Demaciana
+Garen evoca o Poder de Demacia para tentar executar um Campeão inimigo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GarenR.png
+
+Um guerreiro nobre e orgulhoso, Garen faz parte da Vanguarda Destemida. Popular entre seus companheiros e respeitado o suficiente por seus inimigos, sua reputação é nada mais do que o esperado de um herdeiro da prestigiosa família Stemmaguarda, encarregada de defender Demacia e seus ideais. Vestido com uma armadura resistente à magia e empunhando uma poderosa espada, Garen está sempre pronto para confrontar magos e feiticeiros no campo de batalha, em um verdadeiro furacão de aço virtuoso.
+
+Nascido na nobre família Stemmaguarda, junto com sua irmã mais nova, Lux, Garen sabia desde jovem que esperavam que ele defendesse o trono de Demacia com sua vida. Seu pai, Pieter, era um oficial militar condecorado, enquanto sua tia, Tianna, era a Capitã-Espada da elite Vanguarda Destemida, ambos eram reconhecidos e muito respeitados pelo rei Jarvan III. Supunha-se que Garen viria eventualmente a servir o filho do rei da mesma maneira.
+O reino de Demacia se ergueu das cinzas das Guerras Rúnicas e os séculos que se seguiram foram atormentados por mais conflitos e discórdias. Um dos tios de Garen, um cavaleiro-patrulheiro no exército demaciano, contou ao jovens Garen e Lux suas histórias de quando se aventurava fora dos muros do reino para proteger seu povo dos perigos do mundo afora.
+Ele os avisou que, um dia, algo sem dúvida terminaria esse tempo de relativa paz, fossem os magos renegados, criaturas do abismo ou algum outro horror inimaginável que estivesse por vir.
+Como se para confirmar esses medos, seu tio foi morto no cumprimento do dever por um mago, antes mesmo que Garen completasse onze anos de idade. Garen viu o medo nos olhos de sua irmã mais nova e toda a dor que isso trouxe a sua família. Então ele soube, com certeza, que a magia era o primeiro e maior perigo que Demacia enfrentava e jurou nunca deixar isso atravessar as paredes da cidade. Apenas seguindo seus ideais fundadores e mostrando seu orgulho inabalável, o reino poderia ser mantido em segurança.
+Aos doze anos, Garen deixou o lar dos Stemmaguarda em Alta Pratânia para se juntar aos militares. Como escudeiro, seus dias e noites eram consumidos pelo treinamento e pelo estudo da guerra, afiando seu corpo e sua mente em uma arma tão forte e verdadeira quanto o aço demaciano. Foi então que ele conheceu o jovem Jarvan IV entre os outros recrutas, o príncipe que, como rei, ele um dia serviria e os dois se tornaram inseparáveis.
+Nos anos que se seguiram, Garen conquistou seu lugar na muralha de escudos como um guerreiro de Demacia e rapidamente ganhou uma temível reputação no campo de batalha. Quando tinha dezoito anos, serviu com honra em campanhas ao longo das fronteiras freljordanas, desempenhou um papel fundamental na purificação de cultistas fétidos da Floresta Silenciosa e lutou ao lado dos bravos defensores de Pedralva.
+O próprio rei Jarvan III convocou o batalhão de Garen de volta à Grande Cidade de Demacia, honrando-os perante a corte real no Salão da Bravura. Tianna Stemmaguarda, recentemente promovida à função de alta marechal, escolheu seu sobrinho entre todos os outros soldados e o recomendou para os testes necessários para se juntar aos postos da Vanguarda Destemida.
+Garen voltou para casa em preparação e foi recebido calorosamente por Lux e seus pais, assim como pelas pessoas comuns que viviam na propriedade de sua família. Embora tivesse o prazer de ver sua irmã se tornando uma jovem inteligente e capaz, algo nela tinha mudado. Ele tinha notado isso sempre que visitava, mas agora Garen lutava contra uma suspeita real e atormentadora de que Lux possuía poderes mágicos… apesar de nunca se permitir considerar a ideia por muito tempo. Pensar que alguém de sangue Stemmaguarda poderia possuir a mesma feitiçaria proibida que aniquilou seu tio era demais para ele. Naturalmente, através de coragem e habilidade, Garen ganhou seu lugar entre a Vanguarda. Com sua orgulhosa família e seu bom amigo, o príncipe, observando, ele fez seus juramentos diante do trono.
+Lux e sua mãe passaram muito mais tempo na capital, a serviço do rei, bem como da humilde ordem dos Iluminadores, mas ainda assim, Garen tentou manter a maior distância possível. Ele amava sua irmã mais do que qualquer pessoa no mundo, mas uma pequena parte sua não conseguia aproximar-se dela e ele tentou não pensar no que seria forçado a fazer se suas suspeitas fossem confirmadas. Em vez disso, ele focou totalmente em seus novos deveres, lutando e treinando com duas vezes mais garra do que antes.
+Quando a nova Capitã-Espada da Vanguarda Destemida foi derrotada em batalha, Garen viu-se colocado à frente no comando de seus companheiros guerreiros, e a nomeação foi sem oposição.
+Até hoje, ele permanece de prontidão na defesa de sua terra natal contra todos os inimigos. Muito mais do que o mais formidável soldado de Demacia, ele é a própria personificação de todos os maiores e mais nobres ideais sobre os quais a cidade foi fundada.
+

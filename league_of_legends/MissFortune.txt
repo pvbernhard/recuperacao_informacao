@@ -1,0 +1,42 @@
+Miss Fortune, a Caçadora de Recompensas
+Atirador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/MissFortune.png
+
+Batida do Amor
+Miss Fortune causa Dano Físico adicional sempre que usar um ataque básico em um novo alvo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/MissFortune_W.png
+
+Dois por Um
+Miss Fortune dispara contra um inimigo, causando dano a ele e a um alvo atrás dele. Ambos os acertos também podem aplicar Batida do Amor.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/MissFortuneRicochetShot.png
+
+Desfilando
+Miss Fortune ganha Velocidade de Movimento passivamente quando não está sendo atacada. Esta habilidade pode ser ativada para conceder Velocidade de Ataque adicional por um curto período. Enquanto está em Tempo de Recarga, Batida do Amor reduz o Tempo de Recarga restante de Desfilando.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/MissFortuneViciousStrikes.png
+
+Chuva de Disparos
+Miss Fortune revela uma área com uma saraivada de balas, causando ondas de dano e reduzindo a velocidade dos oponentes.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/MissFortuneScattershot.png
+
+Metendo Bala
+Miss Fortune canaliza uma saraivada de balas em formato de cone à sua frente, causando muito dano aos inimigos. Cada remessa de Metendo Bala pode causar Acerto Crítico.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/MissFortuneBulletTime.png
+
+Uma capitã de Águas de Sentina famosa por sua aparência e impiedade, Sarah Fortune chama atenção entre os criminosos calejados da cidade portuária. Ainda criança, ela viu o Rei dos Ladrões, Gangplank, assassinar sua família, um crime do qual ela se vingou com violência anos depois, explodindo seu navio com ele ainda a bordo. Aqueles que a subestimarem enfrentarão uma oponente sedutora e imprevisível... E, possivelmente, uma bala ou duas nas entranhas.
+
+Como muitos que conquistaram a fama nesse labirinto sinuoso e incrustado de sal que é Águas de Sentina, Sarah Fortune já teve as mãos sujas de sangue mais de uma vez...
+Sendo a adorada filha da renomada armeira Abigale Fortune, Sarah passou boa parte de uma infância feliz na forja do povoado que havia na ilha perto do litoral, aprendendo a lixar chaves de roda, regular gatilhos e até mesmo fundir bateladas de projéteis de pistola personalizada. Sua mãe era uma armeira de mão cheia, e as pistolas que fabricava sob medida eram encontradas nas coleções de inúmeros capitães mercantes abastados.
+Muitas vezes, porém, as armas também eram cobiçadas por pessoas de meios mais modestos e intenções mais nefastas.
+Um desses sujeitos era um promissor ladrão oriundo de Águas de Sentina, conhecido na sua gangue como Gangplank. Prepotente e arrogante, ele exigiu um par de pistolas Fortune que mais ninguém pudesse ter. Com certa relutância, um acordo foi feito. Exatamente um ano depois, Gangplank voltou. Sem a menor intenção de pagar pelo serviço, ele trazia o rosto coberto por um lenço encardido. Ele tinha voltado para pegar as armas à força.
+Abigale criara duas obras-primas, canhões de mão duplos do mais alto requinte e com precisão mortal. Boas demais para ele, na verdade, ela chegou a declarar. Ela podia ver o brutamontes que Gangplank se tornara. Furioso, ele pegou as pistolas e as usou para abater a criadora daquelas armas antes de voltá-las na direção de seu marido e da jovem Sarah. Então, movido pelo mais puro rancor, ateou fogo na oficina e esmagou as duas pistolas nas pedras do chão para acabar de vez com o legado da família Fortune em Runeterra.
+Sarah acordou em agonia. Os ferimentos eram graves, mas ela conseguiu se arrastar para fora das ruínas em chamas, segurando contra o peito o que sobrara das duas pistolas. Com o tempo, seu corpo se recuperou mas, fosse dormindo ou acordada, vários foram os pesadelos que a atormentaram por anos a fio.
+Mesmo assim, ela resistiu. Estava determinada a se vingar. Ela reconstruiu as pistolas da mãe e aprendeu tudo que podia sobre o assassino mascarado que se declarara o novo rei dos ladrões de Águas de Sentina, um homem que forçou até o mais influente dos capitães a considerá-lo como tal.
+Não importava. Quando o encontrasse de novo, Sarah estaria pronta.
+Pegando um navio até a baía de Águas de Sentina, ela matou pela primeira vez assim que botou o pé nas tábuas tortas do cais: a vítima foi um pirata bêbado, com a barriga cheia de Escuridão de Myron e a cabeça a prêmio. Sarah arrastou o cadáver até os oficiais do quadro de recompensas antes de pegar mais uma dúzia de mandados e seguir para a cidade.
+Em uma semana, ela resolveu todos os casos, e quem teve o infortúnio de ser caçado por Sarah acabou morto ou acorrentado. Ela logo ganhou fama nas tabernas e antros de jogatina da região, passando a atender apenas pela alcunha de "Miss Fortune". Gangplank não perdia por esperar. Quem notaria mais um caçador de recompensas nas ruas?
+Nos anos que se seguiram, histórias das proezas de Miss Fortune se espalharam por todos os lugares, cada uma mais mirabolante que a última. Diziam que ela afogou o líder dos Corsários da Faca de Seda num barril de rum que ela mesma roubou. Que tomou o navio Sirene de um capitão que aprendeu da pior forma possível a não meter a mão onde não devia. Que rastreou um insano estripador serial até seu covil, a barriga de um leviatã praticamente esquartejado nas docas da matança, e o baleou pelas costas enquanto ele fugia. Apesar de tudo isso, Gangplank era forte demais para um confronto aberto e sempre estava com os cruéis Anzóis Farpados ao seu lado. Além disso, Miss Fortune sabia que apenas matá-lo não seria suficiente. Só humilhá-lo da maneira mais atroz possível e reduzir a cinzas tudo que roubou dela seria o bastante para satisfazer a menina que morreu na oficina da mãe.
+E assim, pouco a pouco, ela começou a reunir um grupo pequeno mas leal de aliados que, cedo ou tarde, a ajudaria a destruir esse pesadelo que a atormentava.
+Miss Fortune arriscou tudo que tinha para atacar Gangplank. Em uma série de tramoias e complôs, o navio dele, conhecido como Presságio da Morte, pegou fogo e explodiu no porto, assim destronando o tirânico rei dos ladrões. Mas o melhor foi que toda a população de Águas de Sentina testemunhou aquela derrota. Era tudo que Sarah sempre quis, exatamente como ela havia planejado. E tudo acabou tão rápido.
+Sem Gangplank, os outros capitães rivais logo passaram a lutar uns contra os outros pelo controle da cidade. O pouco de lei e ordem que ainda restava desapareceu em instantes, e vários civis inocentes foram pegos no fogo cruzado entre as facções em guerra. Mesmo relutante, Miss Fortune resolveu intervir — como capitã do Sirene e com o apoio do seu povo, conseguiu negociar uma trégua que, de algum jeito, dura até hoje. Mas nada é para sempre nessa cidade portuária, e a Capitã Fortune ainda tem que impor sua própria ordem contra todo ladrão, líder de gangue e ameaça distante que aparece pelo caminho.
+A verdadeira batalha por Águas de Sentina só começou.
+

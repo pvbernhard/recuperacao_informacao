@@ -1,0 +1,29 @@
+Shaco, o Bufão Demoníaco
+Assassino
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Shaco.png
+
+Apunhalar
+Os ataques básicos de Shaco e Veneno de Dois Gumes causam dano adicional ao atingirem o inimigo por trás.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Jester_CarefulStrikes.png
+
+Enganar
+Shaco fica Invisível e se teleporta para o local-alvo. Seu primeiro ataque enquanto está Invisível é fortalecido, causando dano adicional e crítico ao atingir o inimigo por trás.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/Deceive.png
+
+Caixinha-Surpresa
+Shaco cria uma Caixinha-Surpresa escondida. Quando ativada, ela causará temor e atacará inimigos próximos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/JackInTheBox.png
+
+Veneno de Dois Gumes
+As facas de Shaco envenenam alvos passivamente ao contato, reduzindo sua Velocidade de Movimento. Ele pode arremessá-las para causar dano e envenenar o alvo. A faca arremessada causa dano adicional se a Vida do alvo estiver abaixo de 30%.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TwoShivPoison.png
+
+Alucinações
+Shaco cria uma ilusão de si mesmo próxima a ele, que pode atacar inimigos próximos (causa dano reduzido a torres). Ao morrer, ela explode, fazendo surgir três Caixinhas-Surpresa e causando dano a todos os inimigos próximos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/HallucinateFull.png
+
+Criado anos atrás como um brinquedo para um príncipe solitário, Shaco, a marionete encantada, agora se deleita com assassinatos e desordem. Corrompido por magia das trevas e pela perda de seu dono querido, o boneco que já fora gentil agora encontra prazer somente na miséria das próprias almas que ele atormenta. Ele usa brinquedos e truques simples para conseguir efeitos mortais, achando os resultados de seus “jogos” sangrentos hilários. E para aqueles que escutam uma risada sombria na calada da noite, o Bufão Demoníaco pode tê-los marcado como seu próximo brinquedo.
+
+A maioria diria que não há graça na morte. E não há, a não ser que você seja Shaco - então a morte é hilária. Ele é o primeiro comediante homicida totalmente funcional de Valoran; ele faz piadas até que alguém morra, e depois ele ri. A figura que ficou conhecida como Bufão Demoníaco é um enigma. Ninguém chegou a uma conclusão quanto a sua origem, e Shaco também nunca fala sobre isso. Uma crença popular diz que Shaco não é de Runeterra - que ele é algo de um mundo sombrio e pervertido. Há ainda os que acreditam que ele é uma manifestação demoníaca dos instintos obscuros da humanidade, portanto não há como ver razão nele. A crença mais plausível e que Shaco é um assassino de aluguel, deixado a mercê de seus apetrechos lunáticos até que seus serviços sejam solicitados. Não se pode negar que Shaco é um individuo astuto, escapando de autoridades a cada vez que partem em sua busca para interrogá-lo sobre alguma atrocidade horrenda. Enquanto essas histórias tranquilizam os habitantes de Valoran, parece inimaginável que uma pessoa tão ameaçadora possa continuar a solta.
+Seja lá qual for a verdade dessa história, Shaco é um indivíduo horripilante e elusivo, sempre visto onde a loucura pode reinar abertamente.
+

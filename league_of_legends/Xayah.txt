@@ -1,0 +1,41 @@
+Xayah, a Rebelde
+Atirador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Xayah.png
+
+Cortes Certeiros
+Depois de usar uma habilidade, os próximos ataques básicos de Xayah acertam todos os alvos pelo caminho e deixam uma <font color='#C200E1'>Pluma.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/XayahPassive.png
+
+Punhais Duplos
+Xayah arremessa dois punhais que causam dano e deixam cair Plumas que podem retornar para ela.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/XayahQ.png
+
+Plumagem Mortífera
+Xayah cria uma tempestade de lâminas que aumenta o dano e a velocidade dos seus ataques básicos, além de conceder Velocidade de Movimento se ela atacar um Campeão.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/XayahW.png
+
+Invocadora das Lâminas
+Xayah recolhe todas as Plumas que caíram, causando dano e enraizando os inimigos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/XayahE.png
+
+Tempestade de Plumas
+Xayah salta pelo ar, ficando inalvejável e arremessando um leque de punhais, além de deixar cair Plumas que podem voltar para ela.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/XayahR.png
+
+Mortal e precisa, Xayah é uma vastaya revolucionária que trava sua própria batalha para salvar seu povo. Ela usa sua agilidade, malícia e plumas afiadas para retalhar qualquer um que atrapalhe seu caminho. Xayah luta ao lado de seu parceiro e amante, Rakan, para proteger sua tribo em extinção e restaurar a antiga glória de sua raça.
+
+Quando criança, na tribo Lhotlan, Xayah adorava ouvir seu pai cantar canções populares sobre antigos heróis vastayeses. As nostálgicas melodias a transportavam para um tempo há muito esquecido, em que a magia dançava livre pela ilha de Qaelin, imbuindo todos os Lhotlan com imenso poder.
+Porém, a cada nova geração, mais os humanos se entranhavam nas ancestrais tribos vastayesas, deturpando sua essência. À medida que foram se afastando dos espíritos das Primeiras Terras, as tribos começaram a desaparecer e perder a vitalidade, até se verem forçadas a negociar com os rivais mortais.
+Frustrada, Xayah via os embaixadores juloah de sua tribo fazerem tratos com os mortais, todos os quais acabavam sendo quebrados pouco tempo depois. O mais perturbador é que os humanos tinham descoberto os segredos das imponentes construções conhecidas como quinlons e, a fim de proteger seus assentamentos em expansão, os estavam usando para inibir a magia natural de Ionia. Embora Xayah e alguns outros instigassem o povo a lutar, os Lhotlan acabaram se isolando e se afastando do mundo mortal para preservar o pouco que ainda lhes restava. Mas nem isso foi capaz de protegê-los, e eles foram expulsos de suas casas.
+Assim, os Lhotlan se tornaram nômades sem raízes. Xayah passou a lutar pela liberdade.
+E ela não estava sozinha. Buscando retaliação contra os mortais, as rebeliões vastayesas cresceram por toda Ionia. O tempo de negociar tinha acabado. Para libertar a magia selvagem de sua terra, Xayah estava disposta a usar suas plumas letais em batalha.
+Após anos invadindo as fortalezas mais fortificadas e deixando um rastro de corpos para trás, ela passou a ser conhecida como “a Corva Violeta”. Ela se dedicava à causa de corpo e alma, e seu único foco era a próxima missão, o próximo passo em direção à liberdade de sua espécie. Embora respeitasse os aliados rebeldes, geralmente preferia agir sozinha, pois acreditava ser a melhor pessoa para o trabalho.
+Foi então que conheceu outro vastayês que mudaria sua vida para sempre.
+Certo dia, ao entrar na remota cidade montanhosa de Vlonqo em busca de um artefato roubado, uma multidão barulhenta de seres humanos capturou sua atenção. No palco, um artista exuberante e vaidoso cantava antigas canções vastayesas para o público. Ao terminar o espetáculo com uma série de truques baratos e chamativos, pelo menos na opinião de Xayah, a multidão enlouquecida gritava seu nome: Rakan! Rakan! Rakan!Ele curvou-se de forma teatral. Ela o viu como um grande falastrão. Mesmo que fosse um Lhotlan, o tal Rakan não passava de um mu’takl abobalhado. Xayah procurou ignorá-lo e concluiu sua missão... que, ela tinha que admitir, se tornara muito mais fácil graças à forma como Rakan distraía os moradores.
+Antes que Xayah pudesse voltar para a natureza, Rakan a abordou. Após uma série de tentativas fracassadas de conquistá-la, o impetuoso vastayês pediu notícias da tribo Lhotlan. Quando ela disse que eles tinham perdido suas terras, a plumagem dele escureceu, e ela se surpreendeu com a fúria demonstrada por ele. Talvez Rakan não fosse tão inútil quanto ela pensara.
+Quando ela lhe contou sobre sua causa, ele implorou para juntar-se a ela. De olho tão somente no potencial dele para criar distrações, Xayah concordou.
+Quando iniciaram suas viagens, ela passou a ver Rakan como um recurso útil, porém irritante. O exuberante dançarino-guerreiro saltava e dava piruetas com facilidade por entre os inimigos, distraindo-os para que Xayah pudesse atacar. De fato, aquele estilo de luta quase compensava a incompetência dele em se lembrar dos detalhes de cada plano. Rakan também ajudava Xayah de outras maneiras. Enquanto ela era direta e ríspida, ele era perspicaz e carismático, e usava seu charme e jogo de cintura nos momentos em que ela provavelmente recorreria à violência. Ela ficou impressionada com a estranha capacidade de interpretar as emoções e o caráter das pessoas que ele tinha. Às vezes, ela questionava a compaixão de Rakan pelos mortais, mas jamais duvidava de sua devoção à causa rebelde.
+Em certo momento, Xayah percebeu que seus sentimentos por Rakan estavam mudando. O jeito leve e despreocupado com que ele encarava a vida, de certa forma, a atraía. Com o tempo, ela passou a gostar da companhia dele e, embora detestasse admitir, o mundo não parecia mais tão perdido e solitário. Eles se tornaram inseparáveis.
+Em todos os anos desde então, os dois se tornaram grandes ídolos dos vastayeses, e as histórias de suas façanhas não param de se espalhar. Após a invasão noxiana, os ionianos se tornaram mais agressivos e perigosos, principalmente o povo Navori e a odiada “Ordem das Sombras”. Mesmo assim, Xayah e Rakan conseguiram trazer vários vastayeses para o lado deles, e o grande sonho de uma rebelião está tomando forma.
+Juntos, eles vão lutar para recuperar as Primeiras Terras e para que as tribos possam voltar a prosperar.
+

@@ -1,0 +1,40 @@
+Nidalee, a Caçadora Bestial
+Assassino, Mago
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Nidalee.png
+
+Espreitar
+Mover-se pelos arbustos aumenta a Velocidade de Movimento de Nidalee em 10% por 2 segundos, aumentando para 30% em direção a campeões inimigos visíveis dentre 1400 de alcance. Atingir Campeões ou monstros com Arremessar Lança ou Arapuca aciona uma <font color='#FFF673'>Caçada, que concede <font color='#ee91d7'>Visão Mágica deles por 4 segundos. Durante esse tempo, Nidalee recebe 10% de Velocidade de Movimento (aumentando para 30% em direção ao alvo <font color='#FFF673'>Caçado) e o uso de Bote ou Investida contra o alvo é aprimorado.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Nidalee_Passive.png
+
+Arremessar Lança / Bote
+Na forma humana, Nidalee arremessa uma lança perfurante em seu alvo, que acumula dano enquanto está no ar. Como puma, seu próximo ataque irá tentar ferir o inimigo de maneira letal, causando dano inversamente proporcional à Vida do alvo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/JavelinToss.png
+
+Arapuca / Investida
+Na forma humana, Nidalee posiciona uma armadilha para seus oponentes descuidados que, quando ativada, causa dano e os revela. Em forma de puma, ela salta em uma direção, causando dano na área em que aterrissar.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/Bushwhack.png
+
+Ímpeto Selvagem / Patada
+Na forma humana, Nidalee canaliza o espírito do puma para curar seus aliados e lhes concede Velocidade de Ataque por um curto período de tempo. Em forma de puma, ela golpeia em uma direção, causando dano aos inimigos à sua frente.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/PrimalSurge.png
+
+Aspecto do Puma
+Nidalee transforma-se em um puma, recebendo novas habilidades.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/AspectOfTheCougar.png
+
+Criada na mais profunda das selvas, Nidalee é uma rastreadora especialista que pode se transformar em um puma à sua vontade. Nem animal nem mulher, ela defende com ferocidade seu território de todo e qualquer invasor, com armadilhas cuidadosamente colocadas e lanças arremessadas. Ela fere sua presa antes de pular nela em sua forma felina, e dizem os sortudos que sobrevivem que ela é uma mulher selvagem com instintos aguçados e garras ainda mais afiadas...
+
+Há muito, muito, longe dos áridos desertos do Grande Sai, para além das planícies de savanas e estepes das montanhas, estão as grandes selvas orientais de Shurima. Envoltas em mistério, elas abrigam feras selvagens e fantásticas e densas florestas cheias de vida. Mas apesar de toda a beleza que existe por lá, também há perigo e morte à espreita.
+Ninguém sabe como Nidalee terminou ficando sozinha no meio da selva. Trajando meros trapos, a criança recém-nascida sentava sozinha no solo verdejante e seu choro ecoava entre as árvores.
+Sem dúvida, foi isso que atraiu os pumas.
+Uma mãe que passava por ali com seus filhotes aproximou-se da garota, talvez sentindo o cheiro de algo familiar… ou no mínimo de algo que valia a pena salvar. Sem hesitar, ela acolheu Nidalee, que às vezes a seguia e às vezes tinha que ser arrastada por ela de volta para a toca.
+A garota vivia na companhia de feras, correndo e brincando com seus novos irmãos, sem nenhum contato com sua própria espécie nem com qualquer mortal. Os pumas criaram Nidalee como uma criatura da floresta e, com o passar dos anos, ela tornou-se uma habilidosa caçadora. Mas enquanto seus guardiões usavam dentes e garras, Nidalee aprendia a tirar vantagem de tudo que havia ao seu redor. Fazia pomadas com frutomel, usava flores que brilhavam para iluminar a noite e até sementes explosivas para mandar trevoguaris pelos ares.
+Mesmo assim, de vez em quando, Nidalee sentia que perdia o controle sobre o próprio corpo. De repente, sem aviso, suas mãos e pés começavam a alternar entre a forma humana e a forma de fera. Às vezes ela caía da toca, delirando em febre, seguindo as silhuetas nebulosas de duas figuras estranhas. Eles chamavam baixinho por ela, de maneira confusa, porém carinhosa. Eles causavam em Nidalee uma sensação de conforto e aconchego, apesar dos pumas a terem ensinado a sempre desconfiar de forasteiros.
+E com razão.
+Foi no período mais intenso das chuvas de verão que ela viu os Kiilash pela primeira vez. Esses caçadores vastayas percorriam as florestas a cada estação em busca de mortes que dessem prestígio e troféus para mostrar suas proezas. A mãe adotiva de Nidalee tentou afugentá-los, mas tombou, atingida por suas lâminas e lanças.
+Antes que os Kiilash pudessem abatê-la por completo, Nidalee saltou do matagal, uivando de raiva e tristeza. Alguma coisa mudou. Ela sentiu o espírito dos felinos da selva se apossando dela e se transformou como nunca havia se transformado. Atacando como uma fera, ela derrubou o caçador mais próximo com suas garras afiadas e depois voltou à forma humana para arrancar a lança dele. Ao ver isso, os outros Kiilash rugiram e zuniram e, para sua surpresa, Nidalee percebeu que entendia parte do que eles diziam.
+Eles a xingaram, invocando os nomes de seus ancestrais Vasthayshai'rei enquanto batiam em retirada, de mãos vazias.
+Deixando a lança de lado, Nidalee segurou o puma moribundo junto a si. Os irmãos se aproximaram desconfiados, mas com o falecimento da mãe, eles passaram a encarar a metamorfa como sua nova líder, e daquele dia em diante, ela jurou defender seu lar adotivo contra qualquer ameaça.
+Com o passar do tempo, ela aprendeu a controlar melhor seus poderes e passou a controlar com facilidade suas mudanças de forma. Talvez tenha sido o desejo de encontrar outros da sua espécie que a levaram à camaleoa errante Neeko, mas o fato é que as duas se tornaram inseparáveis por um tempo. Nidalee adorava orientar sua nova e curiosa companheira, e as duas exploravam juntas os muitos encantos da selva, até Neeko resolver partir para seguir seu próprio destino longe das terras de Shurima.
+Até hoje, as densas florestas continuam sendo o último território verdadeiramente indomável no mundo, e uma espécie de enigma até para Nidalee. Mesmo assim, em raros momentos de tranquilidade, a caçadora se pega pensando em suas próprias origens — e em seu encontro com os Kiilash — e se um dia ela saberá toda a verdade…
+

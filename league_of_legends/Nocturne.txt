@@ -1,0 +1,35 @@
+Nocturne, o Eterno Pesadelo
+Assassino, Lutador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Nocturne.png
+
+Lâminas Sombrias
+A cada poucos segundos, o próximo ataque de Nocturne atinge os inimigos ao seu redor para causar Dano Físico adicional e curá-lo. Os ataques básicos de Nocturne reduzem esse Tempo de Recarga.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Nocturne_UmbraBlades.png
+
+Portador do Anoitecer
+Nocturne lança uma lâmina de sombras que causa dano, deixa um Rastro do Crepúsculo e faz com que os Campeões deixem um Rastro do Crepúsculo. Enquanto estiver no rastro, Nocturne ignora colisões com unidades e ganha aumento de Velocidade de Movimento e de Dano de Ataque.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/NocturneDuskbringer.png
+
+Proteção das Trevas
+Nocturne fortalece suas lâminas, ganhando Velocidade de Ataque passivamente. Ativar Proteção das Trevas permite que Nocturne desapareça em meio às sombras, criando uma barreira mágica que bloqueia uma única habilidade inimiga e dobra a Velocidade de Ataque passiva dele caso bem-sucedida.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/NocturneShroudofDarkness.png
+
+Horror Indescritível
+Nocturne coloca um pesadelo na mente de seu alvo, causando dano a cada segundo e aterrorizando-o caso ele não saia de seu alcance enquanto durar a habilidade.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/NocturneUnspeakableHorror.png
+
+Paranoia
+Nocturne reduz o raio de visão de todos os Campeões inimigos e ainda remove a visão que eles têm dos aliados. Depois ele pode se arremessar contra um Campeão inimigo que estiver próximo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/NocturneParanoia.png
+
+Uma fusão demoníaca provinda dos pesadelos que assombram todas as mentes sencientes, a coisa conhecida como Nocturne se tornou uma força primordial de puro terror. De aspecto caótico e líquido, ele é uma sombra sem rosto com olhos frios e armada com lâminas enfurecidas. Depois de se libertar do mundo dos espíritos, Nocturne desceu para o mundo dos vivos para se alimentar de um terror que só pode ser cultivado na verdadeira escuridão.
+
+Apesar de toda magia poder ser perigosa e imprevisível, há algumas formas ou disciplinas que mesmo o mais habilidoso dos magos e feiticeiros evita, e por bons motivos. Por séculos, a prática de “magia de sombras” foi considerada proibida por toda a Runeterra, por medo de despertar novamente os horrores que outrora foram liberados no mundo. O maior destes horrores tem um nome, e seu nome é Nocturne.
+Perto do fim das Guerras Rúnicas, grupos de magos guerreiros, desesperados por vitória, procuraram por qualquer vantagem que pudessem conseguir sobre seus adversários. Apesar de não haver registro dos nomes dos primeiros a se livrarem de seus corpos mortais e entrarem no reino dos espíritos, sabe-se que eles passaram a perseguir uns aos outros não só nos campos de batalha, mas também em planos formados por suas emoções e pensamentos subconscientes. Sem os limites das leis da realidade física, eles lutaram de formas que mentes mais mundanas mal compreenderiam, conjurando, inclusive, assassinos sutis e etéreos para fazer sua vontade. Magos das sombras eram particularmente habilidosos nesta arte e foi assim que, por um período, eles conseguiram dominar o reino dos espíritos, lançando-o na penumbra.
+Os pensamentos dos mortais por todo o mundo foram tocados por tal escuridão. Ela sugou sua vontade e infectou seus sonhos com medos sem nome que os atormentavam dia e noite, levando alguns a cometer os atos mais horrendos contra suas próprias famílias.
+Ninguém sabe dizer ao certo se todo esse sofrimento criou Nocturne do nada ou se ele era apenas uma criação assassina menor corrompida em algo mais mortal e com maior vontade própria, mas é certo que a criatura de sombras que surgiu como resultado foi uma de forma insubstancial e de um pavor incompreensível. Nocturne não compreendia bondade, honra ou nobreza, ele era a representação do terror, sem qualquer restrição necessária para se controlar.
+Essa criatura demoníaca uivou dentro do reino dos espíritos e se lançou contra os tolos magos errantes que lhe deram vida, rasgando-os brutalmente em uma tentativa desesperada de por um fim em seu próprio sofrimento. Ele sentia dor, e essa dor o tornou mais cruel, e ele logo adquiriu um gosto pelo medo dos mortais. O tempo não significava nada naquele outro lugar, mas Nocturne prolongava cada perseguição o quanto fosse possível, saboreando a angústia de sua presa antes de cortar sua linha prateada de vida em um instante. Logo, não havia mais ninguém que ousasse entrar no domínio de Nocturne.
+Será que o resultado das Guerras Rúnicas teria sido diferente se o demônio não tivesse feito sua parte além do véu? É difícil dizer ao certo, mas após o ocorrido, o pouco que restara do conhecimento sobre magia das sombras foi escondido e sua prática se tornou punida com pena de morte em muitas terras.
+Preso no reino dos espíritos e com poucos e preciosos intrusos para sustentá-lo, Nocturne começou a passar fome. A única coisa que se aproximava dos deliciosos banquetes de medo que ele já provara era quando mentes mortais vagavam inadvertidamente no além durante suas horas de sono. Atraído por correntes de magia que corriam onde os dois reinos se separavam e onde sonhos pacíficos podiam facilmente se tornar terrores noturnos, Nocturne encontrou uma forma de se manifestar no mundo desperto.
+Passando a existir como uma sombra com olhos queimando em luz fria, Nocturne se tornou um reflexo sinistro dos medos mais primais dos muitos povos de Runeterra. Das cidades agitadas às planícies desoladas, do mais poderoso dos reis ao mais humilde dos camponeses, o demônio é atraído por qualquer fraqueza de espírito que puder distorcer em terror mortal e escuridão eterna.
+

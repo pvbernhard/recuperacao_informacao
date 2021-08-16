@@ -1,0 +1,43 @@
+Senna, A Redentora
+Atirador, Suporte
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Senna.png
+
+Absolvição
+Quando unidades são abatidas perto de Senna, suas almas são periodicamente aprisionadas na Névoa Negra. Senna pode atacar essas almas para libertá-las, absorvendo a Névoa que as aprisiona na morte. A Névoa é o combustível do poder de seu Canhão Relicário, alimentando-o com Dano de Ataque, Alcance de Ataque e Chance de Acerto Crítico. Ataques do Canhão Relicário de Senna demoram mais para disparar, causam dano adicional e concedem a ela brevemente uma parte da Velocidade de Movimento do alvo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Senna_Passive.png
+
+Escuridão Perfurante
+Dos canos gêmeos de seu Canhão Relicário, Senna dispara um raio unificado de luz e sombra através do alvo, curando aliados e causando dano a inimigos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SennaQ.png
+
+Abraço Final
+Senna dispara uma onda de Névoa Negra. Se atingir um inimigo, ela o aprisiona ferozmente, enraizando o alvo e tudo que estiver ao redor dele após um curto intervalo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SennaW.png
+
+Maldição da Névoa Negra
+Senna reúne a Névoa que ela armazenou em sua arma e a transforma em uma tempestade ao seu redor, abraçando a escuridão e se tornando um espectro. Os aliados que entram na área são camuflados e também tomam a forma de espectros enquanto a Névoa os envolve. Espectros têm sua Velocidade de Movimento aumentada, são inalvejáveis e escondem a própria identidade.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SennaE.png
+
+Sombra da Alvorada
+Senna invoca as pedras relicárias dos Sentinelas caídos, dividindo seu canhão relicário em uma miríade de luz e sombra. Ela, então, dispara um raio global que concede escudo a aliados, enquanto causa dano aos inimigos atingidos no centro.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SennaR.png
+
+Amaldiçoada desde a infância a ser perseguida pelo fenômeno sobrenatural da Névoa Negra, Senna se juntou à ordem dos Sentinelas da Luz e lutou bravamente contra seu destino. Ela acabou sendo morta e teve sua alma aprisionada em uma lanterna pelo cruel espectro Thresh. No entanto, por se recusar a perder as esperanças, ela aproveitou seu tempo dentro da lanterna para aprender a usar a Névoa, ressurgindo com uma nova vida e sabendo que jamais voltaria a ser a mesma. Agora, armada com as forças da luz e da escuridão, Senna busca exterminar a Névoa Negra, atraindo o fenômeno para si mesma a cada disparo de sua arma relicária e salvando as almas perdidas que ali residem.
+
+A jornada de Senna para se tornar uma Sentinela da Luz teve início nas sombras. Tudo começou com a Névoa Negra.
+Ela teve seu primeiro encontro com o fenômeno sobrenatural ainda menina, quando os destroços de uma embarcação vinda de um Tormento distante encalharam na ilha onde Senna vivia. Em meio aos destroços, os vestígios de Névoa Negra despertaram ao entrarem em contato com sinais de vida. Senna e o povo da vila sobreviveram à tempestade de almas com a ajuda de um Sentinela que estava pelas redondezas. No entanto, mesmo após o ataque, a Névoa ainda era misteriosamente atraída por Senna.
+A menina estava amaldiçoada, marcada pela Névoa, perseguida incessantemente por seus horrores – ela estava fadada a atrair a escuridão, assim como uma chama viva que fascina uma mariposa moribunda. Senna não sabia dizer quando a Névoa atacaria novamente... mas era ainda pior quando não havia ataque algum, pois ela ficava apreensiva a cada sombra que cruzava. 
+Urias, o Sentinela veterano que salvou Senna, não entendia por que a Névoa era tão atraída por uma mera garota solitária... mas sabia que, se ela quisesse viver, deveria aprender a lutar. Assim, Senna se juntou a Urias como Sentinela da Luz, uma ordem que nasceu nas Ilhas das Bênçãos, onde a Névoa Negra teve origem. A garota se mostrou uma inimiga mortal das trevas, dominando a pistola relicária que Urias lhe havia dado e aprendendo a canalizar sua própria alma e transformá-la em luz.
+Enquanto Senna ficava cada vez mais confortável na presença de Urias, confiando em seus ensinamentos rígidos, ela também aprendia a manter distância de todos os outros. Se Senna permitisse que chegassem muito perto, essas pessoas estariam fadadas a sofrer quando a Névoa viesse. Senna não podia ficar no mesmo lugar por muito tempo. Ela e Urias aprenderam isso quando as pessoas que lhes ofereciam abrigo acabavam inevitavelmente atacadas. Após o assassinato de Urias, Senna não sabia se poderia se aproximar de outra pessoa novamente.
+Relutante, ela procurou a família de Urias em Demacia para informar sobre a tragédia. Lá, ela conheceu Lucian, o filho de seu mentor, que não cedeu até que Senna o deixasse acompanhá-la na vigília de despedida de Urias. Inicialmente, ela ficou abalada e começou a questionar se os muros de proteção que havia criado conseguiriam manter longe alguém tão teimoso, bem-humorado e gentil como Lucian. Com o tempo, ficou claro que o lugar de Lucian era entre os Sentinelas e ao lado de Senna – assim como o lugar dela era ao lado dele. 
+Quanto mais tempo passavam juntos, mais profunda se tornava a ligação entre os dois. Senna percebeu que o mais importante não era quem ela deixava preso fora de seus muros, mas quem ela deixava passar. No entanto, o amor que Lucian nutria por Senna crescia junto à sua vontade de salvá-la da maldição. Com o passar do tempo, essa vontade se tornou o único foco de Lucian, fazendo com que o brilho de seus olhos fossem transferidos para sua arma. Isso deixou Senna receosa – ela temia que Lucian só enxergasse tristeza onde também havia amor.
+E foi durante a busca por uma cura que ambos se envolveram com um sádico espectro chamado Thresh. Quando estavam próximos de desvendar os mistérios da Ruína e da maldição de Senna, Lucian não quis recuar... 
+Assim, as correntes de Thresh estalaram na direção de Senna quando ela se colocou entre seu marido e o espectro. Para Senna, o mais doloroso não foi sentir a foice de Thresh, mas ver a angústia refletida no rosto de Lucian. Com seu último suspiro, Senna gritou para que Lucian fugisse.
+Porém, quando sentiu o golpe fatal e pensou que estava condenada, ela percebeu que ainda havia uma centelha de esperança. Durante toda a sua vida, Senna foi perseguida pela Névoa. Agora já não precisava mais temê-la. Senna poderia mergulhar na escuridão da lanterna de Thresh e ver o que havia lá dentro. 
+Sua maldição se tornou a única chance de salvação.
+Enquanto Lucian passava anos buscando uma maneira de conceder paz à sua amada, Senna explorava sua prisão espectral. Com isso, ela descobriu que a vida era a origem de sua maldição. O brilho da vida em Senna reluzia mais forte do que em qualquer outra pessoa. Ela havia sido infectada pela vida ao ter contato com os destroços da embarcação que trouxe o Tormento. Naquela época, ela foi tocada por uma alma errante e poderosa de vida sobrenatural... 
+E essa vida era algo que a Névoa Negra jamais deixaria escapar. Senna também descobriu que podia usar essa força para atrair a Névoa para si, enfraquecendo a influência do fenômeno sobrenatural sobre as outras almas presas na lanterna. Dentre as almas que ela libertou, estavam Sentinelas que conheciam histórias há muito tempo perdidas sobre as origens da Ruína, a maldição de Senna... e o amor que a havia criado.
+Quando Lucian atacou a lanterna com sua pistola quebrada visando acabar com o sofrimento de todas as almas ali, Senna estava aguardando. Ela fugiu, envolta pela Névoa que absorveu das outras almas. Senna estava morta, mas ainda vivia graças à maldição. Munida de um canhão relicário forjado com as armas de Sentinelas derrotados, ela agora podia canalizar tanto luz quanto escuridão. Sem precisar fugir da Névoa, Senna agora compreende o sofrimento enfrentado pelas almas presas. Mesmo sendo doloroso, ela agora atrai para si a Névoa que envolve esses espíritos e os liberta, enfrentando a escuridão com escuridão. Ao abraçar a morte sempre que se transforma em espectro, Senna se torna igual àqueles que combate e consegue renascer graças à vida que a infecta. 
+Mesmo que o amor de Senna e Lucian tenha sobrevivido até mesmo à morte, ambos enfrentam as consequências do renascimento de Senna. Contudo, graças a um segredo guardado na lanterna, agora ela sabe exatamente o que deve fazer. 
+Achar o Rei Destruído e detê-lo a qualquer custo...
+

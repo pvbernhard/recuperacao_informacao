@@ -1,0 +1,31 @@
+Gragas, o Badernista
+Lutador, Mago
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Gragas.png
+
+Happy Hour
+Gragas cura a si mesmo periodicamente após utilizar uma habilidade.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/GragasPassiveHeal.png
+
+Jogar o Barril
+Gragas rola seu barril até um local, podendo ativá-lo novamente para explodir. Caso isso não aconteça, o barril explodirá sozinho após 4s. A potência da explosão aumenta ao longo do tempo. Os inimigos atingidos pela explosão sofrem Lentidão.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GragasQ.png
+
+Fúria da Bebedeira
+Gragas entorna a bebida de seu barril garganta abaixo, canalizando por 1 segundo. Ao terminar, ele fica torpecidamente poderoso, causando mais dano em seu próximo ataque básico e reduzindo o dano recebido.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GragasW.png
+
+Barrigada
+Gragas avança em direção a um local e colide com a primeira unidade inimiga que encontrar, causando dano a todas as unidades inimigas próximas e atordoando-as.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GragasE.png
+
+Barril Explosivo
+Gragas arremessa seu barril em um local, causando dano e afastando os inimigos pegos no raio da explosão.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GragasR.png
+
+Igualmente alegre e imponente, Gragas é um gigante e arruaceiro mestre-cervejeiro em uma busca pessoal pelo mais perfeito caneco de cerveja. Vindo de partes desconhecidas, ele busca por ingredientes raros entre a vastidão intocada de Freljord, testando cada receita enquanto segue seu caminho. Frequente embriagado e extremamente impulsivo, ele é lendário pelas lutas de bar que começa, que quase sempre acabam em festas que duram a noite toda e em muitos danos de propriedade. Qualquer aparição de Gragas certamente será seguida de bebidas e destruição, nessa ordem.
+
+Para Gragas, a única coisa mais importante do que lutar é beber. Sua sede insaciável por fermentações mais fortes o levou a buscar os ingredientes mais potentes e inconvencionais para jogar em seu alambique. Impulsivo e imprevisível, esse beberrão badernista adora abrir, na mesma medida, barris e cabeças. Graças à suas misturas estranhas e natureza temperamental, beber com Gragas sempre é uma proposta arriscada.
+Ele tem um amor eterno por uma boa bebida, mas sua constituição massiva o impede de chegar a um estado divino de intoxicação. Certa noite, quando ele havia drenado todos os barris e ficou querendo mais, Gragas foi pego de surpresa por uma ideia — em vez de um banco de bar, como de costume: por que é que ele não conseguia fazer uma bebida que o deixaria bêbado de verdade e de uma vez por todas? Foi quando ele fez o voto de criar a fermentação perfeita.
+A missão de Gragas eventualmente lhe conduziu a Freljord, onde a promessa de conseguir a água mais pura do ártico para sua receita o levou até destroços glaciais nunca antes explorados. Enquanto estava perdido em uma nevasca impiedosa, ele encontrou um gigantesco abismo silvante. E lá ele encontrou: um estilhaço de gelo perfeito, diferente de tudo o que ele já havia visto. Não bastasse esse estilhaço que não derretia adicionar propriedades incríveis à sua ceva, ela também tinha um efeito colateral útil - mantinha a mistura refrescada na temperatura perfeita para servir.
+Sob o efeito de sua nova mistura, Gragas seguiu em direção à civilização, ansioso para compartilhar os frutos fermentados de seu trabalho. Assim como desejava o destino, a primeira aglomeração a chamar Gragas pelos olhos daria forma ao futuro de Freljord. Ele se enfiou em uma negociação que não ia nada bem entre duas tribos discutindo uma aliança com Ashe. Embora ela tenha agradecido por uma interrupção na tensão, os outros guerreiros, reclamaram da intrusão e gritaram insultos ao beberrão espaçoso. Seguindo sua natureza à risca, Gragas respondeu com uma cabeçada diplomática, dando início a uma briga equivalente somente às lendas de Freljord.
+Quando os derrotados pela bela briga finalmente despertaram, Ashe propôs um drinque como alternativa à luta. Entre uns e outros goles, os ânimos se acalmaram e as duas tribos, outrora prestes à travar guerra, se uniram graças ao amor comum pela bebida de Gragas. Embora a briga tenha sido evitada e Gragas clamado como herói, ele ainda não havia conquistado seu sonho de bênção inebriante. Portanto, mais uma vez, ele partiu errante pela tundra em busca de ingredientes para o caneco perfeito de Runeterra.

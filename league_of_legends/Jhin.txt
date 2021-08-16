@@ -1,0 +1,40 @@
+Jhin, o Virtuoso
+Atirador, Mago
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Jhin.png
+
+Sussurro
+Sussurro, o canhão de mão de Jhin, é um instrumento preciso que foi projetado para causar muito dano. Ele dispara com frequência fixa e carrega apenas quatro projéteis. Jhin encanta o projétil final com magia sombria para causar Acerto Crítico e dano de execução adicional. Sempre que causa um Acerto Crítico, Sussurro inspira Jhin com um impulso de Velocidade de Movimento.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Jhin_P.png
+
+Granada Dançante
+Jhin lança um cartucho mágico em um inimigo. Ele pode atingir até quatro alvos e acumula dano a cada vez que causa um abate.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/JhinQ.png
+
+Florescer Mortal
+Jhin brande sua bengala, fazendo um disparo único com incrível alcance. Ele atravessa tropas e monstros, mas para no primeiro Campeão atingido. Se o alvo foi recentemente atingido por aliados de Jhin, por Armadilhas de Lótus ou recebeu dano de Jhin, ele será enraizado.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/JhinW.png
+
+Audiência Cativa
+Jhin posiciona uma armadilha de lótus invisível que floresce ao ser pisada. Ela reduz a velocidade de inimigos próximos antes de causar dano com uma explosão de pétalas serrilhadas. <font color='#FFFFFF'>Beleza em Morte - Quando Jhin abate um Campeão inimigo, uma armadilha de lótus florescerá próximo a seu cadáver.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/JhinE.png
+
+Aclamação
+Jhin canaliza, transformando a Sussurro em um mega-canhão de ombro. Ela é capaz de fazer 4 super disparos com extremo alcance que atravessam tropas e monstros, mas que param no primeiro campeão atingido. A Sussurro mutila os inimigos atingidos, o que reduz sua velocidade e aumenta o dano de execução. O 4º disparo é feito com perfeição, de poder épico e garante um acerto crítico.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/JhinR.png
+
+Jhin é um meticuloso psicopata criminoso que acredita que o assassinato é uma arte. Outrora um prisioneiro ioniano, mas libertado por membros obscuros do conselho regimental de Ionia, o assassino serial agora trabalha como assassino de seu conluio. Usando a própria arma como pincel, Jhin cria obras artisticamente brutais, horrorizando vítimas e espectadores. Ele sente um cruel prazer ao fazer suas encenações nefastas, tornando-o a escolha ideal para transmitir a mais poderosa das mensagens: o terror.
+
+Qualquer viajante que passar por uma vila de Ionia acabará ouvindo o conto da Captura do Demônio Dourado. Retratado em várias peças e poemas épicos, o banimento do terrível espírito é celebrado até os dias de hoje.
+No entanto, todo mito traz um fundo de verdade, e a verdade sobre o Demônio Dourado está longe de ser a descrita na ficção.
+As montanhas ao sul de Ionia por anos foram amaldiçoadas pela vil criatura. Da província de Zhyun até as distantes Shon-Xan e Galrin, um monstro matava dezenas de viajantes e, por vezes, até fazendas inteiras, deixando para trás um perverso rastro de corpos. Milícias armadas vasculhavam as florestas, líderes locais contratavam caçadores de demônios e mestres de Wuju patrulhavam as estradas, mas nada parecia impedir a abominável fera.
+Desesperado, o Conselho de Zhyun enviou um pedido de ajuda ao Grande Mestre Kusho, da Ordem Kinkou. Encarregado de manter o equilíbrio entre o mundo espiritual e o material, Kusho era especialista em expulsar demônios. Partindo em segredo para que a astuta criatura não soubesse de suas intenções, Kusho, seu filho adolescente Shen, e seu jovem aprendiz Zed, dirigiram-se até a província. Eles ajudaram inúmeras famílias destruídas pela matança, analisaram horrendas cenas de crime e buscaram conexões entre as mortes. Kusho logo percebeu que eles não eram os primeiros a caçar esse assassino, e sua certeza de que aquilo ia além do âmbito demoníaco só crescia.
+Durante os quatro anos seguintes, o Demônio Dourado permaneceu à solta e essa longa investigação acabou mudando a vida daqueles três homens que o perseguiam. Os famosos cabelos vermelhos de Kusho agora estavam grisalhos; Shen, outrora conhecido por sua perspicácia e bom-humor, tornou-se um homem frio; e Zed, o grande prodígio do templo de Kusho, começou a ter problemas nos estudos. Era como se o demônio soubesse que eles o estavam procurando e saboreasse o tormento que tal fracasso causava.
+Dizem que quando finalmente conseguiram encontrar um padrão nas mortes, o Grande Mestre dissera "O bem e o mal não são verdades. Ambos nascem do homem, e cada um as observa em tons diferentes." Kusho pensou em desistir da investigação, crente de que não caçavam um demônio, mas sim um humano ou vastayês perverso que os fez extrapolar grande parte das regras dos Kinkou. Shen e Zed se negaram a desistir depois de tudo que sacrificaram para aprisionar o assassino, convencendo-o a continuar na busca.
+Nas vésperas do Festival do Florescer Espiritual, na Passagem de Jyom, Kusho se disfarçou como um renomado calígrafo para se misturar com outros artistas convidados. E então esperou. Shen e Zed prepararam uma armadilha cuidadosamente planejada e, enfim, encontraram-se diante de quem tanto procuravam. Kusho estava certo: o famoso "Demônio Dourado" não passava de um contrarregra de casas de ópera e teatros itinerantes de Zhyun, que atendia pelo nome de Khada Jhin.
+Após capturarem o assassino, o jovem Zed queria matar o homem que perseguiram por anos a todo custo, mas Kusho o impediu. Ele ressaltou aos alunos que já haviam quebrado as regras, e matá-lo só pioraria as coisas. Kusho temia que, caso as pessoas tomassem conhecimento de que Jhin era apenas um homem, a harmonia e a confiança que definiam a cultura de Ionia seria ameaçada, ou pior, que isso levasse a mais pessoas seguindo o caminho do assassino, cometendo crimes semelhantes. Apesar das ações de Jhin, o célebre mestre decidiu que o assassino deveria ser levado vivo e encarcerado na prisão do monastério em Tuula.
+Shen não concordou, mas respeitou a lógica fria da decisão de seu pai. No entanto, Zed, perturbado e assombrado pelos horrores que testemunhara, não conseguia entender nem aceitar tal ato de clemência. Assim, o rancor começou a florescer em seu coração.
+Em Tuula, Jhin mantivera seus segredos aprisionados consigo, revelando muito pouco de si durante os anos que passou ali. Os monges que o vigiavam perceberam que ele era um aluno exemplar e muito habilidoso em diversas áreas, como forja, poesia e dança. Entretanto, não encontraram nada que pudesse curá-lo de suas fascinações mórbidas. Enquanto isso, além dos muros do monastério, Ionia caía em desgraça com as invasões do império noxiano, e a guerra despertou a sede de sangue em uma nação serena.
+Jhin foi libertado de Tuula algum tempo depois da guerra contra Noxus, possivelmente para ser usado como arma por um dos vários elementos radicais que desejavam poder sobre as Primeiras Terras perto do fim do conflito. Ele agora tem acesso aos novos recursos das armarias de Kashuri, mas a forma como ele chegou à posse de tais elementos de destruição e a conexão que mantinha com os Kashuri ainda são um mistério.
+Independentemente de quem eram seus patronos ocultos, o fato é que deram a Jhin fundos quase ilimitados, e pareciam ansiosos para assistir às suas "performances" cada vez mais populosas. Recentemente, ele atacou membros da ordem Yanlei de Zed, e chacinas em massa com sua clássica "assinatura" têm ocorrido não só nas regiões de Ionia, mas também em Piltover e Zaun.
+Toda Runeterra parece ser uma tela para a devastadora arte de Khada Jhin, e somente ele sabe para onde a próxima pincelada levará o derramamento de sangue.
+

@@ -1,0 +1,43 @@
+Lillia, o Florir Receoso
+Lutador, Mago
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Lillia.png
+
+Ramo Onírico
+Atingir um Campeão ou monstro com uma habilidade causa dano adicional com base na Vida máxima do alvo ao longo do tempo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Lillia_Icon_Passive.Lillia.png
+
+Golpes Florescentes
+Lillia ganha acúmulos de Velocidade de Movimento passivamente ao atingir inimigos com habilidades. Ela pode ativar esta habilidade para causar Dano Mágico aos inimigos próximos e Dano Verdadeiro adicional na porção externa do círculo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LilliaQ.png
+
+Cuidado! Iiip!
+Lillia causa dano em uma área próxima, com dano amplificado no centro.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LilliaW.png
+
+Semente Espiral
+Lillia lança uma semente que causa dano e reduz a velocidade dos inimigos atingidos. Caso não atinja nada, Semente Espiral continuará avançando até colidir com uma parede ou alvo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LilliaE.png
+
+Cadência de Ninar
+Todos os inimigos com Pó dos Sonhos são afetados por Sonolência e adormecem em seguida. Esses inimigos sofrem dano adicional se forem acordados de forma abrupta por dano.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LilliaR.png
+
+Extremamente tímida, Lillia, a faunesa feérica, percorre saltitante as florestas de Ionia. Sempre escondida a pouca distância dos humanos — cuja misteriosa natureza lhe causa fascínio e, ao mesmo tempo, receio — Lillia espera descobrir por que os sonhos deles não chegam mais à Árvore dos Sonhos. Agora, ela percorre Ionia com um cajado mágico nas mãos em busca dos sonhos não realizados das pessoas. Somente assim, a própria Lillia poderá florescer e ajudar os humanos a resolverem seus medos e encontrarem seu brilho interior. Iiip!
+
+Em Ionia, a magia está entranhada na terra. As florestas crescem de maneira vibrante, e as árvores costumam ter quase tantas cores quanto folhas, impregnadas pelas maravilhas do reino espiritual.
+Mas há uma floresta escondida que se alimenta de um tipo diferente de magia; um jardim com uma árvore que abriga os sonhos da humanidade em suas flores.
+A Árvore dos Sonhos nasceu de uma semente do Salgueiro Divino, que dominava a paisagem do bosque ancestral dos Omikayalan. Deixada para trás quando o Salgueiro Divino foi tragicamente derrubado, a semente criou raízes no que viria a ser conhecido como o Jardim do Esquecimento. A Árvore dos Sonhos, assim como muitos dos descendentes dos Omikayalan, ficou sob os cuidados de Ivern, o Pai do Verde. Com o tempo, ela cresceu em espiral, espalhando a magia dos desejos da humanidade sempre que seus botões carregados de sonhos floresciam.
+Lillia nasceu quando um dos próprios sonhos da árvore foi capturado em um botão que caiu no chão antes que pudesse florescer; algo que nunca tinha acontecido antes. Após brotar e se tornar um estranha criatura com traços de faunesa e um botão de flor na cabeça, a única companhia de Lillia era sua árvore-mãe e os sonhos que chegavam ao jardim todas as noites. Lilia ajudava a cuidar dos botões e aprendia com eles sobre a humanidade. Encantada com as pessoas e os lugares que vislumbrava, ela passava todos os momentos de vigília experimentando um turbilhão de emoções e desejos que os mortais só viam quando fechavam os olhos.
+Ao cuidar dos sonhos, Lillia também cuidava dos sonhadores. Ela passou a considerar cada um deles um novo amigo, e sonhava um dia poder cumprimentar as pessoas que imaginavam aquelas maravilhas. Lilia queria tanto isso que seus próprios desejos se condensaram em um botão na árvore.
+Mas quando Lillia finalmente conheceu os humanos, não foi como lembrar-se de um sonho recorrente. Foi mais como um despertar.
+Algo estava acontecendo no mundo exterior à floresta de Lillia. A guerra ardia como fogo pela terra e, com o tempo, menos sonhos chegavam ao jardim. A própria árvore ficou doente e foi infectada por galhas: emaranhados que se envolviam em seu tronco e exalavam escuridão.
+Lillia fez o possível para nutrir sua árvore-mãe e os sonhos que permaneciam em seus botões, mas, pouco tempo depois, o jardim ficou tão fraco que a violência do mundo o invadiu. Certa noite, guerreiros entraram na floresta e perseguiram uma criatura solitária até a Árvore dos Sonhos. Com um só corte, o galho que continha os sonhos não realizados de Lillia despencou no chão.
+Lillia se desesperou e os fez dormir, chocada com a diferença entre os mortais que pensava conhecer e os que havia encontrado.
+Eles tinham tanto medo; e mais emaranhados do que brilho. Eles eram como as galhas…Mas, enquanto os guerreiros dormiam e Lillia chorava, um sonho emergiu da figura solitária que os demais estavam caçando. Sem forças, ele flutuou em direção ao galho quebrado no chão e entrou no botão do ramo.
+Lillia o apanhou. Ela podia sentir o sonho. Enquanto ela sussurrava e o acalmava, ele brilhava cada vez mais, e ela também. O botão em sua cabeça desabrochou, e a magia começou a rodopiar como um pólen cintilante. Naquele momento, tomada por um turbilhão de possibilidades e admiração, a própria Lillia floresceu… até que, com um espirro, ela espalhou a magia pela floresta.
+Os humanos acordaram, um após o outro, sem saber como tinham chegado ali ou o que faziam na floresta. Nenhum deles notou a discreta faunesa atrás da árvore. Aliviada, Lillia observou os humanos partirem. Ela ainda via apenas emaranhados confusos, mas agora sabia que ainda havia um brilho sob a superfície.
+E, se os sonhos deles não chegassem até a árvore, ela teria que trazê-los.
+Com o galho embaixo do braço, Lillia saiu do jardim e entrou no mundo dos humanos; um mundo que ela sempre quisera conhecer, mas que agora a assustava mais do que tudo. Era tão diferente de tudo que ela compreendia.
+Sempre escondida, agora Lillia ajuda os sonhos das pessoas a nascerem, estimulados por vislumbres de quem eles poderiam ser e pelo que pode estar sufocado sob os emaranhados. Quando ajuda os humanos a realizarem seus desejos mais profundos, Lillia percebe seus próprios desejos, e o botão em sua cabeça sempre floresce quando ela fica feliz.
+Embora a escuridão possa estar invadindo Ionia mais uma vez, ela é apenas uma máscara e, por baixo dela, ainda há o brilho familiar da esperança. Lillia acredita que somente enfrentando o mundo, e enfrentando a si mesma, ela poderá desfazer seus emaranhados.
+

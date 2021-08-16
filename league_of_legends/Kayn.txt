@@ -1,0 +1,36 @@
+Kayn, o Ceifador das Sombras
+Lutador, Assassino
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Kayn.png
+
+A Foice Darkin
+Kayn empunha uma arma ancestral, lutando contra Rhaast, o darkin que vive dentro dela, pelo controle. Ou o <font color='#fe5c50'>Darkin triunfará ou Kayn dominará Rhaast para se tornar o <font color='#8484fb'>Assassino das Sombras.<font color='#fe5c50'>Darkin: Cura uma porcentagem do dano de habilidades causado a Campeões.<font color='#8484fb'>Assassino das Sombras: Causa dano adicional nos primeiros segundos em combate com Campeões inimigos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Kayn_Passive_Primary.png
+
+Corte Ceifador
+Kayn avança, depois ataca. Ambos dão dano.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/KaynQ.png
+
+Alcance da Lâmina
+Kayn causa dano e reduz a velocidade dos alvos na linha de fogo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/KaynW.png
+
+Passo das Sombras
+Kayn pode atravessar terrenos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/KaynE.png
+
+Transgressão do Umbral
+Kayn se esconde no corpo de um inimigo e causa bastante dano quando rasga sua saída.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/KaynR.png
+
+Inigualável praticante da letal magia sombria, Shieda Kayn luta para alcançar seu verdadeiro destino: um dia comandar a Ordem das Sombras rumo a uma nova era de supremacia ioniana. Indiferente à maquiavélica degradação que ela causa em seu corpo e mente, ele empunha uma senciente arma darkin chamada Rhaast. Só duas coisas podem acontecer: ou Kayn faz a arma obedecê-lo... ou a foice maligna o consumirá completamente, preparando o terreno para a destruição de toda Runeterra.
+
+Nascido em Noxus, Shieda Kayn e seus semelhantes foram recrutados como crianças-soldado, uma prática nefasta praticada apenas pelos comandantes mais cruéis do império de Boram Darkwill. Após uma desastrosa batalha no Placídio de Navori, a invasão deliberadamente se transformou em uma prolongada e desgastante guerra. A compaixão ioniana era uma fraqueza a ser explorada; Noxus sabia que os guerreiros hesitavam antes de executar alguém que poderia ser inocente. Assim, mal conseguindo segurar a espada que lhe fora dada, o primeiro dia de batalha de Kayn também prometia ser o último.
+Avançando sobre a província de Bahrl, as forças noxianas aportaram na foz do Rio Epool. Kayn e as outras crianças eram uma vanguarda relutante que enfrentava grupos desorganizados de nativos que tentavam defender seus lares dos persistentes invasores. Enquanto seus jovens companheiros eram aniquilados ou fugiam do campo de batalha, Kayn não mostrava nenhum sinal de medo. Ele soltou sua pesada espada e apanhou uma foice caída, virando-se para encarar os ionianos estupefatos no exato momento em que os noxianos se infiltraram pelo flanco.
+A carnificina foi atordoante. Fazendeiros, caçadores — e até alguns vastaya — foram aniquilados sem cerimônia.
+Dois dias depois, quando a notícia já tinha se espalhado por todos os territórios do sul, a Ordem das Sombras chegou àquele cenário aterrador. Seu líder, Zed, sabia que esta área não tinha nenhuma relevância tática. O massacre fora apenas um aviso. Noxus não teria piedade.
+Foi então que um pedaço reluzente de aço chamou sua atenção. Uma criança de no máximo dez anos estava deitada na lama, apontando sua foice quebrada para o mestre assassino e com punhos retesados e ensanguentados. Os olhos do garoto expressavam uma dor incompatível com sua idade, mas que ainda assim transmitia toda a ira de um guerreiro calejado. Esse tipo de tenacidade era algo que não podia ser ensinado. Zed viu nesse garoto, nesse sobrevivente noxiano abandonado, uma arma que poderia se virar contra aqueles que o mandaram até aqui para morrer. O assassino estendeu a mão e recebeu Kayn na Ordem das Sombras.
+Os acólitos normalmente passavam anos treinando com uma única arma, mas Kayn aprendeu a usar todas elas. Para ele, elas não passavam de meras ferramentas e apenas ele era a verdadeira arma. Ele considerava a armadura um peso desnecessário e preferia se esconder nas sombras para exterminar seus inimigos com agilidade e discrição. Essas execuções rápidas enchiam de medo os corações dos que tinham a sorte de serem poupados.
+E a lenda de Kayn crescia, assim como sua arrogância. Ele realmente acreditava que um dia seu poder ofuscaria até o do próprio Zed.
+Essa arrogância levou Kayn a aceitar um desafio final: procurar a arma darkin que tinha sido desenterrada recentemente em Noxus e impedir que ela fosse usada contra os abatidos defensores de Ionia. Ele foi sem hesitar e sem jamais questionar por que o escolheram para esta missão. De fato, enquanto qualquer outro acólito teria destruído a foice viva conhecida como Rhaast, Kayn resolveu ficar com ela.
+Ele foi corrompido no momento em que colocou as mãos na arma, segurando-a com firmeza e determinação. Rhaast há muito esperava que o hospedeiro ideal viesse para que ele e seus irmãos darkin pudessem assolar o mundo juntos, mas Kayn não seria facilmente dominado. Ele voltou para Ionia triunfante, convencido de que Zed iria nomeá-lo como o novo líder da Ordem das Sombras.
+

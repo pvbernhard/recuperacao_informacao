@@ -1,0 +1,38 @@
+Akshan, o Sentinela Rebelde
+Atirador, Assassino
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Akshan.png
+
+Lutando Sujo
+Os Ataques e Habilidades de Akshan causam dano adicional a cada terceiro acerto e concedem a ele um Escudo se o alvo for um Campeão. Ao Atacar, ele desfere um Ataque adicional que causa dano reduzido. Se cancelar o Ataque adicional, ele recebe Velocidade de Movimento.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/akshan_p.Akshan.png
+
+Bumerangue Vingativo
+Akshan arremessa um bumerangue que causa dano na ida e na volta, ganhando alcance a cada vez que atingir um inimigo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/AkshanQ.png
+
+Rebeldia
+Akshan marca Campeões inimigos passivamente como Canalhas quando eles abatem Campeões aliados. Se Akshan abater um Canalha, ressuscita o aliado abatido, recebendo ouro adicional e removendo todas as marcas. Quando a Habilidade é ativada, Akshan fica camuflado, recebendo Velocidade de Movimento e Regeneração de Mana enquanto se move em direção a Canalhas. Akshan perde a camuflagem rapidamente enquanto não estiver em um arbusto ou próximo a um terreno.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/AkshanW.png
+
+Impulso Heroico
+Akshan dispara um arpéu em um terreno e se balança ao redor dele, atirando repetidamente no inimigo mais próximo enquanto estiver se balançando. Ele pode saltar antecipadamente ou ser derrubado ao colidir com Campeões ou terrenos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/AkshanE.png
+
+Punição
+Akshan trava a mira em um Campeão inimigo e começa a armazenar balas. Ao terminar, ele dispara todas as balas armazenadas, causando dano com base na Vida perdida do primeiro Campeão, tropa ou estrutura que atingir.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/AkshanR.png
+
+Akshan ri da cara do perigo, lutando contra o mal com carisma, determinação e desejo de vingança, mas, estranhamente, sem vestir uma camisa sequer. É extremamente habilidoso na arte do combate furtivo, capaz de sumir da vista dos inimigos e reaparecer quando menos se espera. Com um firme senso de justiça e uma arma lendária que pode reverter a morte, ele corrige os delitos dos canalhas de Runeterra e vive de acordo com um código de conduta particular: "Não seja babaca".
+
+No leste de Shurima, um vingador honrado salta de sombra em sombra, perseguindo malfeitores. O castigo que traz é rápido e infalível, imposto por uma arma peculiar que corrige os delitos de seus adversários.
+Criado nas ruas da cidade de Marwi, Akshan descobriu o significado de injustiça muito cedo. Num lugar onde os senhores da guerra tomavam tudo o que queriam, a maioria das pessoas sobrevivia baixando a cabeça e cuidando apenas da própria vida. Por mais que tentasse, o jovem Akshan nunca conseguia fazer vista grossa para más ações e intervinha sem hesitar quando via alguém sofrer maus-tratos. Essa atitude lhe rendeu muitos inimigos poderosos e, numa data fatídica, uma surra que o deixou às portas da morte.
+Porém, a sorte estava ao lado dele. Uma senhora chamada Shadya o encontrou inconsciente na rua onde ela morava. De acordo com os costumes de Marwi, ela não deveria se envolver; mas, mesmo assim, ela acolheu o jovem Akshan e, contra todas as probabilidades, ele se recuperou.
+Ao recobrar os sentidos, Akshan percebeu que sua salvadora não era uma mulher comum. Shadya era integrante dos Sentinelas da Luz, uma ordem antiga dedicada a lutar contra os Tormentos e erradicar os agentes da Névoa Negra. Em Akshan, ela viu um jovem problemático, teimoso, rebelde... e vulnerável. Depois de muitos conflitos e discussões com o garoto a respeito das regras próprias da casa de uma Sentinela, que não eram poucas, Shadya logo descobriu nele muitas qualidades admiráveis. Ele tinha coragem e também consciência – uma combinação rara em Marwi. Ao ver o imenso potencial do rapaz, Shadya propôs um acordo: ela o deixaria ficar lá, a salvo das garras dos inúmeros inimigos, e, em troca, ele se dedicaria à ordem dos Sentinelas. Shadya e Akshan forjaram um vínculo forte enquanto ela lhe ensinava tudo o que sabia sobre como sobreviver sendo uma Sentinela solitária. Akshan, o menino de rua briguento, cresceu e tornou-se Akshan, o algoz dos canalhas. Dia após dia, suas habilidades aumentavam, mas ele via sua mentora cada vez mais distante e aflita.
+Finalmente, Shadya contou ao pupilo o motivo da preocupação: havia um Tormento a caminho. Era maior que qualquer outro já visto e trazia um exército de espectros e mortos-vivos das Ilhas das Sombras. A única esperança de deter o cataclismo jazia nas antigas armas dos Sentinelas, enterradas nas criptas e tumbas de Shurima. Para salvar o mundo da ruína, precisariam encontrar essas armas o quanto antes. Para seu desalento, Shadya descobriu que senhores da guerra da região já haviam saqueado as armas. Ela implorou que entregassem os artefatos para auxiliar no combate inevitável contra o Tormento, mas eles recusaram o pedido, decididos a usar o poder misterioso das armas em benefício próprio.
+O tempo se esgotava, e Akshan e Shadya foram obrigados a improvisar com o que já tinham. Ao avaliar o arsenal, Akshan descobriu uma arma espetacular escondida no porão da base, mas, alarmada, sua mentora a tomou e o proibiu de usá-la. A arma, conhecida como Penitência, estava imbuída de um encantamento antigo que lhe conferia um poder estranho e aterrador: era capaz de tirar a vida de um assassino e, com isso, devolver a das vítimas mais recentes dele.
+"Ninguém deve empunhar essa arma", disse Shadya. "É melhor deixar as questões de vida e morte nas mãos do destino."
+Mas Akshan ainda se rebelava contra as regras dos Sentinelas e tinha opiniões ainda mais incisivas a respeito do destino. Passara a vida toda vendo pessoas boas sofrerem horrores enquanto as ruins faziam o que queriam sem sofrer consequências. Se existia um destino, este precisava de ajuda urgente – algo que a Penitência podia oferecer.
+À medida que seu interesse pela arma crescia, Akshan extraía a história dela de Shadya, até chegar a uma descoberta chocante: anos atrás, ao encontrar Akshan inconsciente na rua, a mentora havia usado a arma para salvá-lo. Com a Penitência, ela havia matado o criminoso que quase o assassinara e, fazendo isso, devolvera a vida a Akshan. Isso o fez pensar: por que só ele, dentre todas as pessoas, merecia ser ressuscitado pela arma? Sem dúvida, outras pessoas mereciam mais.
+Enquanto Akshan questionava as regras antiquadas da ordem, sua mentora continuava a insistir para que os senhores da guerra entregassem as armas roubadas. A tensão cresceu entre os dois lados até que, num dia trágico, Akshan voltou para casa e encontrou Shadya assassinada na rua, quase no mesmíssimo lugar onde ele estivera caído anos antes.
+Akshan sabia o que deveria fazer. Depois de fazer algumas alterações essenciais na Penitência, ele partiu para o deserto escaldante com a arma proibida e uma enorme sede de vingança. Embora não soubesse qual dos líderes guerreiros havia matado sua mentora, sabia como descobrir: ele eliminaria um por um até Shadya voltar à vida.
+

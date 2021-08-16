@@ -1,0 +1,34 @@
+Swain, o Grande General Noxiano
+Mago, Lutador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Swain.png
+
+Bando Voraz
+Os corvos de Swain coletam Fragmentos de Alma que o curam e aumentam permanentemente a Vida máxima dele. Swain pode clicar com o botão direito em um Campeão inimigo imobilizado para puxá-lo para perto, causando dano e arrancando um Fragmento de Alma.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Swain_P.png
+
+Mão da Morte
+Swain dispara vários raios de poder sombrio que perfuram os inimigos. Inimigos atingidos sofrem mais dano para cada raio que os atingir.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SwainQ.png
+
+Visão do Império
+Swain abre um olho demoníaco que causa dano e reduz a velocidade dos inimigos. Campeões atingidos são revelados e concedem um Fragmento de Alma a Swain.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SwainW.png
+
+Nuncamova
+Swain lança uma onda de poder demoníaco para a frente, que então retorna para ele e enraiza os inimigos que atinge.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SwainE.png
+
+Ascensão Demoníaca
+Swain se transforma em demônio e drena Vida de Campeões, tropas e monstros neutros próximos. Ele pode conjurar Chama Demoníaca para dizimar inimigos próximos com uma explosão de fogo espiritual, causando dano equivalente à quantidade de Vida drenada por ele e encerrando sua transformação.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SwainR.png
+
+Jericho Swain é o líder visionário de Noxus, uma nação expansionista que venera apenas a força. Apesar de ter sido abatido e mutilado nas guerras ionianas, onde perdeu o braço esquerdo, ele tomou o controle do império com uma determinação implacável... e uma nova mão demoníaca. Agora, Swain comanda os esquadrões da linha de frente, marchando contra uma escuridão que se aproxima e que somente ele pode ver – em vislumbres capturados por corvos sombrios dos cadáveres à sua volta. Em um turbilhão de sacrifícios e segredos, o maior segredo de todos é que o verdadeiro inimigo vem de dentro.
+
+Jericho Swain, nascido em uma das muitas famílias patrícias que surgiram após a construção das muralhas em torno de Noxus, parecia destinado a uma vida de privilégios. As casas aristocráticas haviam tido um papel importante na ascensão de Boram Darkwill ao poder, sempre sob a retórica de que sua herança nobre era a maior força da nação.
+No entanto, muitas almejavam uma influência maior ainda, o que as levou a conspirar contra Darkwill em uma cabala secreta unida por nada mais do que o símbolo de uma rosa negra. Ao descobrir a intriga, Swain executou pessoalmente os conspiradores mais proeminentes. Dentre eles estavam seus próprios pais, cujos murmúrios sobre uma certa “moça pálida” o haviam alertado sobre a ameaça a Noxus, que ele valorizava mais do que a nobreza ou a família. 
+Eles buscavam um poder, uma voz amorfa que gargalhava na escuridão do Bastião Imortal. Talvez algo como o grasnar de um corvo…Quando Swain expôs a cabala, ofereceram a ele uma comissão no exército noxiano, longe de tudo o que ele conhecia. Lá ele viu em primeira mão o que realmente estava por trás de tamanha força militar: ao contrário do que ele acreditava, não eram os noxianos, e sim a capacidade de unir todos os homens independentemente de suas origens. Nas linhas de frente, o escravo estrangeiro era igual ao nobre de berço. Mesmo assim, após cada batalha, Swain não conseguia ver nada além de sombras. Nuvens de corvos negros…Após defender a fronteira oeste, Swain estabeleceu sua reputação em Shurima, onde suas forças ergueram inúmeros noxtoraa sobre as areias do deserto. No entanto, com o tempo, ficou evidente que a ganância era a única força motivadora do império. O velho Boram Darkwill, com suas guerras em diversos frontes e uma obsessão desenfreada por relíquias mágicas, estava claramente apresentando sinais de insanidade. Quando Noxus invadiu Ionia, Darkwill começou a tomar decisões ainda mais absurdas, ordenando que tropas inteiras explorassem os territórios em busca de objetos que supostamente estenderiam o tempo de vida mortal. Com o enfraquecimento das forças de Swain, ficou quase impossível enfrentar o inimigo. Certo dia, na Batalha do Placidium, após atrair a milícia local até o que seria uma armadilha, o exército de Swain foi simplesmente assolado. Os veteranos foram dizimados e Swain ficou gravemente ferido: além do joelho destroçado, seu braço esquerdo conheceu toda a força das lâminas ionianas.
+O general estava à beira da morte quando um corvo chegou para se alimentar de seu corpo, ao que Swain foi tomado por uma familiar escuridão. Mas ele não ia se render... ele não podia se render. Swain olhou diretamente nos olhos do corvo e viu o reflexo do mal que estrangulava o coração de Noxus. Uma rosa negra. Uma mulher pálida... e seu imperador fantoche. O general percebeu que não havia derrotado a cabala secreta e que eles haviam conspirado para a sua morte após recrutarem Darkwill, o homem que falharam em destronar. Esses vislumbres não se deram pela mente do corvo, e sim por algo mais além. O poder que seus pais tanto buscavam, os olhos demoníacos brilhando no escuro…Expulso do exército após seu “fracasso”, Swain, que agora não passava de um aleijado, decidiu descobrir o que realmente ocorria no cerne do Bastião Imortal - uma entidade ancestral que se alimentava dos moribundos e consumia seus segredos, como haviam tentado fazer com ele. Swain contemplou a escuridão de frente e enxergou o que nem mesmo ela conseguia: um jeito de dominá-la. Embora suas meticulosas preparações tenham levado anos, Swain e seus aliados remanescentes tomaram o controle de Noxus em uma única noite. Fisicamente reavivado pelo demônio, ele aniquilou Darkwill na frente de todos os seus seguidores. O trono, agora vazio, foi completamente destruído. 
+A visão de Swain para o futuro de Noxus envolve a força por meio da unidade. Ele retirou os exércitos das campanhas de Darkwill, já fadadas ao fracasso, e estabeleceu o Trifarix para eliminar a possibilidade de um governo individual e soberano. Ele acolhe todos os que juram fidelidade ao império - até a Rosa Negra, mesmo que saiba secretamente que ainda conspiram contra ele.
+Coletando conhecimentos tal qual o demônio que o precedeu, Swain já foi capaz de prever grandes perigos ocultos. Apesar disso, muitos noxianos se perguntam se a escuridão que eles enfrentam agora não será pequena em comparação aos feitos sombrios de Swain…
+Os sacrifícios estão recém começando - pelo bem de Noxus.
+

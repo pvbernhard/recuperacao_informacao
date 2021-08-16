@@ -1,0 +1,34 @@
+Tahm Kench, o Rei do Rio
+Suporte, Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/TahmKench.png
+
+Um Gosto Adquirido
+Tahm Kench usa o próprio corpo para impulsionar os Ataques, causando dano adicional com base na Vida total dele. Causar dano a Campeões inimigos aumenta os acúmulos de Um Gosto Adquirido. Com três acúmulos, ele pode usar Devorar em um Campeão inimigo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/TahmKenchP.png
+
+Língua-chicote
+Tahm Kench ataca com a língua, causando dano e Lentidão à primeira unidade atingida. Aplica um acúmulo de Um Gosto Adquirido a Campeões inimigos. Se o Campeão já tiver 3 acúmulos de Um Gosto Adquirido, ele será Atordoado e os acúmulos serão consumidos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TahmKenchQ.png
+
+Mergulho Abissal
+Mergulha e reaparece no local-alvo, causando dano e Arremessando ao ar todos os inimigos em uma área.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TahmKenchW.png
+
+Pele Grossa
+Passivo: Tahm Kench armazena uma porcentagem do dano sofrido e se cura com base nela quando fora de combate. Ativo: converte todo o dano armazenado em um Escudo temporário.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TahmKenchE.png
+
+Devorar
+Tahm Kench devora um Campeão por alguns segundos, causando Dano Mágico se for um inimigo ou concedendo Escudo se for um aliado.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/TahmKenchRWrapper.png
+
+Conhecido por muitos nomes ao longo da história, Tahm Kench viaja pelas águas de Runeterra alimentando seu insaciável apetite com o sofrimento alheio. Apesar de parecer particularmente encantador e orgulhoso, ele vaga pelo reino físico como um andarilho em busca de presas desavisadas. Sua língua pode atordoar até o guerreiro mais blindado a uma grande distância, e cair em sua barriga retumbante é como cair em um abismo do qual não há esperança de sair.
+
+Os rios de Valoran são antigos, mas ainda mais antigo é o demônio Tahm Kench. De casas de jogos de azar lamacentas ao longo de todo o Rio Serpentino, por todos os salões de dados de Águas de Sentina, até às mesas douradas de apostas em Piltover e Zaun — todos que já olharam a riqueza de outro com desejo conhecem a fome sem fim que vem de um encontro com o Rei do Rio.
+As primeiras histórias da criatura foram contadas por viajantes que andavam ao longo do Serpentino. Elas falavam de um peixe gigante com uma boca cavernosa, que atrai os insatisfeitos com promessas de algo mais. Uma dessas histórias é sobre um jovem conhecido por sua honestidade. Apesar de ter nascido em uma família de balseiros, ele desejava uma vida longe das margens pobres que ele conhecia tão bem, e o Rei do Rio prometeu a ele uma experiência inesquecível se o jovem contasse apenas uma mentirinha. Parecia algo inofensivo, então o balseiro enevoou um pouco a verdade em uma conversa com seu irmão. Naquela noite, o demônio apareceu a ele, revelando uma bifurcação no rio que o balseiro nunca notara antes. Ele seguiu o caminho até um acampamento de estrangeiros que lhe ofereceram comida e bebida, e companhias novas. Perto do amanhecer, quando o balseiro estava satisfeito e pronto para voltar ao seu povo, o demônio apareceu novamente, prometendo uma experiência ainda mais incrível em troca de outra mentira. Com um interesse renovado, o homem aceitou o acordo, contando mentiras aos seus anfitriões. O rio abriu-se novamente e ele seguiu a corrente para uma noite ainda mais luxuosa. Isso continuou, noite após noite, até que o balseiro, que já não era mais honesto, mentia tanto quanto respirava.
+Quando o rio finalmente desaguou no mar, ele se viu sozinho e perdido. Não havia mais ninguém para quem mentir. Tantas más escolhas, todas feitas por ele, levaram o balseiro a um ponto onde não voltaria mais ao seu lar.
+Os rios salgados do continente carregaram as histórias do Rei do Rio para as Ilhas da Chama Azul, onde a criatura ganhou um nome quando sua lenda cresceu: Tahm Kench. Em Águas de Sentina, a fortuna cresce ou desaparece, com a maré trazendo e levando riquezas. Muitas tavernas tecem contos do velho Tahm, um demônio d’água com um apetite sem fim por jogos de azar, tanto que a criatura loquaz se tornou um símbolo para muitas casas de apostas e salões do pecado.
+Assim que os Portões do Sol liberaram o comércio de Águas de Sentina a Piltover, contos sobre Tahm Kench se tornaram mais comuns na Cidade do Progresso e no distrito logo abaixo dela, Zaun. Lá, as crianças conhecem Tahm como “Dois-Casacos”, um peixe tão monstruosamente grande, que ele precisa usar duas jaquetas luxuosas costuradas juntas. Com uma cartola charmosa e um sorriso mais largo do que o próprio rio Pilt, ele guia a inveja dos jovens artífices. Dizem que ele apareceu para uma inventora piltovense no Dia do Progresso e ofereceu a ela uma ideia que certamente faria com que um clã rico a notasse. Tudo que ele pediu em troca foi uma única mecha do seu cabelo. A mulher ambiciosa fez a troca e, como dito, ela conseguiu um contrato lucrativo com seu trabalho. Só que uma invenção não era o suficiente, então o Dois-Casacos voltou, dessa vez pedindo por todas as suas lindas tranças. Sem querer desapontar seus mecenas, a inventora concordou e o Dois-Casacos comeu as tranças ali mesmo. Ainda assim, ela não conseguia encontrar aquela grande inovação que a faria famosa. O demônio voltou mais uma vez, oferecendo um acordo pedindo a ponta de um dedo. Na semana seguinte, uma orelha. Um ano passou e sobrara muito pouco que ela pudesse dar. Finalmente, ela mesma chamou o Dois-Casacos, implorando que ele fizesse tudo parar.
+Ele riu enquanto abria a boca, falando que ele a protegeria dela mesma, e prontamente a engoliu inteira.
+O Rei do Rio. O Grande Meneador. Velho Barriga de Bocejo. Dois-Casacos. O demônio Tahm Kench é conhecido por muitos nomes, mas todos que falam deles aprenderam uma verdade singular: não importa quão tentadoras suas palavras sejam, você vai se perder na boca dele.
+

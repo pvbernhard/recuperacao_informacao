@@ -1,0 +1,38 @@
+Vladimir, o Sanguinário Escarlate
+Mago
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Vladimir.png
+
+Pacto Vermelho
+Cada 40 pontos de Vida adicional concedem 1 de Poder de Habilidade a Vladimir, e cada 1 ponto de Poder de Habilidade concede a Vladimir 1,4 de Vida adicional (não acumula consigo mesmo).
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/VladimirP.png
+
+Transfusão
+Vladimir rouba vida do inimigo-alvo. Quando sua reserva estiver cheia, Transfusão terá os benefícios de dano e cura drasticamente aumentados por um breve período.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/VladimirQ.png
+
+Poça de Sangue
+Vladimir mergulha numa poça de sangue, tornando-se inalvejável por 2s. Além disso, inimigos na poça sofrem redução de Velocidade de Movimento e Vladimir drena Vida deles.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/VladimirSanguinePool.png
+
+Maré de Sangue
+Vladimir paga com a própria Vida para carregar uma reserva de sangue que, quando desferida, causa dano em área ao seu redor, mas pode ser bloqueada por unidades inimigas.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/VladimirE.png
+
+Hemopraga
+Vladimir infecta uma área com uma praga virulenta. Inimigos afetados recebem dano crescente enquanto durar o efeito. Depois de alguns segundos, Hemopraga causa Dano Mágico aos inimigos infectados e cura Vladimir a cada Campeão inimigo atingido.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/VladimirHemoplague.png
+
+Um demônio sedento pelo sangue dos mortais, Vladimir tem influenciado os acontecimentos de Noxus desde os primórdios do império. Além de ter estendido sua vida por meios não naturais, sua maestria em hemomancia o permite controlar as mentes e corpos de outros como se fossem os seus. Nos exuberantes salões da aristocracia noxiana, isso possibilitou que construísse um culto fanático de personalidades ao seu redor, tudo isso para que ele possa sangrar seus inimigos nos becos escuros.
+
+Um mestre de feitiçaria antiga e proibida, Vladimir faz parte dos enigmas mais antigos de Noxus. Ele estava presente no alvorecer do império e, desde então, tem tecido sua influência nas profundezas das suas fundações… mas ele pouco lembra sobre esses dias. Sua mente é mortal, então a maior parte da sua vida estendida por meios não naturais persiste não na sua memória, mas nas suas crônicas.
+A história perdeu o rastro de Vladimir em muitas ocasiões, apesar de suas páginas estarem repletas de figuras que se suspeita terem sido ele. Conta a lenda sobre um príncipe em um reino ameaçado pelos infames darkin, quando uma grande guerra tomou conta de Valoran. Com a coroa de seu pai em risco e muitos mais herdeiros à frente dele na linha de sucessão, o jovem desafortunado foi dado como refém aos deuses-guerreiros caídos.
+Os mortais eram pouco mais do que gado sob a tirania dos darkin, sua supremacia era evidente nos feitiços que teciam: as artes de moldar a carne e transmutar sangue, que concediam a eles domínio da própria vida.
+Acreditando estar acima de outros vassalos mortais e, portanto, ser digno de tal poder, Vladimir foi o primeiro de sua espécie autorizado a estudar essa magia horrenda. Sua devoção garantiu a ele um lugar privilegiado no batalhão do seu patrono, assim como o direito de praticar hemomancia e de impor a vontade dos darkin sobre seres inferiores. Ao longo do tempo, o deus-guerreiro observou com divertimento enquanto Vladimir passou a governar seus súditos com tão pouca misericórdia quanto os próprios darkin.
+Mas mesmo a queda destes tiranos cruéis é apenas contada por lendas. Um relato de tal evento, escrito na língua morta do alto shurimane, é mantido escondido dentro do Bastião Imortal. Ele especula que o mestre de Vladimir não foi aprisionado como muitos outros da sua espécie, mas que morreu nas mãos de seu próprio batalhão. Os poucos mortais sobreviventes fugiram, levando qualquer conhecimento que tinham sobre magia de sangue com eles.
+Ninguém além de Vladimir sabia, mas fora ele quem dera o golpe final. Coberto em cicatrizes, cego e levado à loucura pelo esplendor da ruína de um darkin, ele absorveu poder suficiente para recuperar um corpo que nunca fora feito para durar mais do que uma vida mortal.
+E ele fez isso inúmeras vezes desde então, através de rituais hediondos demais para serem descritos.
+Diziam que, no ápice do reino sombrio de Mordekaiser, uma criatura mítica e sanguinária assombrava os penhascos do leste de Valoran, exigindo vidas de jovens e a veneração de tribos locais. Poucos eram bem-vindos em seu covil, até o dia em que uma feiticeira pálida se aproximou deste deus bárbaro com uma oferta. Os dois jantaram juntos como iguais, tecendo magia tão negra que o vinho na mesa azedou e as rosas murcharam, seu vermelho brilhante se tornando preto.
+Assim começou o pacto entre Vladimir e LeBlanc, repleto de disputas e jogos políticos e de guerra. Ao longo dos séculos, outros se juntaram e eles: nobres poderosos, mestres da magia exaltados e seres ainda mais sombrios. Esta seita cresceu até se tornar o poder oculto que guiaria o trono de Noxus por mais de mil anos, orquestrando muitas das campanhas mais ambiciosas do império.
+Diferente dos outros líderes da Rosa Negra, Vladimir raramente se limitou a planejar nas sombras. No passado, ele ousou se juntar às cortes nobres de Noxus durante os períodos mais interessantes, somente para desaparecer em reclusão décadas depois, sua idade avançada (assim como as atrocidades que sua feitiçaria podia causar) sendo um segredo muito bem guardado. Mesmo assim, sob a tutela de Vladimir, a arte da hemomancia encontrou um lugar entre os exércitos de Noxus e descendentes da antiga aristocracia. Dentre os diversos praticantes está o Círculo Carmesim, um culto jovem dedicado tanto à figura de Vladimir quando à própria magia de sangue. Com a morte do antigo Grande General e a ascensão de Jericho Swain, o cenário político do império mudou radicalmente e Vladimir foi forçado a erguer-se novamente.
+Usando a aparência de um membro benevolente da alta sociedade, ele retornou aos olhares públicos como um oponente expressivo do conselho Trifarix… para a grande preocupação dos membros mais cautelosos da Rosa Negra. De fato, seu reaparecimento pode ter vindo cedo demais, pois o tempo ainda não apagara as manchas da sua vida anterior, e é possível que o próprio Swain tenha começado a compreender a verdadeira natureza de Vladimir. Com um conflito novo e mais sombrio se aproximando de Noxus, Vladimir bebe com prazer a vitalidade renovada do império, lembrando a si mesmo sobre suas glórias passadas. Para ele, esta vida é apenas uma diversão, uma festa à fantasia de muitos séculos, e um prólogo para a grandeza; pois, apesar dos darkin terem acabado lutando entre si e perdido seu domínio imortal sobre o mundo, Vladimir sabia que era mais forte sozinho.
+

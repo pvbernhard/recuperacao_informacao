@@ -1,0 +1,41 @@
+Orianna, a Donzela Mecânica
+Mago, Suporte
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Orianna.png
+
+Dando Corda
+Os Ataques de Orianna causam Dano Mágico adicional. O dano aumenta a cada vez que ela Ataca o mesmo alvo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/OriannaPassive.png
+
+Comando: Atacar
+Orianna comanda sua Esfera para avançar no local-alvo, causando Dano Mágico ao longo do caminho (causa menos dano a alvos subsequentes). A Esfera permanece no mesmo lugar após o comando.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OrianaIzunaCommand.png
+
+Comando: Dissonância
+Orianna comanda que sua Esfera desfira um pulso de energia, causando Dano Mágico ao seu redor. Isso deixa para trás um campo que aumenta a Velocidade de Movimento de aliados e causa Lentidão aos inimigos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OrianaDissonanceCommand.png
+
+Comando: Proteger
+Orianna comanda que sua Esfera se prenda a um Campeão aliado, concedendo a ele um Escudo e causando Dano Mágico a qualquer inimigo que ela atravessar em seu trajeto. Além disso, a Esfera concede Armadura e Resistência Mágica adicionais ao Campeão ao qual estiver presa.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OrianaRedactCommand.png
+
+Comando: Onda de Choque
+Orianna comanda sua Esfera para desferir uma onda de choque, causando Dano Mágico e deslocando inimigos próximos em direção à Esfera após um curto intervalo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OrianaDetonateCommand.png
+
+Orianna já foi uma menina curiosa de carne e osso, mas agora é uma maravilha tecnológica composta inteiramente de engrenagens. Ela ficou terrivelmente doente depois de um acidente em um dos distritos inferiores de Zaun e seu corpo enfraquecido teve que ser substituído por mecanismos requintados, peça por peça. Acompanhada por uma esfera de cobre extraordinária que ela construiu para companhia e proteção, Orianna agora é livre para explorar as maravilhas de Piltover e além.
+
+Espremida entre as vistosas vitrines de Piltover, estava a oficina do renomado artífice Corin Reveck. Famoso por seu trabalho magistral em membros artificiais, os intrincados projetos em latão de Corin deixavam as próteses mais bonitas e, muitas vezes, superiores aos originais. Sua filha, Orianna, era sua aprendiz – companheira e questionadora, ela tinha um talento nato para administrar a loja e acabou se tornando uma habilidosa artesã por mérito próprio.
+Orianna tinha um espírito aventureiro, mas seu pai, temendo por sua segurança, nunca permitia que ela se arriscasse para além dos limites da vizinhança. Em vez disso, ele a levava ao teatro, onde dançarinos, com saltos e piruetas, contavam histórias de terras distantes. Orianna sonhava em visitar esses lugares estranhos e maravilhosos e corria para casa para construir seus próprios dançarinos mecânicos.
+Certo dia, notícias de um desastre na cidade de Zaun chegaram até a loja. Uma explosão causou a ruptura de uma tubulação química, liberando nuvens de gás tóxico. Orianna insistiu que queria ajudar as vítimas, mas Corin a proibiu. Zaun era muito perigosa.
+Sendo assim, com o máximo de suprimentos que conseguia carregar, ela saiu escondida e desceu pelo elevador hexadráulico até as profundezas.
+A devastação era estarrecedora. Os detritos ainda enchiam as ruas e os zaunitas circulavam pela neblina tóxica com os rostos cobertos com trapos imundos. Noite após noite, Orianna consertava respiradores e instalava esofiltros. Ela deu até sua própria máscara para uma criança que mal conseguia respirar.
+Seu pai ficou furioso, e logo após retornar, Orianna ficou muito doente. Seus pulmões estavam gravemente comprometidos e não tinham a menor chance de recuperação. Recusando-se a aceitar isso, Corin deu início ao seu projeto mais ambicioso: um conjunto totalmente funcional de pulmões artificiais.
+Após semanas de noites em claro, ele finalizou sua tarefa e fez a cirurgia sozinho. Para impedir que ela se aventurasse tão longe novamente, os pulmões tinham uma chave especial que Corin guardava em seu cofre.
+Orianna voltou ao trabalho, mas o veneno continuou se espalhando por seu corpo. Pai e filha trabalharam incessantemente para desenvolver novos implantes e próteses para substituir cada um de seus órgãos conforme eles falhavam. Pedaço a pedaço, o corpo de Orianna deixava de ser mortal e passava a ser mecânico, até que restou somente seu coração. Este longo e custoso processo acabou com a fortuna de Corin, forçando-o a mover seu negócio para Zaun... mas ele salvou a vida de sua filha. Por um bom tempo, eles foram felizes.
+Mas, aos poucos, Orianna começou a se sentir desconectada de quem ela era antes. As antigas memórias pareciam nada mais que histórias. Até sua criatividade começou a sumir, e seus amados dançarinos deixaram de ser obras de arte, tornando-se meras peças mecânicas perfeitamente criadas.
+Porém, ainda que o tempo não passasse para Orianna, ele começava a pesar para o seu pai.
+Os longos anos de fome e pobreza trouxeram espasmos agonizantes a Corin. Ele ficou impossibilitado de trabalhar e, assim, Orianna passou a ser a provedora. Ela se dedicou intensamente a criar seus bonecos, mesmo lembrando apenas vagamente do que costumava ser sua fonte de inspiração. Os pequenos dançarinos rendiam um bom dinheiro, mas nunca o bastante para pagar pela única coisa que ela acreditava ser a salvação de seu pai. Para conseguir isso, ela recorreu a um barão químico da região.
+Orianna nunca perguntou como ele tinha conseguido um cristal hextec. Ela simplesmente pagou o preço cobrado por ele. Mesmo assim, antes que ela pudesse usá-lo, o barão químico pediu um segundo pagamento. Depois um terceiro. Quando o dinheiro acabou, Orianna sabia que a próxima visita dele terminaria em violência. Ela olhou para o dispositivo de cristal, ainda inacabado, muito bruto e poderoso para um corpo humano, e viu a solução mais lógica: ela não precisava mais de seu coração humano e Corin precisava de um coração que nunca fosse tirado dele. Ela passou semanas se preparando, construindo um orbe mecânico, integrando-o aos seus próprios mecanismos, preparando-o para abrigar o cristal para que ela pudesse se defender quando chegasse a hora. Com seu pai em sono profundo, ela iniciou a cirurgia.
+Corin agora tinha em seu peito a última coisa que restava da filha que tanto amara. Ela ouviu as batidas ritmadas do coração dele ao longo da noite e o zumbido silencioso da bela esfera hextec ao seu lado. Só então ela se deu conta de que tinha perdido o último resquício de humanidade que havia dentro dela. Mas não sentiu medo nem remorso, apenas aceitou. Ela se transformou em algo completamente novo, uma dama mecânica, e precisava descobrir em qual lugar da vasta engrenagem do mundo poderia se encaixar.
+Na madrugada, ela pegou a chave que dava corda em seus pulmões e um único batimento de sua esfera a soldou com firmeza em suas costas. E, então, ela partiu para sempre.
+Corin acordou e encontrou a loja cheia de bonecos. Mas, entre eles, havia um que ele jurou nunca vender: uma dançarina dourada que não precisava de chave e girava sem parar.

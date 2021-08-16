@@ -1,0 +1,47 @@
+Yorick, o Pastor de Almas
+Lutador, Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Yorick.png
+
+Pastor de Almas
+<font color='#FF9900'>A Horda Maldita: Yorick pode invocar Andarilhos da Névoa e atacar inimigos próximos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Yorick_P.png
+
+Extrema-Unção
+Yorick causa dano adicional em seu próximo ataque, além de curar a si mesmo. Se o alvo for abatido, uma cova será aberta.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/YorickQ.png
+
+Procissão Sombria
+Yorick invoca uma parede destrutível no local-alvo, que bloqueará a movimentação de inimigos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/YorickW.png
+
+Névoa dos Lamentos
+Yorick arremessa um glóbulo de Névoa Negra que causa dano, redução de velocidade e marca inimigos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/YorickE.png
+
+Louvor das Ilhas
+Yorick invoca a Donzela da Névoa, que faz com que seus ataques contra os alvos dela causem dano adicional. A Donzela também faz surgir Andarilhos automaticamente a partir de inimigos mortos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/YorickR.png
+
+Último sobrevivente de uma ordem religiosa há muito esquecida, Yorick é ao mesmo tempo abençoado e amaldiçoado pelo poder que exerce sobre os mortos. Preso nas Ilhas das Sombras, suas únicas companhias são os defuntos e espíritos atormentados que ele atrai para si. As ações monstruosas de Yorick mascaram seu nobre propósito: libertar sua terra da maldição da Ruína.
+
+Último sobrevivente de uma ordem religiosa há muito esquecida, Yorick é ao mesmo tempo abençoado e amaldiçoado pelo poder que exerce sobre os mortos. Preso nas Ilhas das Sombras, suas únicas companhias são os defuntos e espíritos atormentados que ele atrai para si. As ações monstruosas de Yorick mascaram seu nobre propósito: libertar sua terra da maldição da Ruína.
+Desde sua infância, a vida de Yorick nunca foi normal. Ele foi criado em uma vila de pescadores no ponto mais extremo das Ilhas das Bênçãos e sempre lutou por aceitação. Enquanto a maioria das crianças da sua idade brincavam de esconde-esconde, o jovem Yorick fazia amizades diferentes—com os espíritos daqueles que haviam partido recentemente.
+No início, Yorick ficava aterrorizado com sua capacidade de ver e escutar os mortos. Quando alguém morria na vila, Yorick passava a noite inteira acordado, esperando pelo clamor de um novo visitante. Ele não conseguia entender porque eles o atormentavam, e porque seus pais achavam que os espíritos não passavam de pesadelos.
+Com o passar do tempo, ele percebeu que as almas não estavam ali para lhe fazer mal. Elas estavam simplesmente perdidas e precisavam de ajuda para encontrar o caminho do além. Como apenas Yorick conseguia ver esses espíritos, ele assumiu a responsabilidade de lhes guiar, acompanhando-os pelo desconhecido até a eternidade.
+Era uma tarefa dolorosa. Yorick gostava da companhia dos fantasmas, mas sempre que guiava um deles para o descanso final, tinha que dizer adeus a um amigo. Para os mortos, ele era uma espécie de salvador, mas para os vivos, ele era um desgosto. Os aldeões só enxergavam um garotinho perturbado que falava com pessoas que não estavam ali.
+As histórias sobre as visões de Yorick romperam as fronteiras da Vila e atraíram a atenção de uma pequena ordem de monges que habitavam o coração das Ilhas das Bênçãos. Seus emissários viajaram para a ilha de Yorick, com a ideia de que ele poderia ter algum valor para a ordem.
+Yorick concordou em ir até o monastério, e lá ele aprendeu os segredos da Irmandade do Crepúsculo e o real significado de seus ornamentos. Cada monge carregava uma espada como símbolo de seu dever de conduzir ritos fúnebres que garantiam que as almas não se perderiam em suas jornadas. E cada irmão usava um frasco de água retirada da fonte sagrada das Ilhas das Bênçãos. Essas Lágrimas da Vida representavam o dever dos monges de curar os vivos.
+Porém, apesar de todas as tentativas, Yorick nunca conseguiu a aprovação dos outros monges. Para eles, Yorick era a prova viva de coisas que só deveriam existir por meio da fé. Eles invejavam seu poder de perceber facilmente o que eles próprios passavam a vida inteira tentando compreender. Renegado por seus irmãos, Yorick mais uma vez se viu sozinho.
+Em uma bela manhã, enquanto cumpria suas tarefas no cemitério, Yorick foi surpreendido pela visão de uma nuvem incrivelmente escura que agitava a superfície das Ilhas das Bênçãos, destruindo tudo pelo caminho. Yorick tentou correr, mas a nuvem rapidamente o envolveu e o puxou para as sombras.
+Ao redor de Yorick, seres vivos se contorciam e gritavam, tomados pela abominável magia da Névoa Negra. Pessoas, animais e até plantas começaram a se transformar em versões fantasmagóricas e aterrorizantes de si mesmos. Sussurros emanavam do ar que o cercava, e seus irmãos começaram a quebrar os frascos de água sagrada que carregavam no pescoço, como se os mesmos fossem responsáveis por essa grande tormenta. Instantes depois, Yorick testemunhou, aterrorizado, as almas dos monges serem arrancadas de seus corpos, deixando cadáveres frios e pálidos para trás.
+Quando os gritos de seus irmãos abrandaram, somente Yorick podia ouvir as vozes no interior da sombra.
+'Retire-o. Junte-se a nós. Seremos um só.'
+Ele sentiu seus dedos agarrarem o frasco em seu pescoço. Reunindo todas as suas forças, Yorick conseguiu retirar as mãos do pescoço e ordenar que as almas parassem de uivar. A Névoa Negra se contorceu violentamente e a escuridão tomou conta dele.
+Quando Yorick acordou, os ventos haviam se acalmado e as terras outrora férteis tinham se transformado em uma grotesca versão das Ilhas das Sombras. Porções isoladas de Névoa Negra se agarraram a ele, tentando dominar o único ser vivo que ainda restava. Enquanto a Névoa o envolvia, Yorick viu que ela subitamente recuou, se afastando do frasco em seu pescoço. Yorick segurou a água sagrada, percebendo que ela era o que o havia mantido vivo.
+Nos dias seguintes, Yorick vasculhou as ilhas em busca de sobreviventes, mas encontrou apenas vestígios de quem um dia vivera ali. Aonde quer que andasse, ele via os espíritos miseráveis ascendendo dos corpos dos mortos.
+Enquanto fazia suas buscas, Yorick calmamente remontou os eventos que levaram ao cataclisma: Um rei chegara para ressuscitar sua rainha, mas em vez disso, tinha condenado as Ilhas e tudo que existia nelas.
+Yorick queria encontrar esse 'Rei Arruinado' e reverter a maldição que ele lançara. Mas ele se sentia impotente frente a aparentemente interminável decadência a sua volta.
+Quase perdido em seu luto, Yorick começou a falar com os espíritos que o rodeavam, tentando encontrar conforto neles, como fazia quando era criança. Porém, enquanto estava em comunhão com a Névoa, os cadáveres começaram a deixar seus túmulos, guiados por sua voz. Ele percebeu que os cadáveres que um dia enterrara, agora estavam sob o seu comando.
+Um faísca de esperança se acendeu no âmago do seu desespero. Para libertar os mortos das Ilhas das Sombras, Yorick precisaria incorporar o poder e a força deles.
+E para quebrar a maldição, ele precisaria usá-los.
+

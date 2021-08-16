@@ -1,0 +1,40 @@
+Sejuani, a Fúria do Norte
+Tanque, Lutador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Sejuani.png
+
+Fúria do Norte
+Após ficar fora de combate, Sejuani recebe Armadura Congelada, que concede Armadura, Resistência Mágica e imunidade a reduções de velocidade. Armadura Congelada persiste por um curto período após Sejuani sofrer dano e  Sejuani pode causar dano a um inimigo atordoado para estilhaçá-la, causando muito Dano Mágico.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Sejuani_passive.png
+
+Ataque do Ártico
+Sejuani avança em investida, lançando os inimigos pelos ares. A investida cessa após acertar um Campeão inimigo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SejuaniQ.png
+
+Ira do Inverno
+Sejuani usa a maça duas vezes, causando dano e aplicando acúmulos de Congelar.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SejuaniW.png
+
+Congelamento Permanente
+Sejuani congela e atordoa um Campeão inimigo que tiver o máximo de acúmulos de Congelar.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SejuaniE.png
+
+Prisão Glacial
+Sejuani arremessa sua boleadeira, congelando e atordoando o primeiro Campeão que acertar, criando uma tempestade de gelo que causa lentidão aos demais inimigos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/SejuaniR.png
+
+Sejuani é a mãe de guerra Glacinata brutal e implacável da Garra do Inverno, uma das tribos mais temidas de Freljord. A sobrevivência de seu povo é uma batalha constante e desesperada contra os elementos, forçando-os a pilhar noxianos, demacianos e avarosianos para sobreviver aos invernos severos. A própria Sejuani lidera os ataques mais perigosos, montada no seu javali drüvask, Bristle, usando seu mangual de Gelo Verdadeiro para congelar e despedaçar seus inimigos.
+
+Sejuani nasceu de um casamento político que terminou de maneira tão fria quanto começou.  Sua mãe, a guerreira Glacinata Kalkia, da Garra do Inverno, abandonou sua nova família para ir em busca do homem que tinha conquistado seu coração anos atrás. Sem uma jovem mãe de guerra para governar, a tribo caiu em declínio.
+Sejuani foi então criada por sua avó, Hejian. Embora Sejuani fizesse de tudo para conquistar o amor de Hejian, ela nunca conseguiu atender às severas expectativas da avó. À medida que as dificuldades da tribo aumentavam, Hejian tinha ainda menos tempo para a menina.
+Riqueza, amor, segurança, eram coisas que Sejuani só experimentara de segunda mão, nas suas visitas à tribo vizinha da Garra do Inverno, os Avarosianos. Todo verão, Grena, a guerreira mais famosa da região, levava Sejuani para sua casa. Depois de descobrir que Grena já tinha derrotado Kalkia em um duelo, a mãe de guerra avarosiana tornou-se imediatamente o ídolo de Sejuani... e a filha de Grena, Ashe, era a única pessoa que ela realmente considerava como amiga.
+Quando Grena questionou a avó da garota quanto ao tratamento dado a ela, Hejian cortou relações com os avarosianos. Depois disso, a Garra do Inverno, envolveu-se em uma série de conflitos com tribos vizinhas, tentando recuperar as terras e a honra que havia perdido após a partida de Kalkia, mas essas táticas desesperadas só os deixaram ainda mais fracos.
+De alguma forma, Kalkia tomou conhecimento disso.
+Ao saber das dificuldades de sua tribo, ela voltou e assumiu mais uma vez o posto de mãe de guerra. Mesmo assim, a série de conflitos tinha deixado a Garra do Inverno com poucas terras e recursos, forçando-os a confiar nos Praeglacius para proteção.
+Sejuani não se conformava com isso e decidiu desafiar a mãe pela liderança da tribo. Ela fez um juramento sagrado de liderar um perigoso ataque contra um navio de guerra noxiano, na esperança de que essa façanha fosse o suficiente para deixar toda a tribo do seu lado, permitindo que ela tomasse o poder de Kalkia e dos Sacerdotes do Gelo.
+Durante esse violento ataque, Sejuani salvou um jovem drüvask do abatedouro do navio, e passou a chamá-lo de Bristle, por sua maciez. Embora ela ainda não soubesse, a criatura viria a se tornar um dos maiores drüvasks já vistos, e seguiria com Sejuani como sua fiel montaria.
+O ataque foi um sucesso, e Sejuani decidiu que estava na hora de desafiar a mãe diretamente pelo controle da tribo. Pelos costumes de seus antepassados, um duelo entre mãe e filha era uma coisa inconcebível, mas Sejuani não seria dissuadida.
+Furiosos, os Sacerdotes do Gelo se viram forçados a intervir, e Kalkia morreu antes que Sejuani pudesse chegar até ela.
+Como nova mãe de guerra da Garra do Inverno, Sejuani começou a atacar e a absorver as tribos vizinhas, consolidando seu poder e acumulando uma legião de seguidores. Sua desobediência aos Praeglacius também atraía xamãs renegados, andarilhos espirituais, Glacinatas e Diluvinatas, e adoradores impenitentes de todos os antigos deuses do outro lado de Freljord.
+Antes enfraquecidos, arruinados e mirados por seus vizinhos, agora a Garra do Inverno era temida em toda a região norte por sua agilidade, brutalidade e absoluta devoção à sua mãe de guerra.
+Hoje em dia, a cada estação, Sejuani marcha sobre as tribos do sul, sobre os invasores noxianos e até mesmo sobre as terras fronteiriças de Demacia, atacando, pilhando e dominando quem se opuser a ela. Seu grande objetivo é caçar e destruir a crescente coalisão de tribos formada pela sua amiga de infância, Ashe. Para Sejuani, a mãe de guerra avarosiana traiu não apenas sua amizade, mas, muito pior, ela traiu também o legado de Grena.
+E assim, Sejuani mostrará que somente ela mesma é digna de governar o Freljord

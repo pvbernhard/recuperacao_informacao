@@ -1,0 +1,36 @@
+Darius, a Mão de Noxus
+Lutador, Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Darius.png
+
+Hemorragia
+Os Ataques e Habilidades de dano de Darius fazem os inimigos sangrarem, causando Dano Físico ao longo de 5s e acumulando até 5 vezes. Darius se enfurece e recebe uma grande quantidade de Dano de Ataque quando o alvo alcança o máximo de acúmulos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Darius_Icon_Hemorrhage.png
+
+Dizimar
+Darius pega impulso e golpeia com seu machado em um movimento circular. Os inimigos atingidos pela lâmina recebem mais dano do que aqueles atingidos pelo cabo. Darius cura a si mesmo com base nos Campeões inimigos e monstros grandes atingidos pela lâmina.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/DariusCleave.png
+
+Ataque Mutilador
+O próximo ataque de Darius acerta uma artéria importante do inimigo. Enquanto a vítima sangra, a Velocidade de Movimento dela é reduzida.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/DariusNoxianTacticsONH.png
+
+Apreender
+Darius afia seu machado, fazendo com que seu Dano Físico ignore passivamente um percentual da Armadura do alvo. Quando ativado, Darius ataca seus inimigos com o gancho do seu machado e os puxa em sua direção.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/DariusAxeGrabCone.png
+
+Guilhotina de Noxus
+Darius salta na direção de um Campeão inimigo e o atinge com um golpe letal, causando Dano Verdadeiro. Este dano aumenta a cada acúmulo de Hemorragia no alvo. Se Guilhotina de Noxus causar o golpe final, seu Tempo de Recarga é zerado por um breve momento.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/DariusExecute.png
+
+Não há símbolo maior do poder de Noxus do que Darius, o mais temido e experiente comandante da nação. Vindo de origens humildes para se tornar a Mão de Noxus, ele corta seu caminho através dos inimigos do império; muitos dos quais são, inclusive, noxianos. Sabendo que ele nunca duvida da integridade de sua causa e que nunca hesita assim que seu machado é levantado, aqueles que desafiam o comandante da Legião Trifária não esperam por misericórdia.
+
+Darius e seu irmão Draven cresceram órfãos na cidade portuária de Basilich.   Darius lutou muito para sustentar os dois, enfrentando constantemente gangues de moleques mais velhos e qualquer um que ameaçasse seu irmãozinho - até mesmo o guarda da cidade. Todos os dias passados na rua eram uma batalha pela sobrevivência. Aos vinte anos, Darius tinha mais cicatrizes do que até mesmo alguns veteranos de guerra.
+Quando Basilich foi tomada pelo império noxiano durante a expansão de Noxus, o vitorioso comandante Cyrus reconheceu a força do espírito combativo daqueles dois irmãos, que encontraram um lar nos postos militares. Ao longo dos anos, eles lutaram em extenuantes campanhas de conquista, de um lado a outro do mundo conhecido, bem como em uma série de rebeliões contra o trono.
+Dentro do império, qualquer um podia ascender ao poder, independentemente de seu berço, cultura ou origem - e ninguém representou melhor esse ideal do que Darius. De origem humilde, ele subiu constantemente de posição, colocando sempre o dever acima de tudo. Sua agressividade, disciplina e firmeza lhe renderam o respeito dos colegas. A persistência de Darius era tanta que, certo dia, nos campos sangrentos das Planícies de Dalamor, ele resolveu decapitar um general quando viu o covarde ordenando o recuo das tropas. Berrando em revolta e brandindo o machado ensanguentado sobre a cabeça, Darius mobilizou o exército já em recuo e conquistou uma vitória grandiosa e inesperada contra um inimigo bem mais numeroso.
+Como resultado, ele foi recompensado com um comando próprio, o que atraiu milhares de recrutas ávidos de vários cantos do império. No entanto, Darius recusava a entrada da maioria, aceitando apenas os mais fortes, disciplinados e determinados. Ele se tornou tão notório e temido que, mesmo nas terras além de Noxus, era comum cidades inteiras se renderem logo à primeira vista de seus estandartes.
+Após uma dura vitória contra as fortalezas dos Varju, um povo guerreiro que havia resistido a décadas de agressão noxiana, Darius foi nomeado a Mão de Noxus pelo imperador Boram Darkwill.   Quem conhecia Darius sabia que ele não almejava poder nem adoração; seu único desejo era ver Noxus triunfar sobre todos. Assim, Darkwill ordenou que ele e suas tropas seguissem até Freljord, no longínquo norte, para finalmente subjugar as tribos bárbaras.
+A campanha durou anos e culminou em um empate frio e amargo. Darius escapou por pouco de inúmeras tentativas de assassinato, emboscadas e raptos cometidos pela feroz Garra do Inverno. Ele já estava cansado dos infinitos embates, então decidiu voltar para Noxus para exigir uma reconsolidação das forças militares.
+Darius conduziu os veteranos até a capital só para descobrir que o imperador havia sido morto em um golpe liderado por Jericho Swain. O ato havia sido apoiado por vários aliados, incluindo Draven, seu próprio irmão.
+Era uma posição difícil. Como Mão de Noxus, muitas das casas aristocráticas esperavam que Darius vingasse a memória de Darkwill, mas ele já conhecia e respeitava o desonrado general Swain. Inclusive, alguns anos antes, ele havia se manifestado contra sua expulsão após a ofensiva fracassada em Ionia. A Mão de Noxus havia jurado sua fidelidade somente à Noxus, e não a um governante em especial. Além disso, Swain era um homem que falava honestamente de sua nova visão para o império. Darius decidiu que aquele era um líder que ele estava disposto a seguir... mas Swain tinha outras ideias.
+Com o estabelecimento do Trifarix, três indivíduos governariam Noxus juntos, cada um incorporando um princípio de força: Visão, Poderio e Astúcia. Darius aceitou de bom grado seu lugar no conselho e prometeu criar uma nova força de elite - a Legião Trifariana, os guerreiros mais leais e prestigiosos que o império poderia produzir - e levar os exércitos de Noxus a uma nova e gloriosa era de conquistas.
+

@@ -1,0 +1,43 @@
+Camille, a Sombra de Aço
+Lutador, Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Camille.png
+
+Defesa Adaptativa
+Ataques básicos contra Campeões concedem um Escudo equivalente a uma porcentagem da Vida máxima de Camille contra o tipo de dano deles (Físico ou Mágico) por um breve período.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Camille_Passive.png
+
+Protocolo de Precisão
+O próximo ataque de Camille causa dano adicional e concede Velocidade de Movimento adicional. Esta habilidade pode ser conjurada novamente por um curto período de tempo, causando dano adicional consideravelmente aumentado se Camille criar um intervalo entre os dois ataques.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/CamilleQ.png
+
+Varredura Tática
+Camille faz um disparo em área de cone após um intervalo, causando dano. Inimigos na metade exterior têm sua velocidade reduzida e recebem dano adicional, ao mesmo tempo em que curam Camille.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/CamilleW.png
+
+Disparo de Gancho
+Camille puxa a si mesma na direção de uma parede, saltando e arremessando ao ar Campeões inimigos ao aterrissar.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/CamilleE.png
+
+Ultimato Hextec
+Camille avança em direção ao Campeão alvo, ancorando-o à área. Ela também causa Dano Mágico adicional ao alvo com seus ataques básicos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/CamilleR.png
+
+Munida para agir além dos limites da lei, Camille é a chefe de inteligência do Clã Ferros e uma elegante agente de elite, responsável pelo bom funcionamento da máquina de Piltover e de Zaun, seu submundo. Adaptável e precisa, ela vê técnicas medíocres como uma vergonha que precisa ser consertada. Com uma mente tão afiada quanto suas lâminas, a busca de Camille por superioridade através de aprimoramentos hextec para seu corpo fez com que muitos se perguntassem se ela é agora mais máquina do que mulher.
+
+O Clã Ferros compreende o sacrifício.
+A maior parte da fortuna de sua família vem da coleta de um raro cristal dos Brackern, criaturas nativas de Shurima. Esses cristais hex, ou "primeiros cristais", continham um poder que normalmente era manipulado apenas por aqueles que nasciam com uma habilidade mágica nata. Depois que a tia-tataravó de Camille perdeu um braço durante uma expedição, seu sacrifício despertou o lema da família Ferros: "Darei tudo pela família". Os Brackern eram um recurso limitado e a família de Camille precisava aprimorar os cristais que haviam acumulado. Utilizando investimentos obscuros em quimtec e alquimia rúnica, eles desenvolveram cristais hex sintéticos menos poderosos, mas mais fáceis de fabricar.
+Porém, as consequências foram inevitáveis: os rumores de que a produção dos cristais sintéticos contribuiu significativamente para o Cinza de Zaun. Além disso, foi por meio de espionagem, intimidação e assassinatos que o Clã Ferros estabeleceu seu monopólio dessa mercadoria inestimável e garantiu sua produção ininterrupta em Zaun, mantendo o lugar da família na ilustre Corte Ventazul de Piltover.
+Como a criança sobrevivente mais velha dos chefes do Clã Ferros, Camille recebeu todas as vantagens educacionais possíveis. Ela teve tutores excepcionais, aprendendo a falar diversas línguas estrangeiras e a tocar a cellovinna como uma concertista. Camille também aprendeu a ler e escrever em shurimane antigo enquanto acompanhava seu pai nas escavações pelo Vale de Odyn.
+Tradicionalmente, uma das jovens crianças se tornaria chefe de inteligência da família, trabalhando com o chefe do clã para garantir o sucesso de sua família a qualquer custo. Porém, Stevan, o irmão mais novo de Camille, nasceu com vários problemas de saúde, então ela assumiu seu lugar. Ele observava a irmã com inveja enquanto ela se dedicava aos estudos, vendo que ela havia adquirido habilidades excepcionais de combate, reconhecimento e interrogação.
+Quando Camille tinha 25 anos, criminosos zaunitas atacaram ela e seu pai, dispostos a roubar seus rentáveis segredos comerciais. O pai de Camille não resistiu aos ferimentos e sua mãe morreu logo depois, por não suportar a dor da perda. Stevan se tornou o chefe do clã e dobrou a pesquisa de aprimoramentos hextec em humanos de sua família, ávido para se provar um líder forte.
+Após um ano de luto, Stevan coordenou pessoalmente a posse de Hakim Nader, um jovem e promissor cristalógrafo de Bel'zhun, uma cidade litorânea de Shurima, como artífice-chefe da família.
+Camille requisitou um aprimoramento hextec de Hakim a fim de superar suas limitações humanas. Hakim se apaixonou instantaneamente por ela, e os dois acabaram ficando próximos depois de tantas preparações e histórias de Shurima contadas noite adentro... Até que, por fim, Camille retribuiu os sentimentos de Hakim. Os dois se entregaram aos seus sentimentos, pois sabiam que a cirurgia concluiria essa relação. Hakim voltaria a se dedicar a outros projetos e Camille voltaria a estar totalmente comprometida com suas funções como chefe de inteligência. Mais do que isso, Hakim temia que, ao extrair o coração de Camille, pudesse privá-la de toda a sua humanidade.
+Dias antes da operação de Camille, Hakim a pediu em casamento e implorou para que ela fugisse com ele. Pela primeira vez na vida, Camille se sentiu dividida.
+Stevan, em contrapartida, não passou por tal conflito, já que precisava de sua irmã para executar seus planos. Quando ele soube do pedido secreto, acabou elaborando um novo plano: da próxima vez que Camille e Hakim estivessem juntos, Steven fingiria que havia sido atacado. Quando ela viu seu irmão ferido e coberto de sangue, Camille reconheceu o que poderia acontecer caso não se dedicasse por completo.
+Hakim implorou, mas Camille nem sequer o ouvia mais. Ela daria tudo pela família. Camille terminou seu relacionamento com Hakim e insistiu em continuar com a cirurgia.
+Ele era o único que poderia realizar a operação com segurança, então teve que remover o coração de sua amada e trocá-lo por um hextec, completamente remodelado. Quando ela acordou, o laboratório onde dividira tantas memórias com Hakim havia desaparecido.
+Camille focou em seu trabalho. Ela ainda implementou outras melhorias, como pernas em forma de lâminas, quadris em forma de gancho e outros pequenos aprimoramentos hextec, o que fez com que muitos se perguntassem o quanto da antiga Camille ainda restava ali. À medida que o Clã Ferros acumulava mais poder e riqueza, as missões de Camille se tornavam mais obscuras e perigosas.
+Graças ao seu coração hextec, ela não envelheceu — mas o tempo não foi tão gentil com seu irmão. Contudo, mesmo com o corpo mais frágil, Stevan não abdicou do título de chefe do clã.
+Em dado momento, Camille descobriu que seu irmão a manipulava e que suas modificações não haviam sido pensadas para o bem maior da família. Naquele momento, ela se livrou do último fio de sentimento que tinha por seu irmão.
+Depois de nomear sua sobrinha-neta como chefe do clã, Camille passou a ser responsável pelos assuntos públicos da família, bem como pelas operações mais suspeitas. Como uma solucionadora de... problemas complicados, ela abraça sua transformação sobre-humana e as críticas e julgamentos que recebe, mas um lamento triste e estranho em seu coração hextec ainda pode provar ser um conturbado presságio. Camille se recusa a ficar parada, e o que a fortalece são tramas de espionagem industrial bem executadas, um chá fresquinho e longas caminhadas pelo Cinza.
+

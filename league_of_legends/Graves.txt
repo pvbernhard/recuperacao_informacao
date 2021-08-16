@@ -1,0 +1,39 @@
+Graves, o Foragido
+Atirador
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Graves.png
+
+Nova Destino
+A escopeta de Graves tem algumas propriedades únicas. Ele precisa recarregar quando sua munição acaba. Ataques disparam 4 projéteis que não podem atravessar unidades. Não Campeões atingidos por mais de um projétil são empurrados para trás.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/GravesTrueGrit.png
+
+Fim da Linha
+Graves dispara um projétil explosivo que detona após 2s, ou 0,2s caso atinja terreno.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GravesQLineSpell.png
+
+Cortina de Fumaça
+Graves atira uma bomba de fumaça na área-alvo, criando uma nuvem de fumaça que reduz o alcance de visão. Inimigos atingidos no impacto inicial sofrem Dano Mágico e têm sua Velocidade de Movimento reduzida por um curto período de tempo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GravesSmokeGrenade.png
+
+Saque Rápido
+Graves avança em linha reta, recebendo Armadura adicional por muitos segundos. Se Graves avançar em direção a um Campeão inimigo, ele recebe dois acúmulos de Bravura Indômita. Atingir inimigos com ataques básicos reduz o Tempo de Recarga dessa habilidade e redefine o efeito de resistência.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GravesMove.png
+
+Efeito Colateral
+Graves atira um projétil explosivo que causa muito dano ao primeiro campeão que acertar. Após atingir um campeão ou chegar ao seu alcance máximo, o projétil explode, causando dano em uma área em cone.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/GravesChargeShot.png
+
+Malcolm Graves, mercenário, apostador e bandido de renome, é um homem procurado em cada uma das cidades e impérios que visitou. Apesar do seu temperamento explosivo, ele é dono de uma noção rigorosa de honra entre criminosos, normalmente aplicada com o fogo da sua espingarda, Destino. Nos últimos anos, ele reconciliou uma parceria problemática com Twisted Fate e, juntos, eles prosperaram mais uma vez no tumulto do submundo criminoso de Águas de Sentina.
+
+Criado nas vielas do cais de Águas de Sentina, Malcolm Graves aprendeu rápido a lutar e a roubar, duas habilidades que lhe seriam muito úteis nos anos que viriam. Ele sempre conseguiu arrumar trabalho transportando o carregamento dos esquifes de contrabandistas que atracavam toda noite na baía — além de fazer uns bicos de segurança de várias outras figuras escusas da região, que costumavam conduzir seus negócios no porto.
+Mas as vielas eram peixe pequeno, e ele queria mais emoção do que elas poderiam oferecer. Ainda jovem, Graves roubou um bacamarte e entrou escondido em um navio que deixava Águas de Sentina rumo ao continente shurimane, onde desbravou a costa na base do roubo, da mentira e jogatina.
+Numa mesa de carteado em que as apostas eram tão altas quanto ilegais, Graves encontrou um homem que mudaria o rumo da sua vida e da sua carreira: o trapaceiro que hoje muitos conhecem como Twisted Fate.
+Cada um reconheceu de imediato no outro a paixão desenfreada pela aventura e pelo perigo. Juntos, formaram uma parceria das mais lucrativas. Com a força bruta de Graves e a lábia de Twisted Fate para resolver (e volta e meia criar) quase todo tipo de problema, não demorou para os dois virarem uma equipe altamente eficiente. O código de honra desses ladrões logo se transformou em confiança genuína, e juntos roubaram dos ricos, engambelaram os incautos e recrutaram a dedo grupos treinados para trabalhos específicos, delatando os rivais sempre que podiam. De vez em quando, Twisted Fate gastava toda a grana e deixava os dois sem eira nem beira, mas Graves sabia que uma nova aventura emocionante estava sempre prestes a despontar no horizonte...
+Nas fronteiras ao sul de Valoran, colocaram duas famílias nobres de Noxus uma contra a outra, numa trama para disfarçar o resgate de um herdeiro sequestrado. Não deveria ter sido surpresa que eles tenham embolsado a recompensa apenas para entregar o jovem de péssimo caráter a quem pagou mais. Em Piltover, ainda são conhecidos por terem sido os únicos ladrões que conseguiram abrir o Cofre Mecânico, até então supostamente impenetrável. A dupla não só limpou todos os tesouros do cofre como também convenceu os guardas do local a levarem tudo até uma escuna roubada, com a qual fugiram pelos Portões Solares.
+Os crimes eram quase sempre descobertos, quando eles e seus cúmplices já estavam a quilômetros de distância, sãos e salvos — geralmente junto com um dos famosos cartões de visita de Twisted Fate, sempre deixado num lugar de fácil acesso.
+Uma hora, porém, a sorte deles acabou.
+Durante um assalto em que tudo podia dar errado (e deu), Graves foi pego pelas autoridades locais enquanto Twisted Fate simplesmente deu no pé e abandonou o amigo.
+Jogado na infame prisão conhecida como Cacifo, Graves teve de aguentar anos de tortura e confinamento solitário, durante os quais foi alimentando o ódio por seu antigo parceiro. Um homem mais fraco teria sido destruído por tudo isso, mas não Malcolm Graves. Ele estava determinado a se vingar.
+Quando finalmente conquistou a duras penas sua liberdade, levando pendurada no ombro a escopeta novinha do carcereiro, Graves deu início à tão esperada busca por Twisted Fate.
+As pistas o levaram de volta a Águas de Sentina, onde descobriu que já havia uma nova recompensa pela captura desse pilantra safado — recompensa essa que Graves teria o maior prazer de coletar. Porém, assim que descobriu o paradeiro de Twisted Fate, os dois tiveram que deixar de lado as diferenças para escapar de uma morte quase certa em meio ao conflito interminável entre o rei dos ladrões, Gangplank, e os capitães de um navio rival.
+Mais uma vez, Graves teve de fugir de sua terra natal... só que dessa vez, ele levava seu velho amigo a reboque. Embora fosse possível que os dois quisessem retomar a parceria interrompida tantos anos atrás, um ressentimento daqueles não seria superado da noite para o dia, e levaria tempo até que Graves conseguisse confiar de novo em Twisted Fate.
+Ainda assim, ele sente Águas de Sentina o chamando de novo. Talvez agora a dupla consiga se acertar para dar o grande golpe...

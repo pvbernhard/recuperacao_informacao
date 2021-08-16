@@ -1,0 +1,29 @@
+Ziggs, o Especialista em Hexplosivos
+Mago
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Ziggs.png
+
+Pavio Curto
+Periodicamente, o próximo ataque básico de Ziggs causa Dano Mágico adicional. Esse Tempo de Recarga é reduzido sempre que Ziggs usa uma habilidade.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/ZiggsPassiveReady.png
+
+Bomba Saltitante
+Ziggs arremessa uma bomba que causa Dano Mágico.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ZiggsQ.png
+
+Carga Concentrada
+Ziggs arremessa uma carga explosiva que detona depois de 4s ou quando a habilidade é ativada novamente. A explosão causa Dano Mágico a inimigos, arremessando-os para longe. Ziggs também é empurrado, mas não recebe dano, além de poder usar Carga para Hexplodir torres inimigas vulneráveis.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ZiggsW.png
+
+Campo Minado de Hexplosivos
+Ziggs espalha minas de proximidade que detonam ao contato com inimigos, causando Dano Mágico e redução de velocidade. Várias detonações de minas no mesmo alvo causam dano reduzido.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ZiggsE.png
+
+Bomba Megainfernal
+Ziggs põe para funcionar sua maior criação, a Bomba Megainfernal, arremessando-a de uma enorme distância. Inimigos no centro da detonação recebem mais dano do que aqueles mais distantes.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/ZiggsR.png
+
+O yordle Ziggs, amante de grandes bombas e pavios curtos, é uma força explosiva da natureza. Já entediado com sua vida previsível como assistente de um inventor de Piltover, ele fez amizade com uma bombardeira louca de cabelo azul chamada Jinx. Depois de uma noite louca na cidade com sua nova amiga, Ziggs aceitou seu conselho e se mudou para Zaun, onde ele agora explora suas fascinações com mais liberdade, aterrorizando tanto os barões químicos quanto os cidadãos comuns na sua aventura sem fim por explodir coisas.
+
+Ziggs nasceu com o talento de mexer nas coisas, mas sua natureza caótica e hiperativa era incomum entre os cientistas yordles. Aspirando ser um renomado inventor como Heimerdinger, ele trabalhou loucamente em ambiciosos projetos, entusiasmado tanto por suas falhas explosivas quando por suas descobertas sem precedentes. As notícias sobre os experimentos voláteis de Ziggs alcançaram a Academia Yordle de Piltover, e seus estimados professores o convidaram para demonstrar seus feitos. Sua característica falta de preocupação com segurança fez com que a apresentação acabasse mais cedo, quando o motor hextec que Ziggs estava apresentando superaqueceu e explodiu, criando um grande buraco na parede da Academia. Após limparem a poeira de suas roupas, os professores o expulsaram. Devastado e envergonhado, ele preparou seu retorno para Bandópolis. Contudo, antes que ele pudesse partir, um grupo de agentes zaunitas se infiltrou na Academia e sequestrou seus professores. O exército de Piltover descobriu que eles estavam em uma prisão zaunita, mas suas armas eram incapazes de destruir as paredes fortificadas. Determinado a ser melhor que eles, Ziggs começou a fazer experimentos com um novo tipo de armamento, e rapidamente percebeu que poderia usar sua habilidade acidental de explodir para salvar os yordles.
+Em pouco tempo, Ziggs já havia criado uma linha de poderosas bombas que ele carinhosamente chamava de ''hexplosivos''. Com suas novas criações prontas para o primeiro teste, Ziggs viajou até Zaun e se infiltrou na prisão. Ele lançou uma bomba gigantesca e observou com felicidade enquanto a explosão acabava com as paredes reforçadas. Quando a fumaça cessou, Ziggs entrou nas instalações, colocando os guardas para correr com uma chuva de bombas. Ele correu até a cela, explodiu a porta, e levou os yordles para a liberdade. Ao retornarem para a Academia, os humilhados professores concederam a Ziggs seu título honorário - Decano das Demolições. Finalmente sendo reconhecido, Ziggs aceitou a proposta, ansioso em levar seus hexplosivos ao restante de Valoran.
+

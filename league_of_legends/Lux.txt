@@ -1,0 +1,37 @@
+Lux, a Dama da Luz
+Mago, Suporte
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Lux.png
+
+Iluminação
+As habilidades de dano de Lux carregam o alvo com energia por alguns segundos. O próximo ataque de Lux incendeia a energia, causando Dano Mágico adicional (com base no nível de Lux) ao alvo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/LuxIlluminatingFraulein.png
+
+Ligação da Luz
+Lux atira uma esfera de luz que se prende e causa dano em até duas unidades inimigas.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LuxLightBinding.png
+
+Barreira Prismática
+Lux lança sua varinha e uma luz envolve todos os aliados atingidos, protegendo-os contra dano inimigo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LuxPrismaticWave.png
+
+Singularidade Lucente
+Dispara uma luz irregular em uma área, reduzindo a velocidade de inimigos próximos. Lux pode detoná-la para causar dano aos inimigos na área de ação.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LuxLightStrikeKugel.png
+
+Centelha Final
+Após acumular energia, Lux dispara um feixe de luz que causa dano a todos os inimigos na área. Além disso, ativa a habilidade passiva de Lux e reinicia a duração do efeito de Iluminação.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/LuxR.png
+
+Luxanna Stemmaguarda nasceu em Demacia, um reino insular onde habilidades mágicas são vistas com medo e desconfiança. Capaz de dobrar a luz à sua vontade, ela cresceu temendo ser descoberta e exilada, e foi forçada a manter seus poderes em segredo a fim de preservar o status de nobreza de sua família. Apesar de tudo, o otimismo e resiliência de Lux a levaram a aceitar seus talentos únicos e agora ela os utiliza em segredo a serviço de sua terra natal.
+
+Luxanna, ou Lux, como prefere ser chamada, cresceu na cidade demaciana de Alta Pratânia, juntamente com seu irmão mais velho, Garen. Ambos nasceram na prestigiosa família Stemmaguarda, que tem servido por gerações como protetores dos reis de Demacia. Seu avô salvou a vida do rei na Batalha da Presa da Tempestade e sua tia Tianna foi nomeada comandante do regimento de elite Vanguarda Destemida antes do nascimento de Lux.
+Garen assumiu o papel de sua família com fervor, juntando-se aos militares quando ainda era apenas um garoto. Esperava-se que Lux, em sua ausência, ajudasse a administrar as muitas propriedades da família, uma tarefa da qual ela se ressentia, mesmo quando criança. Ela queria explorar o mundo, queria ver o que havia além das muralhas e fronteiras de Demacia. Ela idolatrava Garen, mas protestava contra a sua ideia de que deveria deixar suas ambições de lado.
+Para a infinita frustração dos tutores de Lux, que buscavam prepará-la para uma vida de zelo à família Stemmaguarda, ela questionava todos os ensinamentos, examinava diferentes perspectivas e buscava conhecimento muito além do que eles estavam preparados. Mesmo assim, poucos conseguiam ficar zangados com Lux e seu entusiasmo pela vida e otimismo contagiante.
+Mas mal sabiam eles que os ventos da mudança estavam se aproximando. Magia uma vez trouxe Runeterra à beira da aniquilação e Demacia tinha sido fundada como um lugar onde tais poderes eram proibidos. Muitos dos contos populares do reino falam de corações puros se corrompendo atraídos pela magia. De fato, o tio de Lux e Garen havia sido morto por um mago renegado alguns anos antes.
+E havia rumores aterrorizantes além das grandes montanhas dizendo que a magia estava se erguendo mais uma vez no mundo…
+Cavalgando para casa em uma fatídica noite, Lux e seu cavalo foram atacados por um bando de vorazes lobos-dente-de-sabre. Em um momento de medo e desespero, a jovem liberou uma torrente de luz mágica, vindo do fundo de seu ser, aprisionando as feras, mas deixando Lux tremendo de medo. Magia, o terror dos mitos demacianos, era parte de Lux tanto quanto sua linhagem Stemmaguarda.
+Medo e dúvida a consumiam. Será que existia algo de maligno dentro dela? Seria ela uma abominação a ser aprisionada ou exilada? No mínimo, se seus poderes fossem descobertos, veria o nome dos Stemmaguarda desonrado para sempre.
+Com Garen passando mais tempo longe de Alta Pratânia, Lux se viu sozinha nos salões da casa de sua família. Com o passar do tempo, ela ficou mais familiarizada com sua magia e suas noites sem dormir desejando que sua luz interior se desvanecesse se tornaram cada vez menos frequentes. Ela começou a experimentar em segredo, brincando com raios de sol nos jardins, dobrando-os em forma sólida e até mesmo criando pequenas figuras brilhantes na palma de sua mão. Ela resolveu manter isso em segredo, tanto quanto podia.
+Quando tinha dezesseis anos, Lux viajou com seus pais, Pieter e Augatha, para sua residência formal na Grande Cidade de Demacia para testemunhar a investidura de Garen nas honradas posições da Vanguarda Destemida.
+A cidade deixou Lux deslumbrada. Era um monumento aos nobres ideais do reino, cuidando e protegendo de todo e cada cidadão; e foi lá que Lux soube dos Iluminadores, uma ordem religiosa de caridade que trabalhava para auxiliar os doentes e os pobres. Em meio aos compromissos de sua família na corte, ela se aproximou de um cavaleiro da ordem chamado Kahina, que também ensinou a Lux mais habilidades marciais, lutando e treinando com ela nos jardins da mansão Stemmaguarda. Passando mais tempo na capital, Lux finalmente começou a aprender sobre o mundo mais amplo, sua diversidade e sua história. Ela agora entende que o modo de vida demaciano não é o único caminho e, com a visão clara, ela pode ver que seu amor por sua terra natal está ao lado de seu desejo de ver a cidade se tornar um lugar mais justo… e talvez um pouco mais tolerante a magos como ela.
+

@@ -1,0 +1,46 @@
+Rell, a Dama de Ferro
+Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Rell.png
+
+A Ferro e Fogo
+Rell ataca devagar, mas rouba Armadura e Resistência Mágica do alvo ao contato, causando dano adicional com base no valor roubado.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/RellP.DarkSupport.png
+
+Golpe Estilhaçador
+Rell estoca com a lança, causando Dano Mágico às unidades em linha reta e destruindo o Escudo delas. A primeira unidade atingida sofre o roubo de defesa de A Ferro e Fogo. Se Rell estiver vinculada a um aliado com Atrair e Repelir, ambos recuperarão Vida para cada Campeão inimigo atingido por essa Habilidade.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/RellQ.png
+
+Ferromante: Queda Esmagadora
+Passivo: enquanto estiver na montaria, Rell receberá Velocidade de Movimento adicional; já enquanto estiver blindada, ela receberá Armadura e Resistência Mágica adicionais. Ativo: Rell alterna suas formas, conjurando uma Habilidade diferente com base na forma. Montaria: Rell veste a armadura e cai sobre os inimigos, Arremessando-os ao ar e recebendo um grande escudo. Blindada: Rell forja a montaria, recebendo um impulso de velocidade e arremessando para trás dela o próximo inimigo que Atacar.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/RellW_Dismount.png
+
+Atrair e Repelir
+Rell vincula um pedaço de sua Armadura a outro Campeão aliado, concedendo a ele Armadura e Resistência Mágica enquanto estiverem próximos. Com um vínculo formado, Rell pode conjurar a Habilidade sem alvejar um Campeão aliado para romper a ligação e Atordoar os inimigos que estiverem em sua extensão.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/RellE.png
+
+Tempestade Magnética
+Rell explode em uma fúria magnética, Arrastando violentamente os inimigos próximos em sua direção. Ela então Arrasta os inimigos próximos em direção a si por um curto período, causando Dano Mágico ao longo do tempo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/RellR.png
+
+Produto de um experimento brutal nas mãos da Rosa Negra, Rell é uma arma humana rebelde que está determinada a destruir Noxus. Sua infância foi repleta de sofrimento e horror; a jovem teve que suportar procedimentos indescritíveis para aperfeiçoar e fortalecer seu controle mágico do metal – até que, um dia, empreendeu uma fuga violenta, matando muitos de seus captores no processo. Agora, Rell é tida como criminosa e ataca qualquer soldado noxiano que apareça diante dela. Ao mesmo tempo, procura sobreviventes de sua antiga "academia", defendendo os fracos enquanto despacha violentamente seus antigos supervisores para a morte.
+
+Cartazes espalhados por Noxus alertam a respeito de uma criminosa violenta que, armada com uma lança enorme, vaga sobre um demônio mágico como montaria. Sua mera existência é uma ameaça à segurança de toda a nação. Até mesmo alguns integrantes das fileiras da Legião Trifariana passaram a temer que o exército os mande atrás dela – ou seja, rumo à morte.
+Que tipo de monstro poderia estar por trás de uma destruição tão absoluta e abominável?
+A resposta simples é: uma garota de dezesseis anos.
+A resposta complicada é inaceitável.
+Rell já era especial no instante em que nasceu – e, por isso, estava fadada ao sofrimento. Filha de um soldado raso noxiano e da herdeira de uma família nobre que caíra em desgraça, não teve nem o luxo da riqueza nem a criação primorosa comum às crianças da baixa aristocracia. Ainda assim, seus pais tinham o grande plano de transformá-la em alguém capaz de estilhaçar o palco político inflexível de Noxus. Como sua mãe sempre dizia, "a excelência é fruto do sacrifício".
+Com o tempo, a tristeza de Rell aumentou, acendendo uma chama única dentro dela, uma magia como não se vira durante séculos: a capacidade de manipular metal. Seus pais viram nisso um potencial a ser explorado – para o bem da jovem, é claro! – e tentaram fazer com que ela fosse aceita como aprendiz por muitos magos poderosos que poderiam abrir portas da elite política ou militar. Foi tudo em vão.
+Mas outra pessoa notou a magia de Rell. Percebendo nela uma arma que poderia, um dia, enfrentar os inimigos mais antigos e odiados de Noxus, uma certa mulher pálida visitou a família, fazendo uma proposta sombria. Rell logo se viu ocupando o lugar de pupila preferida numa academia especial, oculta, distante da capital e dos olhos questionadores do conselho. E, embora raramente visitassem o internato, sua mãe e seu pai ficaram mais orgulhosos do que nunca, tomados pela esperança de um futuro brilhante para a filha.
+Pelo menos por um tempo, parecia que Rell seria, enfim, amada.
+Foi então que o horror começou.
+Rell foi obrigada a lutar com outro aluno quando tinha apenas oito anos; depois, um símbolo mágico foi enxertado dolorosamente em seu braço, ampliando seus poderes de modo a torná-la ainda mais forte. Embora o episódio tenha sido estruturado como um exercício de treino, Rell nunca mais viu o menino. Ela nunca mais veria nenhum de seus oponentes.
+Rell ficava mais poderosa a cada dia, afiando sua magia para o combate. Seu corpo estava repleto de símbolos que ampliavam suas habilidades mágicas até níveis impossíveis. Com o tempo, Rell chegou a ser capaz de arrancar um veio de minério bruto das profundezas da terra, moldar paredes na forma de armas mortais e superaquecer a armadura de um oponente até que ele desabasse, esmagando-o. Mas seus instrutores queriam ainda mais, sempre com a esperança de que Rell fosse a soldada mais poderosa que o império já vira.
+Em seu aniversário de dezesseis anos, depois de um duelo especialmente brutal, ela finalmente deu um basta. Arremessando os instrutores para o lado, Rell ultrapassou os guardas e arrebentou as portas de uma ala proibida da academia, descobrindo a verdadeira natureza de sua escola: todos os oponentes que ela já havia derrotado foram anulados – sua magia fora extraída à força e depositada nos símbolos que cobriam o corpo de Rell –, transformados em bonecos desprovidos de emoções e lembranças. Esse era o preço de seu poder, e ela nunca poderia devolvê-lo.
+O pior de tudo era a diretora da academia, que supervisionava os procedimentos pessoalmente – sua própria mãe. Tudo aquilo, dizia ela, tinha sido pelo bem de Rell. Afinal... a excelência é fruto do sacrifício.
+Rell ficou furiosa.
+Para o pequeno grupo de docentes que sobreviveram à sua fuga, foi como se a terra tivesse se aberto e revelado um redemoinho de lava cortante. O próprio edifício se partiu em pedaços, formando uma armadura preta inexpugnável em torno de Rell enquanto ela esmagava aqueles que se punham em seu caminho, derrubando soldados experientes com uma lança mais pesada que uma montanha. Irrompendo pelo portão frontal a cavalgar um corcel feito de aço cambiante, ela libertou todos os colegas de escola que pôde, enquanto a Rosa ficava para trás, tentando recuperar os anulados e apagar todos os vestígios do que sua organização havia feito.
+Mas era tarde demais. Logo os sobreviventes do corpo docente começaram a morrer de maneiras cada vez mais públicas e ficou impossível manter os anulados em segredo.
+Agora, Rell é uma ameaça a Noxus, mas não do jeito que os cartazes afirmam. Ela é a defensora autoproclamada dos fracos, dona de uma fúria incontida, desconfiada de todos e implacável na atuação contra um governo que fez vista grossa para anos de sofrimento e abuso. Não porque o império tenha sido pessoalmente responsável, mas porque não fez nada para impedir.
+Cavalgando seu corcel de aço, Rell não aceitará nada menos que a destruição total de Noxus e a salvação de qualquer criança que, como ela, tenha sobrevivido à academia da Rosa Negra.
+E nada neste mundo poderá impedi-la.
+

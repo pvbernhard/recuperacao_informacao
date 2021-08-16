@@ -1,0 +1,40 @@
+Amumu, a Múmia Triste
+Tanque, Mago
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Amumu.png
+
+Toque Amaldiçoado
+Os ataques básicos de Amumu <font color='#9b0f5f'>Amaldiçoam seus inimigos, fazendo com que recebam Dano Verdadeiro adicional de qualquer Dano Mágico causado a eles.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Amumu_Passive.png
+
+Lançar Bandagens
+Amumu lança uma bandagem pegajosa em seu alvo e se lança em sua direção, causando dano e atordoamento.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/BandageToss.png
+
+Desespero
+Tomados pela angústia, inimigos próximos perdem um percentual de sua Vida máxima a cada segundo e suas <font color='#9b0f5f'>Maldições são restauradas.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/AuraofDespair.png
+
+Chilique
+Reduz permanentemente o Dano Físico que Amumu receberia. Ele pode liberar sua fúria, causando dano a inimigos próximos. Sempre que Amumu é atingido, o Tempo de Recarga de Chilique é reduzido em 0,5 segundo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/Tantrum.png
+
+A Maldição da Múmia Triste
+Amumu amarra unidades inimigas ao seu redor com ataduras, aplicando Maldição, causando dano e atordoando-as.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/CurseoftheSadMummy.png
+
+Reza a lenda que Amumu é uma alma solitária e melancólica da antiga Shurima que vaga sem rumo pelo mundo em busca de um amigo. Amaldiçoado por um feitiço ancestral para permanecer só pela eternidade, seu toque traz a morte e sua afeição, a ruína. Aqueles que afirmam já tê-lo visto o descrevem como um morto-vivo franzino e coberto por faixas asquerosas. Amumu já inspirou tantos mitos, folclore e lendas contadas por muitas gerações, que já é impossível separar a verdade da ficção.
+
+Alma solitária e melancólica da antiga Shurima, Amumu vagueia pelo mundo em busca de um amigo. Amaldiçoado por um antigo feitiço, ele está condenado a permanecer solitário para sempre, pois seu toque traz a morte - e sua afeição, a ruína. Aqueles que dizem tê-lo visto o descrevem como um cadáver ambulante, pequeno em estatura e coberto em ataduras cor-de-líquen. Amumu já inspirou mitos, folclore e lendas contadas por muitas gerações, de forma que já é impossível separar a verdade da ficção. 
+Os destemidos habitantes de Shurima concordam em algumas coisas: o vento sempre sopra da direção oeste pela manhã; estar de barriga cheia em uma lua nova é um mau presságio; tesouros enterrados são escondidos embaixo da pedra mais pesada. No entanto, eles não chegaram a um consenso sobre o conto de Amumu. 
+Uma história muito conhecida conta que Amumu pertenceu à primeira família que governou Shurima e que esta sucumbiu a uma doença que decompunha a pele em um ritmo assombroso. Amumu, o filho mais novo, foi colocado em quarentena em seus aposentos e fez amizade com uma serviçal que ouvia seus gritos através da parede. Ela alegrava o solitário herdeiro com notícias brandas e histórias sobre os poderes místicos da avó dela. 
+Certa manhã, a garota trouxe a notícia de que o último irmão vivo de Amumu havia falecido, o que o tornava o Imperador de Shurima. Triste por ele ter que receber essa notícia sozinho, ela destrancou a porta e entrou para confortá-lo. Amumu a abraçou, mas ao se tocaram, ele se afastou, percebendo que ele a tinha condenado ao mesmo destino terrível de sua família. 
+Com a morte da garota, a avó dela lançou uma cruel praga sobre o jovem imperador. Para ela, Amumu havia assassinado sua neta. Quando a maldição fez efeito, Amumu ficou preso em seu momento de sofrimento como um gafanhoto aprisionado em âmbar. 
+O segundo conto fala sobre outros príncipes, um que era dado a crises de petulância, crueldade e vaidade assassina. Nessa história, Amumu foi coroado Imperador de Shurima ainda muito jovem e, convencido de que era abençoado pelo sol, forçou seus súditos a adorá-lo como a um deus. 
+Amumu foi em busca do fabuloso Olho de Angor, um antigo ornamento enterrado em uma cripta dourada, conhecido por dar vida eterna a quem o encarasse sem medo. Ele caçou o tesouro por anos com uma horda de escravos que o carregavam por labirintos em catacumbas, sacrificando a si mesmos em armadilhas para que o imperador pudesse seguir sem obstáculos pela frente. Amumu finalmente chegou ao arco dourado ciclopeano, onde dezenas de pedreiros suaram para conseguir abrir a porta lacrada. 
+Quando o jovem imperador entrou, determinado a olhar no Olho de Angor, seus escravos aproveitaram a oportunidade e fecharam novamente a porta, deixando-o preso. Alguns dizem que o pequeno imperador suportou a escuridão por anos, porém a solidão o levou à loucura, fazendo com que ele arrancasse a própria pele, que precisou ser coberta com ataduras. Sua vida foi estendida pelo poder do Olho enquanto ele refletia sobre suas transgressões passadas, mas a dádiva foi uma faca de dois gumes, pois ele foi amaldiçoado a passar o resto da vida só. 
+Quando uma série de terremotos devastadores abalaram as estruturas de sua tumba, o imperador fugiu sem saber quanto tempo havia se passado e buscando desfazer todo o mal que havia causado em sua vida. 
+Ainda há outra história sobre Amumu que fala sobre o primeiro e último yordle soberano de Shurima, que acreditava na bondade nata do coração humano. Para provar que seus difamadores estavam errados, ele jurou viver como um mendigo até fazer um amigo de verdade, convencido de que seu povo se disporia a ajudá-lo. 
+Embora milhares tenham passado pelo tosco yordle, ninguém parou para oferecer uma mão amiga. A tristeza de Amumu cresceu até que ele veio a falecer com o coração partido. Mas sua morte não foi o fim, pois alguns juram que o yordle ainda vagueia pelo deserto, eternamente em busca de alguém que possa restaurar sua fé na humanidade. 
+Essas histórias, apesar das diferenças, são cheias de paralelos. Em qualquer circunstância, Amumu está fadado a uma existência vazia, eternamente solitária e sem amigos. Condenado a viver procurando companhia, sua presença é amaldiçoada e seu toque é a morte. Em longas noites frias de inverno, quando o fogo não consegue queimar lentamente, pode-se ouvir a triste múmia se lamentando no deserto, aflito por nunca ter encontrado o conforto da amizade. 
+Seja o que for que Amumu procura – reparação, afinidade ou um simples gesto de afeto – uma coisa é tão certa quando o vento soprando para oeste ao alvorecer: ele ainda precisa encontrar. 
+

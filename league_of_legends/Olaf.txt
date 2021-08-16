@@ -1,0 +1,31 @@
+Olaf, o Berserker
+Lutador, Tanque
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Olaf.png
+
+Fúria Berserker
+Olaf recebe Velocidade de Ataque com base na Vida perdida dele.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Olaf_Passive.png
+
+Ressaca
+Olaf arremessa um machado no local-alvo, causando dano e Lentidão aos inimigos que atravessar. Se Olaf apanhar o machado, o Tempo de Recarga da habilidade será reduzido em 4,5s.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OlafAxeThrowCast.png
+
+Golpes Nefastos
+Olaf recebe aumento na Velocidade de Ataque, Roubo de Vida e cura proveniente de todas as origens dependendo de quanta Vida removida tiver.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OlafFrenziedStrikes.png
+
+Balanço Temerário
+Olaf ataca com tal força que causa Dano Verdadeiro a seu alvo e a si mesmo, recuperando o custo de Vida caso destrua o alvo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OlafRecklessStrike.png
+
+Ragnarok
+Olaf fica temporariamente imune a desarmes.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/OlafRagnarok.png
+
+Uma força desenfreada de destruição, Olaf e seus machados não querem nada além de morrer em um combate glorioso. Vindo da brutal península de Freljord, Lokfar, ele recebeu uma profecia que dizia que ele teria uma morte pacífica: o destino de um covarde e um grande insulto entre seu povo. Procurando pela morte e movido por sua fúria, ele destruiu tudo em seu caminho, massacrando dezenas de guerreiros e bestas lendárias em busca de um oponente que pudesse pará-lo. Agora, um executor brutal da Garra do Inverno, ele busca seu fim nas grandes guerras que estão por vir.
+
+A maioria dos homens diria que a morte é algo a ser temido; nenhum desses homens seria Olaf. O Berserker vive somente pelo bramido de um grito de guerra e da colisão das espadas. Impelido por sua fome de glória e pela maldição iminente de uma morte esquecível, Olaf se mete em qualquer briga com abandono negligente. Rendendo-se à sede de sangue que existe em si, ele somente está vivo de verdade quando agarra a morte pelas presas.
+A península costal de Lokfar está entre os lugares mais brutais de Freljord. Lá, a ira é o único fogo que aquece ossos gelados, sangue é o único líquido que flui desimpedido e não há destino pior do que o de envelhecer frágil e esquecido. Olaf era um guerreiro de Lokfar que acumulava glórias e não hesitava em compartilhá-las. Enquanto gabava-se certa noite com os homens de seu clã, com um vilarejo em brasas recentemente atacado ao fundo, um dos guerreiros anciões se cansou de sua fanfarrice. O velho lutador instigou Olaf a ler o próprio destino e ver se sua sorte ia de encontro a sua displicência. Provocado pelo desafio, Olaf zombou da inveja do velho guerreiro e jogou os ossos do punho de uma criatura morta há muito tempo para predizer as grandes glórias que alcançará em sua morte. Toda a alegria se esvaiu da congregação quando os homens leram o presságio: os ossos falavam de uma longa vida e falecimento calmo.
+Enfurecido, Olaf disparou pela noite, determinado a provar que a previsão era falsa ao encontrar e derrotar a serpente de gelo mais temida de Lokfar. O monstro havia consumido milhares, tanto homens quanto naus, em sua longa vida. Morrer em combate com ela seria um fim adequado para qualquer guerreiro. Conforme Olaf se emaranhava dentro da escuridão de sua mandíbula, aprofundou-se na escuridão da própria mente. Quando o choque de água gelada o despertou da escuridão, havia somente uma carcaça da besta, massacrada e flutuando ao seu lado. Frustrado, mas não derrotado, Olaf seguiu na caçada de cada criatura lendária com garras e presas, esperando que a próxima batalha seria sua última. Em todas as vezes ele avançou em direção à sua ansiada morte, somente para ser poupado pelo frenesi que o dominava quando chegava ao seu limite.
+Olaf concluiu que nenhuma criatura simples poderia lhe dar a morte de um guerreiro. Sua solução foi enfrentar a tribo mais temida de Freljord: a Garra do Inverno. Sejuani se impressionou com o fato de Olaf desafiar sua tribo, mas sua audácia não lhe renderia qualquer piedade. Ela ordenou o ataque e enviou um grande número de seus guerreiros para devastá-lo. Todos caíram, um por um, até ele ser tomado pela sede de sangue novamente, abrindo caminho sem esforço algum até a líder da Garra do Inverno. O choque entre Olaf e Sejuani fez tremer as geleiras com força e, embora ele tenha parecido ser indomável, ela combateu o berserker até sua paralisação. Travados em luta, o olhar de Sejuani penetrou a aura de cólera de Olaf de maneira que nenhuma arma poderia fazer. Seu frenesi se acalmou o suficiente para ela lhe fazer uma oferta: Sejuani jurou que ela encontraria para Olaf sua morte gloriosa se ele empunhasse seu machado na campanha de sua conquista. Foi nesse momento que Olaf jurou entalhar seu legado na própria Freljord.
+

@@ -1,0 +1,45 @@
+Alistar, o Minotauro
+Tanque, Suporte
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Alistar.png
+
+Urro Triunfante
+Alistar carrega seu urro ao atordoar, deslocar a posição de Campeões inimigos ou quando inimigos próximos morrem. Quando estiver com o máximo de cargas, ele cura a si mesmo e aos Campeões aliados próximos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Alistar_E.png
+
+Pulverizar
+Alistar golpeia o chão, causando dano a inimigos próximos e arremessando-os ao ar.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/Pulverize.png
+
+Cabeçada
+Alistar atinge o inimigo com sua cabeça, causando dano e jogando o alvo para trás.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/Headbutt.png
+
+Atropelar
+Alistar atropela unidades inimigas próximas, ignorando colisão com unidades e recebendo acúmulos caso cause dano a um Campeão inimigo. O próximo ataque básico com o máximo de acúmulos contra um Campeão inimigo causa Dano Mágico adicional e o atordoa.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/AlistarE.png
+
+Vontade Indestrutível
+Alistar solta um urro selvagem, removendo todos os efeitos de Controle de Grupo de si mesmo, além de reduzir o Dano Físico e Mágico enquanto durar o efeito.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/FerociousHowl.png
+
+Um poderoso guerreiro com uma temível reputação, Alistar busca vingança por seu clã, morto pelas mãos do império de Noxus. Apesar de ter sido escravizado e forçado a uma vida de gladiador, sua vontade indestrutível o impediu de se tornar uma fera de verdade. Agora, liberto das correntes dos seus antigos mestres, ele luta pelos oprimidos e desfavorecidos, sua fúria uma arma tão poderosa quanto seus chifres, cascos e punhos.
+
+Muitas civilizações resistiram a Noxus, mas nenhuma lutou tanto quanto os clãs que habitam as montanhas da Grande Barreira. Embora esses minotauros ferozes tenham protegido por séculos as rotas terrestres de comércio que levavam à antiga cidade de Zaun, eles preferiram não se envolver nos grandes conflitos de Valoran.
+O nobre guerreiro Alistar era respeitado entre todos os clãs. Nos picos das montanhas, seu brado era capaz de afugentar até mesmo os mais corajosos invasores. Só os mais imprudentes decidiam ficar e enfrentá-lo. Mesmo assim, nas assembleias do clã, ele sempre pedia para seu povo firmar parcerias mais fortes com outras raças mortais. Mas muitos viam os minotauros como reles animais, o que minava qualquer chance de interação e os mantinha à margem da sociedade.
+Foi aí que Noxus veio, com uma promessa mais atrativa. Mandaram a matriarca da Casa Tewain como emissária para anunciar que o império estava prestes a tomar Basilich, uma cidade costeira do leste. No entanto, ela jurou que não fariam nada sem o apoio dos grandes clãs das montanhas, convocando uma conferência em solo neutro.
+Muitos minotauros aceitaram a oferta sem maiores perguntas. Uma união com Noxus era uma forma de conquistar o poder e o reconhecimento que buscavam.
+Mas Alistar não se convenceu — nos últimos anos, ele encontrara muitos batedores noxianos e sabia que esse era um povo arguto e dissimulado. Por esse motivo, o clã o enviou para se reunir com Tewain, ao lado de cinquenta dos mais poderosos guerreiros, a fim de recusar qualquer tipo de aliança. Os outros clãs estavam livres para fazer o que bem entendessem, mas Alistar não aceitaria as ordens de um "Grande General" que nunca havia botado os pés na terra deles.
+Sob o disfarce de uma trégua, ele e seu povo foram traídos.
+Os clãs maiores já haviam jurado lealdade a Noxus, e os representantes desses voltaram-se contra Alistar assim que ele deixou clara a sua posição. A batalha foi rápida e sangrenta: Alistar esmagou o crânio da Senhora Tewain com as próprias mãos. Mas, logo, ele e os guerreiros sobreviventes foram presos e mandados para a capital noxiana, acusados de incitar uma rebelião.
+Os pobres minotauros foram jogados nas arenas dos Desafiadores, como parte de um sinistro festival de combate conhecido como Carnificina.
+Alistar ficou horrorizado com o canto dos espectadores, sedentos de sangue. Ele implorou que seu clã não revidasse, não cedesse às monstruosidades que os noxianos tanto desejavam...
+Vinte e um dia depois, quando o festival acabou, Alistar era o único sobrevivente da tribo. Com o público atirando pedras e frutas podres em sua direção, forçado a enfrentar Desafiador atrás de Desafiador, ele foi obrigado a lutar feito um animal — e pensar como um. Ele matou tanto que até as lembranças de sua terra natal ficaram manchadas de sangue.
+Alistar já não era mais o mesmo quando encontrou Ayelia, uma servente nas arenas. Primeiro, ele urrou e se jogou contra as grades da jaula, esperando que ela se assustasse ou o fustigasse como os outros, mas Ayelia não fez nada disso.
+Ela voltava todos os dias e falava com ele num tom de gentileza e respeito, até Alistar responder da mesma forma. A terra natal de Ayelia também fora conquistada por Noxus. Ver o sofrimento de Alistar a convenceu de que os dois deveriam deixar essa cidade abominável. Ela sussurrou seu plano com o rosto colado nas grades da jaula. Pela primeira vez em muitos anos, Alistar notou que conseguia lembrar de sua terra sem pensar na maneira como havia sido tirado de lá.
+Uma noite, Ayelia levou a chave da jaula até Alistar. Ela fizera muitos sacrifícios para organizar essa fuga, e ele jurou retribuir tudo em dobro.
+Eles correram até o rio, onde uma barca de carga os esperava. No entanto, ao embarcarem, agentes noxianos surgiram das sombras. Alistar partiu para o ataque, completamente cego pela fúria. Ayelia tentou chamá-lo várias vezes, mas ele não escutou.
+Quando Alistar terminou de trucidar os inimigos, a barca já havia partido com Ayelia, então decidiu partir a pé para o sul. Ele procurou a servente em todos os cantos, mas não a encontrou. Teria sido ela capturada? Morta? Não parecia haver pistas a serem seguidas.
+Semanas depois, um golpe político abalou as estruturas nefastas do império, e a fuga do minotauro foi esquecida.
+Alistar agora viaja sozinho, anônimo e sem levantar suspeitas, incentivando a resistência em territórios controlados pelos noxianos e lutando em nome dos oprimidos e injustiçados. Só depois de varrer a vergonha que domina seu coração, retribuindo cada gesto de bondade e crueldade, Alistar voltará às montanhas e deixará a fúria que sente para trás.
+Por todas as cidades que passa, ele pergunta sobre o paradeiro de Ayelia.
+

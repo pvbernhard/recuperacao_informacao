@@ -1,0 +1,29 @@
+Kha'Zix, o Ceifador do Vazio
+Assassino
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/champion/Khazix.png
+
+Ameaça Invisível
+Inimigos próximos que estiverem <font color='#FFF673'>isolados de seus aliados são marcados. As habilidades de Kha'Zix possuem interações com alvos <font color='#FFF673'>isolados. Quando Kha'Zix não estiver visível para a equipe inimiga, ele recebe Ameaça Invisível, fazendo com que seu próximo ataque básico contra um Campeão inimigo cause Dano Mágico adicional e reduza a velocidade do alvo por alguns segundos.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/passive/Khazix_P.png
+
+Sabor de Medo
+Causa Dano Físico ao alvo. Dano aumentado em alvos <font color='#FFF673'>Isolados. Caso ele escolha <font color='#00DD33'>Evoluir Garras Aumentadas, recupera um percentual de seu Tempo de Recarga contra alvos <font color='#FFF673'>Isolados. Kha'Zix também recebe aumento de alcance em seus ataques básicos e em Sabor de Medo.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/KhazixQ.png
+
+Espinho do Vazio
+Kha'Zix dispara espinhos explosivos que causam Dano Físico aos inimigos atingidos. Kha'Zix é curado caso esteja no raio da explosão. Caso escolha <font color='#00DD33'>Evoluir Fileiras de Espinhos, Espinho do Vazio passa a disparar três espinhos em área de cone, reduz a velocidade dos inimigos atingidos e revela Campeões inimigos atingidos por 2 segundos. Alvos <font color='#FFF673'>Isolados têm redução adicional de velocidade.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/KhazixW.png
+
+Salto
+Kha'Zix salta em uma área, causando Dano Físico ao aterrissar. Caso ele escolha <font color='#00DD33'>Evoluir Asas, o alcance do Salto é aumentado em 200 e o Tempo de Recarga é zerado com o abate ou assistência de Campeões.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/KhazixE.png
+
+Massacre do Vazio
+Cada nível permite que Kha'Zix evolua uma de suas habilidades, dando a elas um efeito único adicional. Quando ativada, Kha'Zix fica <font color='#91d7ee'>Invisível, acionando Ameaça Invisível e aumentando sua Velocidade de Movimento. Caso ele escolha <font color='#00DD33'>Evoluir Camuflagem Adaptativa, Massacre do Vazio ganha maior duração de <font color='#91d7ee'>Invisibilidade e um uso adicional.
+http://ddragon.leagueoflegends.com/cdn/11.16.1/img/spell/KhazixR.png
+
+O Vazio cresce e o Vazio se adapta, e nenhuma de suas outras criaturas incorpora isso tão bem quanto Kha'Zix. A evolução é o que impulsiona a essência desse horror mutável, nascido para sobreviver e destruir os mais fortes. Qualquer momento de dificuldades em fazê-lo só o faz criar modos novos e mais efetivos de neutralizar e matar sua presa. Inicialmente uma fera irracional, a inteligência de Kha'Zix se desenvolveu tanto quanto sua forma. Agora, a criatura planeja suas caças e até faz uso do horror visceral que causa em suas vítimas.
+
+Kha'Zix, um predador perverso do Vazio, se infiltrou em Valoran para devorar as criaturas mais promissoras desta terra. A cada abate, ele devora a força de sua presa e se torna mais poderoso. Rengar, a única criatura a qual ele considera seu equivalente, é o que ele mais deseja conquistar e consumir.
+Quando Kha'Zix cruzou a fronteira para este mundo, ele estava frágil e faminto. Os animais que ele encontrou no início eram pequenos demais para abastecer a evolução rápida que ele almejava. Kha'Zix concentrou sua fome nas criaturas mais perigosas que ele pôde encontrar, arriscando a própria vida para satisfazer sua necessidade. Com cada um dos abates ele se deliciou e mudou, tornando-se um predador mais rápido e forte. Em pouco tempo ele passou a caçar suas presas com agressão sem limites, acreditando ser irrefreável. Certo dia, enquanto saboreava uma presa recém-abatida, o predador se tornou a caça. O borrão de um bote com presas e metais o levou ao chão, rugindo em sua face enquanto golpeava e rasgava sua pele. Foi quando Kha'Zix sentiu seu sangue ser derramado pela primeira vez. Com um grito agudo de fúria, ele cravou suas garras no olho de seu atacante, jogando-o para trás. E assim lutaram do nascer ao por do sol. Ao fim, muito próximos da morte, eles relutantemente se separaram. Enquanto suas feridas se fechavam, Kha'Zix queimava de ansiedade com a ideia de devorar aquele cuja força se equiparava com a do Vazio. Ele continuou sua busca por presas poderosas e vigor renovado. Quando o dia certo chegar, Kha'Zix fará de Rengar o seu banquete.
+
