@@ -9,11 +9,17 @@ arquivos_url = 'https://raw.githubusercontent.com/pvbernhard/recuperacao_informa
 
 texto_busca = 'teste'
 
+def file_selector(folder_path='.'):
+    filenames = os.listdir(folder_path)
+    selected_filename = st.selectbox('Select a file', filenames)
+    return os.path.join(folder_path, selected_filename)
 
 with st.form(key='form'):
+  st.selectbox('Select a file', filenames)
 
   uploaded_files = st.file_uploader("Arquivos", accept_multiple_files=True)
   for uploaded_file in uploaded_files:
+
     with zipfile.ZipFile(uploaded_file.name,"r") as zip_ref:
       zip_ref.extractall()
 
