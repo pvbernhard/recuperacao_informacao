@@ -3,7 +3,6 @@ typing
 pandas
 nltk
 unidecode
-collections
 json
 ntpath
 glob
