@@ -1,6 +1,7 @@
 import streamlit as st
 import funcoes_recuperacao as sri
 import zipfile
+import os
 
 BASE_FOLDER = 'league_of_legends'
 REPRESENTACAO_FOLDER = 'representacao'
