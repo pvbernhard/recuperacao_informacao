@@ -1,6 +1,5 @@
 streamlit
 typing
-os
 pandas
 nltk
 unidecode
