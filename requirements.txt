@@ -3,4 +3,3 @@ typing
 pandas
 nltk
 unidecode
-ntpath
