@@ -328,12 +328,12 @@ def mostra_resultados(resultados: List[Dict[str, Any]],
 
       retrato = linhas[2]
 
-      st.write(f'##\# {contador} - {linhas[0]}')
+      st.write(f'## \#{contador} - {linhas[0]}')
       st.image(retrato)
 
       url = arquivos_url + '/' + id + '.txt'
       
-      st.write('Similaridade: ' + resultado.get('similaridade'))
+      st.write('Similaridade: ' + str(resultado.get('similaridade')))
       st.write(url)
       st.write('Resumo: ' + linhas[24])
 
