@@ -1,0 +1,12 @@
+streamlit
+typing
+os
+pandas
+nltk
+unidecode
+collections
+json
+ntpath
+glob
+math
+re
