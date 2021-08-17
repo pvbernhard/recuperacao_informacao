@@ -3,8 +3,4 @@ typing
 pandas
 nltk
 unidecode
-json
 ntpath
-glob
-math
-re
