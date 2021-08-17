@@ -303,7 +303,7 @@ def resultado(busca: str,
 def mostra_titulo(titulo: Union[str, bool] = False) -> None:
 
   if not bool(titulo):
-    st.markdown(f'A busca precisa ter 3 ou mais caracteres.')
+    st.markdown(f"A busca precisa ter 3 ou mais caracteres.")
   else:
     st.markdown(f'# Pesquisa: "{titulo}"')
 
@@ -328,13 +328,13 @@ def mostra_resultados(resultados: List[Dict[str, Any]],
 
       retrato = linhas[2]
 
-      st.markdown(f'## \#{contador} - {linhas[0]}')
+      st.markdown(f"## \#{contador} - {linhas[0]}")
       st.image(retrato)
 
       url = arquivos_url + '/' + id + '.txt'
       
       st.markdown('Similaridade: ' + str(resultado.get('similaridade')))
-      st.markdown(f'[Arquivo: {resultado.get('id')}]({url})')
+      st.markdown(f"[Arquivo: {resultado.get('id')}]({url})")
       st.markdown('Resumo: ' + linhas[24])
 
 
